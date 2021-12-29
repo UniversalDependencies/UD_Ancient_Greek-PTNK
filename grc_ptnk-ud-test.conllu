@@ -23,7 +23,6 @@
 7	ἀκατασκεύαστος	ἀκατασκεύαστος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	Ref=2|SpaceAfter=No
 8	,	,	PUNCT	u--------	_	9	punct	_	Ref=2
 9	καί	καί	ADV	b--------	_	5	advmod	_	Ref=2
-9.1	E9.1	_	_	_	_	_	_	5:conj	_
 10	σκότος	σκότος	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	5	conj	_	Ref=2
 11	ἐπάνω	ἐπάνω	ADP	r--------	_	13	case	_	Ref=2
 12	τῆς	ὁ	DET	l-s---fg-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	det	_	Ref=2
@@ -332,7 +331,6 @@
 18	ποιοῦν	ποιέω	VERB	v-sppana-	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	16	amod	_	Ref=11
 19	καρπόν	καρπός	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	18	obj	_	Ref=11|SpaceAfter=No
 20	,	,	PUNCT	u--------	_	23	punct	_	Ref=11
-20.1	E20.1	_	_	_	_	_	_	19:nmod	_
 21	οὗ	ὅς	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	23	nmod	_	Ref=11
 22	τό	ὁ	DET	l-s---nn-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	23	det	_	Ref=11
 23	σπέρμα	σπέρμα	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	19	nmod	_	Ref=11
@@ -376,7 +374,6 @@
 19	ποιοῦν	ποιέω	VERB	v-sppana-	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	17	amod	_	Ref=12
 20	καρπόν	καρπός	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	19	obj	_	Ref=12|SpaceAfter=No
 21	,	,	PUNCT	u--------	_	24	punct	_	Ref=12
-21.1	E21.1	_	_	_	_	_	_	20:nmod	_
 22	οὗ	ὅς	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	24	nmod	_	Ref=12
 23	τό	ὁ	DET	l-s---nn-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	24	det	_	Ref=12
 24	σπέρμα	σπέρμα	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	20	nmod	_	Ref=12
@@ -939,7 +936,6 @@
 32	βρῶσιν	βρῶσις	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	29	obl	_	Ref=29
 33	-	-	PUNCT	u--------	_	63	punct	_	Ref=29
 34	καί	καί	CCONJ	b--------	_	63	cc	_	Ref=29
-34.1	E34.1	_	_	_	_	_	_	2:conj	_
 35	πᾶσι	πᾶς	DET	a-p---nd-	Case=Dat|Gender=Neut|Number=Plur|PronType=Ind	37	det	_	Ref=29
 36	τοῖς	ὁ	DET	l-p---nd-	Case=Dat|Definite=Def|Gender=Neut|Number=Plur	37	det	_	Ref=29
 37	θηρίοις	θηρίον	NOUN	n-p---nd-	Case=Dat|Gender=Neut|Number=Plur	63	orphan	_	Ref=29
@@ -2254,7 +2250,6 @@
 # sent_id = Septuagint-Genesis-1:s128
 # text = καί πρός τόν ἄνδρα σου ἡ ἀποστροφή σου, καί αὐτός σου κυριεύσει.
 1	καί	καί	ADV	d--------	_	13	discourse	_	Ref=72
-1.1	E1.1	_	_	_	_	_	_	13:conj	_
 2	πρός	πρός	ADP	r--------	_	4	case	_	Ref=72
 3	τόν	ὁ	DET	l-s---ma-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	4	det	_	Ref=72
 4	ἄνδρα	ἀνήρ	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	orphan	_	Ref=72
@@ -2367,7 +2362,6 @@
 
 # sent_id = Septuagint-Genesis-1:s134
 # text = ὅτι γῆ εἶ καί εἰς γῆν ἀπελεύσῃ.
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ὅτι	ὅτι	SCONJ	c--------	_	3	mark	_	Ref=75
 2	γῆ	γῆ	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Ref=75
 3	εἶ	εἰμί	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=75
@@ -2697,7 +2691,6 @@
 
 # sent_id = Septuagint-Genesis-1:s152
 # text = πρός σέ ἡ ἀποστροφή αὐτοῦ, καί σύ ἄρξεις αὐτοῦ.
-0.1	E0.1	_	_	_	_	_	_	9:conj	_
 1	πρός	πρός	ADP	r--------	_	2	case	_	Ref=87
 2	σέ	σύ	PRON	p2s---ca-	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	orphan	_	Ref=87
 3	ἡ	ὁ	DET	l-s---fn-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	det	_	Ref=87
@@ -2856,7 +2849,6 @@
 
 # sent_id = Septuagint-Genesis-1:s165
 # text = ὅτι ἐργᾷ τήν γῆν, καί οὐ προσθήσει τήν ἰσχύν αὐτῆς δοῦναι σοι ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ὅτι	ὅτι	SCONJ	c--------	_	2	mark	_	Ref=92
 2	ἐργᾷ	ἐργάζομαι	VERB	v2sfim---	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Mid	0	root	_	Ref=92
 3	τήν	ὁ	DET	l-s---fa-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	det	_	Ref=92
@@ -2952,7 +2944,6 @@
 
 # sent_id = Septuagint-Genesis-1:s171
 # text = οὐχ οὕτως ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	οὐχ	οὐ	ADV	d--------	_	2	advmod:neg	_	Ref=95
 2	οὕτως	οὕτως	ADV	d--------	_	0	root	_	Ref=95
 3	·	·	PUNCT	u--------	_	2	punct	_	Ref=95
@@ -3205,7 +3196,6 @@
 33	ἐκ	ἐκ	ADP	r--------	_	34	case	_	Ref=103
 34	Καιν	Καιν	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	32	obl:arg	_	Ref=103|SpaceAfter=No
 35	,	,	PUNCT	u--------	_	38	punct	_	Ref=103
-35.1	E35.1	_	_	_	_	_	_	32:conj	_
 36	ἐκ	ἐκ	ADP	r--------	_	38	case	_	Ref=103
 37	δέ	δέ	CCONJ	b--------	PartType=Ptcl	32	cc	_	Ref=103
 38	Λαμεχ	Λαμεχ	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	32	conj	_	Ref=103
@@ -4648,7 +4638,6 @@
 14	καί	καί	CCONJ	b--------	_	15	cc	_	Ref=162
 15	θῆλυ	θῆλυς	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	13	conj	_	Ref=162|SpaceAfter=No
 16	,	,	PUNCT	u--------	_	25	punct	_	Ref=162
-16.1	E16.1	_	_	_	_	_	_	7:conj	_
 17	ἀπό	ἀπό	ADP	r--------	_	20	case	_	Ref=162
 18	δέ	δέ	ADV	b--------	PartType=Ptcl	7	advmod	_	Ref=162
 19	τῶν	ὁ	DET	l-p---ng-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur	20	det	_	Ref=162
@@ -4664,7 +4653,6 @@
 29	θῆλυ	θῆλυς	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	27	conj	_	Ref=162|SpaceAfter=No
 30	,	,	PUNCT	u--------	_	25	punct	_	Ref=162
 31	καί	καί	ADV	b--------	_	7	advmod	_	Ref=162
-31.1	E31.1	_	_	_	_	_	_	7:conj	_
 32	ἀπό	ἀπό	ADP	r--------	_	34	case	_	Ref=162
 33	τῶν	ὁ	DET	l-p---ng-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur	34	det	_	Ref=162
 34	πετεινῶν	πετεινόν	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	40	orphan	_	Ref=162
@@ -4680,7 +4668,6 @@
 44	θῆλυ	θῆλυς	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	42	conj	_	Ref=162|SpaceAfter=No
 45	,	,	PUNCT	u--------	_	40	punct	_	Ref=162
 46	καί	καί	CCONJ	b--------	_	54	cc	_	Ref=162
-46.1	E46.1	_	_	_	_	_	_	7:conj	_
 47	ἀπό	ἀπό	ADP	r--------	_	49	case	_	Ref=162
 48	τῶν	ὁ	DET	l-p---ng-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur	49	det	_	Ref=162
 49	πετεινῶν	πετεινόν	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	54	orphan	_	Ref=162
@@ -5351,7 +5338,6 @@
 7	τῷ	ὁ	DET	l-s---md-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	8	det	_	Ref=188
 8	ἑβδόμῳ	ἕβδομος	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	6	amod	_	Ref=188|SpaceAfter=No
 9	,	,	PUNCT	u--------	_	14	punct	_	Ref=188
-9.1	E9.1	_	_	_	_	_	_	2:advmod	_
 10	ἑβδόμῃ	ἕβδομος	ADJ	a-s---fd-	Case=Dat|Gender=Fem|Number=Sing	14	amod	_	Ref=188
 11	καί	καί	CCONJ	b--------	_	12	cc	_	Ref=188
 12	εἰκάδι	εἰκάς	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	10	conj	_	Ref=188
@@ -5386,7 +5372,6 @@
 4	ἑνδεκάτῳ	ἑνδέκατος	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	5	amod	_	Ref=189
 5	μηνί	μήν	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing|PartType=Ptcl	12	obl	_	Ref=189|SpaceAfter=No
 6	,	,	PUNCT	u--------	_	5	punct	_	Ref=189
-6.1	E6.1	_	_	_	_	_	_	12:advmod	_
 7	τῇ	ὁ	DET	l-s---fd-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	8	det	_	Ref=189
 8	πρώτῃ	πρῶτος	ADJ	a-s---fd-	Case=Dat|Gender=Fem|Number=Sing	10	amod	_	Ref=189
 9	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	det	_	Ref=189
@@ -5597,7 +5582,6 @@
 12	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	det	_	Ref=197
 13	Νωε	Νωε	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Ref=197|SpaceAfter=No
 14	,	,	PUNCT	u--------	_	2	punct	_	Ref=197
-14.1	E14.1	_	_	_	_	_	_	2:advmod	_
 15	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	det	_	Ref=197
 16	πρώτου	πρῶτος	ADJ	a-s---mgs	Case=Gen|Degree=Sup|Gender=Masc|Number=Sing	17	amod	_	Ref=197
 17	μηνός	μήν	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing|PartType=Ptcl	19	nmod	_	Ref=197|SpaceAfter=No
@@ -5648,7 +5632,6 @@
 5	τῷ	ὁ	DET	l-s---md-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	6	det	_	Ref=198
 6	δευτέρῳ	δεύτερος	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	4	amod	_	Ref=198|SpaceAfter=No
 7	,	,	PUNCT	u--------	_	4	punct	_	Ref=198
-7.1	E7.1	_	_	_	_	_	_	14:advmod	_
 8	ἑβδόμῃ	ἕβδομος	ADJ	a-s---fd-	Case=Dat|Gender=Fem|Number=Sing	14	amod	_	Ref=198
 9	καί	καί	CCONJ	b--------	_	10	cc	_	Ref=198
 10	εἰκάδι	εἰκάς	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	8	conj	_	Ref=198
@@ -6141,7 +6124,6 @@
 30	τῆς	ὁ	DET	l-s---fg-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	31	det	_	Ref=215
 31	γῆς	γῆ	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	Ref=215|SpaceAfter=No
 32	,	,	PUNCT	u--------	_	33	punct	_	Ref=215
-32.1	E32.1	_	_	_	_	_	_	29:nmod	_
 33	ὅσα	ὅσος	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	29	nmod	_	Ref=215
 34	μεθ’	μετά	ADP	r--------	_	35	case	_	Ref=215
 35	ὑμῶν	σύ	PRON	p2p---cg-	Case=Gen|Number=Plur|Person=2|PronType=Prs	33	orphan	_	Ref=215|SpaceAfter=No
@@ -6669,7 +6651,6 @@
 
 # sent_id = Septuagint-Genesis-1:s343
 # text = υἱοί Ιαφεθ ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	υἱοί	υἱός	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Ref=237
 2	Ιαφεθ	Ιαφεθ	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	Ref=237
 3	·	·	PUNCT	u--------	_	1	punct	_	Ref=237
@@ -6695,7 +6676,6 @@
 
 # sent_id = Septuagint-Genesis-1:s345
 # text = καί υἱοί Γαμερ ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	καί	καί	ADV	d--------	_	2	advmod	_	Ref=238
 2	υἱοί	υἱός	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Ref=238
 3	Γαμερ	Γαμερ	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Ref=238
@@ -6712,7 +6692,6 @@
 
 # sent_id = Septuagint-Genesis-1:s347
 # text = καί υἱοί Ιωυαν ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	καί	καί	ADV	d--------	_	2	advmod	_	Ref=239
 2	υἱοί	υἱός	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Ref=239
 3	Ιωυαν	Ιωυαν	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Ref=239
@@ -6758,7 +6737,6 @@
 
 # sent_id = Septuagint-Genesis-1:s350
 # text = υἱοί δέ Χαμ ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	υἱοί	υἱός	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Ref=241
 2	δέ	δέ	ADV	d--------	PartType=Ptcl	1	advmod	_	Ref=241
 3	Χαμ	Χαμ	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	Ref=241
@@ -6777,7 +6755,6 @@
 
 # sent_id = Septuagint-Genesis-1:s352
 # text = υἱοί δέ Χους ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	υἱοί	υἱός	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Ref=242
 2	δέ	δέ	ADV	d--------	PartType=Ptcl	1	advmod	_	Ref=242
 3	Χους	Χους	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	Ref=242
@@ -6798,7 +6775,6 @@
 
 # sent_id = Septuagint-Genesis-1:s354
 # text = υἱοί δέ Ρεγμα ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	υἱοί	υἱός	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Ref=242
 2	δέ	δέ	ADV	d--------	PartType=Ptcl	1	advmod	_	Ref=242
 3	Ρεγμα	Ρεγμα	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	Ref=242
@@ -6852,7 +6828,6 @@
 
 # sent_id = Septuagint-Genesis-1:s360
 # text = ὡς Νεβρωδ γίγας κυνηγός ἐναντίον κυρίου.
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ὡς	ὡς	SCONJ	c--------	_	2	mark	_	Ref=244
 2	Νεβρωδ	Νεβρωδ	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	dep:apos	_	Ref=244
 3	γίγας	γίγας	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=244
@@ -7081,7 +7056,6 @@
 
 # sent_id = Septuagint-Genesis-1:s369
 # text = υἱοί Σημ ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	υἱοί	υἱός	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Ref=257
 2	Σημ	Σημ	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	Ref=257
 3	·	·	PUNCT	u--------	_	1	punct	_	Ref=257
@@ -7103,7 +7077,6 @@
 
 # sent_id = Septuagint-Genesis-1:s371
 # text = καί υἱοί Αραμ ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	καί	καί	ADV	d--------	_	2	advmod	_	Ref=258
 2	υἱοί	υἱός	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Ref=258
 3	Αραμ	Αραμ	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Ref=258
@@ -8624,7 +8597,6 @@
 
 # sent_id = Septuagint-Genesis-1:s454
 # text = καί νῦν ἰδού ἡ γυνή σου ἐναντίον σου ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	καί	καί	ADV	d--------	_	5	advmod	_	Ref=318
 2	νῦν	νῦν	ADV	d--------	_	5	advmod	_	Ref=318
 3	ἰδού	ἰδού	INTJ	i--------	_	5	discourse	_	Ref=318
@@ -8713,7 +8685,6 @@
 # text = καί ἐπορεύθη ὅθεν ἦλθεν, εἰς τήν ἔρημον ἕως Βαιθηλ, ἕως τοῦ τόπου, οὗ ἦν ἡ σκηνή αὐτοῦ τό πρότερον, ἀνά μέσον Βαιθηλ καί ἀνά μέσον Αγγαι , εἰς τόν τόπον τοῦ θυσιαστηρίου, οὗ ἐποίησεν ἐκεῖ τήν ἀρχήν ·
 1	καί	καί	ADV	d--------	_	2	advmod	_	Ref=322
 2	ἐπορεύθη	πορεύω	VERB	v3saip---	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	Ref=322
-2.1	E2.1	_	_	_	_	_	_	2:advmod	_
 3	ὅθεν	ὅθεν	ADV	d--------	_	4	advmod	_	Ref=322
 4	ἦλθεν	ἔρχομαι	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	2	acl:relcl	_	Ref=322|SpaceAfter=No
 5	,	,	PUNCT	u--------	_	8	punct	_	Ref=322
@@ -8909,9 +8880,7 @@
 
 # sent_id = Septuagint-Genesis-1:s470
 # text = εἰ σύ εἰς ἀριστερά, ἐγώ εἰς δεξιά ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	εἰ	εἰ	SCONJ	c--------	_	2	mark	_	Ref=328
-1.1	E1.1	_	_	_	_	_	_	0.1:advcl	_
 2	σύ	σύ	PRON	p2s---cn-	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	advcl	_	Ref=328
 3	εἰς	εἰς	ADP	r--------	_	4	case	_	Ref=328
 4	ἀριστερά	ἀριστερός	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	2	orphan	_	Ref=328|SpaceAfter=No
@@ -8923,10 +8892,8 @@
 
 # sent_id = Septuagint-Genesis-1:s471
 # text = εἰ δέ σύ εἰς δεξιά, ἐγώ εἰς ἀριστερά.
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	εἰ	εἰ	SCONJ	c--------	_	3	mark	_	Ref=328
 2	δέ	δέ	ADV	d--------	PartType=Ptcl	7	advmod	_	Ref=328
-2.1	E2.1	_	_	_	_	_	_	0.1:advcl	_
 3	σύ	σύ	PRON	p2s---cn-	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	advcl	_	Ref=328
 4	εἰς	εἰς	ADP	r--------	_	5	case	_	Ref=328
 5	δεξιά	δεξιός	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	orphan	_	Ref=328|SpaceAfter=No
@@ -8965,14 +8932,12 @@
 25	Γομορρα	Γομορρα	PROPN	n-s----a-	Case=Acc|Number=Sing	23	conj	_	Ref=329
 26	-	-	PUNCT	u--------	_	29	punct	_	Ref=329
 27	ὡς	ὡς	SCONJ	c--------	_	29	mark	_	Ref=329
-27.1	E27.1	_	_	_	_	_	_	16:advcl	_
 28	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	29	det	_	Ref=329
 29	παράδεισος	παράδεισος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	16	advcl	_	Ref=329
 30	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	31	det	_	Ref=329
 31	θεοῦ	θεός	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	Ref=329
 32	καί	καί	CCONJ	b--------	_	35	cc	_	Ref=329
 33	ὡς	ὡς	SCONJ	c--------	_	35	mark	_	Ref=329
-33.1	E33.1	_	_	_	_	_	_	27.1:conj	_
 34	ἡ	ὁ	DET	l-s---fn-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	35	det	_	Ref=329
 35	γῆ	γῆ	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	29	conj	_	Ref=329
 36	Αἰγύπτου	Αἴγυπτος	PROPN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	Ref=329
@@ -9093,7 +9058,6 @@
 
 # sent_id = Septuagint-Genesis-1:s478
 # text = ὅτι πᾶσαν τήν γῆν, ἥν σύ ὁρᾷς, σοί δώσω αὐτήν καί τῷ σπέρματι σου ἕως τοῦ αἰῶνος.
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ὅτι	ὅτι	SCONJ	c--------	_	11	mark	_	Ref=334
 2	πᾶσαν	πᾶς	DET	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	4	det	_	Ref=334
 3	τήν	ὁ	DET	l-s---fa-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	det	_	Ref=334
@@ -10584,7 +10548,6 @@
 
 # sent_id = Septuagint-Genesis-1:s560
 # text = ἰδού ἡ παιδίσκη σου ἐν ταῖς χερσίν σου ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ἰδού	ἰδού	INTJ	i--------	_	3	discourse	_	Ref=388
 2	ἡ	ὁ	DET	l-s---fn-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	det	_	Ref=388
 3	παιδίσκη	παιδίσκη	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Ref=388
@@ -10779,7 +10742,6 @@
 
 # sent_id = Septuagint-Genesis-1:s574
 # text = αἱ χεῖρες αὐτοῦ ἐπί πάντας, καί αἱ χεῖρες πάντων ἐπ’ αὐτόν, καί κατά πρόσωπον πάντων τῶν ἀδελφῶν αὐτοῦ κατοικήσει.
-0.1	E0.1	_	_	_	_	_	_	21:conj	_
 1	αἱ	ὁ	DET	l-p---fn-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	2	det	_	Ref=394
 2	χεῖρες	χείρ	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	21	conj	_	Ref=394
 3	αὐτοῦ	αὐτός	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	2	nmod	_	Ref=394
@@ -10787,7 +10749,6 @@
 5	πάντας	πᾶς	PRON	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind	2	orphan	_	Ref=394|SpaceAfter=No
 6	,	,	PUNCT	u--------	_	2	punct	_	Ref=394
 7	καί	καί	ADV	b--------	_	21	advmod	_	Ref=394
-7.1	E7.1	_	_	_	_	_	_	21:conj	_
 8	αἱ	ὁ	DET	l-p---fn-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	9	det	_	Ref=394
 9	χεῖρες	χείρ	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	21	conj	_	Ref=394
 10	πάντων	πᾶς	PRON	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur|PronType=Ind	9	nmod	_	Ref=394
@@ -10830,7 +10791,6 @@
 
 # sent_id = Septuagint-Genesis-1:s577
 # text = ὅτι εἶπεν ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ὅτι	ὅτι	SCONJ	c--------	_	2	mark	_	Ref=395
 2	εἶπεν	λέγω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	Ref=395
 3	·	·	PUNCT	u--------	_	2	punct	_	Ref=395
@@ -10991,7 +10951,6 @@
 1	καί	καί	ADV	d--------	_	5	discourse	_	Ref=402
 2	ἐγώ	ἐγώ	PRON	p1s---cn-	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	orphan	_	Ref=402
 3	ἰδού	ἰδού	INTJ	i--------	_	5	discourse	_	Ref=402
-3.1	E3.1	_	_	_	_	_	_	0:root	_
 4	ἡ	ὁ	DET	l-s---fn-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	det	_	Ref=402
 5	διαθήκη	διαθήκη	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Ref=402
 6	μου	ἐγώ	PRON	p1s---cg-	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Ref=402
@@ -11392,7 +11351,6 @@
 
 # sent_id = Septuagint-Genesis-1:s604
 # text = εἰ τῷ ἑκατονταετεῖ γενήσεται, καί εἰ Σαρρα ἐνενήκοντα ἐτῶν οὖσα τέξεται ;
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	εἰ	εἰ	SCONJ	c--------	_	4	mark	_	Ref=415
 2	τῷ	ὁ	DET	l-s---md-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	3	det	_	Ref=415
 3	ἑκατονταετεῖ	ἑκατονταετής	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	Ref=415
@@ -11438,7 +11396,6 @@
 
 # sent_id = Septuagint-Genesis-1:s608
 # text = ναί ·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ναί	ναί	INTJ	i--------	_	0	discourse	_	Ref=417
 2	·	·	PUNCT	u--------	_	0	punct	_	Ref=417
 
@@ -12230,7 +12187,6 @@
 
 # sent_id = Septuagint-Genesis-1:s659
 # text = ὅπως ἄν ἐπαγάγῃ κύριος ἐπί Ἀβραάμ πάντα, ὅσα ἐλάλησεν πρός αὐτόν.
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ὅπως	ὅπως	SCONJ	c--------	_	3	mark	_	Ref=444
 2	ἄν	ἄν	ADV	d--------	PartType=Ptcl	3	advmod	_	Ref=444
 3	ἐπαγάγῃ	ἐπάγω	VERB	v3sasa---	Mood=Sub|Number=Sing|Person=3|Voice=Act	0	root	_	Ref=444
@@ -12285,7 +12241,6 @@
 13	συντελοῦνται	συντελέω	VERB	v3ppie---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=MidPass	3	ccomp	_	Ref=446|SpaceAfter=No
 14	,	,	PUNCT	u--------	_	16	punct	_	Ref=446
 15	εἰ	εἰ	SCONJ	c--------	_	16	mark	_	Ref=446
-15.1	E15.1	_	_	_	_	_	_	20:advcl	_
 16	δέ	δέ	X	b--------	PartType=Ptcl	20	advcl	_	Ref=446
 17	μή	μή	ADV	d--------	_	16	advmod:neg	_	Ref=446|SpaceAfter=No
 18	,	,	PUNCT	u--------	_	16	punct	_	Ref=446
@@ -12395,7 +12350,6 @@
 
 # sent_id = Septuagint-Genesis-2:s2
 # text = μηδαμῶς·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	μηδαμῶς	μηδαμῶς	ADV	d--------	_	0	root	_	SpaceAfter=No
 2	·	·	PUNCT	u--------	_	1	punct	_	_
 
@@ -12516,7 +12470,6 @@
 # sent_id = Septuagint-Genesis-2:s12
 # text = ἐάν δέ εὑρεθῶσιν ἐκεῖ τεσσαράκοντα;
 1	ἐάν	ἐάν	SCONJ	c--------	_	3	mark	_	_
-1.1	E1.1	_	_	_	_	_	_	0:root	_
 2	δέ	δέ	ADV	d--------	PartType=Ptcl	3	dep	_	_
 3	εὑρεθῶσιν	εὑρίσκω	VERB	v3pasp---	Mood=Sub|Number=Plur|Person=3	0	root	_	_
 4	ἐκεῖ	ἐκεῖ	ADV	d--------	_	5	advmod	_	_
@@ -12558,7 +12511,6 @@
 
 # sent_id = Septuagint-Genesis-2:s17
 # text = ἐάν δέ εὑρεθῶσιν ἐκεῖ τριάκοντα;
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ἐάν	ἐάν	SCONJ	c--------	_	3	mark	_	_
 2	δέ	δέ	ADV	d--------	PartType=Ptcl	3	advmod	_	_
 3	εὑρεθῶσιν	εὑρίσκω	VERB	v3pasp---	Mood=Sub|Number=Plur|Person=3	0	root	_	_
@@ -12592,7 +12544,6 @@
 
 # sent_id = Septuagint-Genesis-2:s21
 # text = ἐπειδή ἔχω λαλῆσαι πρός τόν κύριον, ἐάν δέ εὑρεθῶσιν ἐκεῖ εἴκοσι;
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ἐπειδή	ἐπειδή	SCONJ	c--------	_	2	mark	_	_
 2	ἔχω	ἔχω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
 3	λαλῆσαι	λαλέω	VERB	v--ana---	VerbForm=Inf|Voice=Act	2	ccomp	_	_
@@ -12631,7 +12582,6 @@
 
 # sent_id = Septuagint-Genesis-2:s25
 # text = μή τι, κύριε, ἐάν λαλήσω ἔτι ἅπαξ·
-0.1	E0.1	_	_	---------	_	_	_	0:root	_
 1	μή	μή	ADV	d--------	_	2	advmod:neg	_	_
 2	τι	τις	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	4	punct	_	_
@@ -12642,11 +12592,9 @@
 8	ἔτι	ἔτι	ADV	d--------	_	7	advmod	_	_
 9	ἅπαξ	ἅπαξ	ADV	d--------	_	7	advmod	_	SpaceAfter=No
 10	·	·	PUNCT	u--------	_	2	punct	_	_
-10.1	E10.1	_	_	---------	_	_	_	0.1:root	_
 
 # sent_id = Septuagint-Genesis-2:s26
 # text = ἐάν δέ εὑρεθῶσιν ἐκεῖ δέκα;
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ἐάν	ἐάν	SCONJ	c--------	_	3	mark	_	_
 2	δέ	δέ	ADV	d--------	PartType=Ptcl	3	advmod	_	_
 3	εὑρεθῶσιν	εὑρίσκω	VERB	v3pasp---	Mood=Sub|Number=Plur|Person=3	0	root	_	_
@@ -12988,7 +12936,6 @@
 
 # sent_id = Septuagint-Genesis-2:s50
 # text = μή καί κρίσιν κρίνειν;
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	μή	μή	ADV	d--------	_	4	advmod:neg	_	_
 2	καί	καί	ADV	d--------	_	4	advmod	_	_
 3	κρίσιν	κρίσις	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
@@ -13003,7 +12950,6 @@
 4	κακώσομεν	κακόω	VERB	v1pfia---	Mood=Ind|Number=Plur|Person=1|Tense=Fut|Voice=Act	0	root	_	_
 5	μᾶλλον	μάλα	ADV	d-------c	Degree=Cmp	4	advmod	_	_
 6	ἤ	ἤ	CCONJ	c--------	_	7	mark	_	_
-6.1	E6.1	_	_	_	_	_	_	5:advcl	_
 7	ἐκείνους	ἐκεῖνος	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	5	advcl	_	SpaceAfter=No
 8	.	.	PUNCT	u--------	_	4	punct	_	_
 
@@ -13118,7 +13064,6 @@
 
 # sent_id = Septuagint-Genesis-2:s58
 # text = ὅτι ἀπόλλυμεν ἡμεῖς τόν τόπον τοῦτον, ὅτι ὑψώθη ἡ κραυγή αὐτῶν ἐναντίον κυρίου, καί ἀπέστειλεν ἡμᾶς κύριος ἐκτρῖψαι αὐτήν.
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ὅτι	ὅτι	SCONJ	c--------	_	2	mark	_	_
 2	ἀπόλλυμεν	ἀπόλλυμι	VERB	v1ppia---	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	_
 3	ἡμεῖς	ἐγώ	PRON	p1p---cn-	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
@@ -13898,7 +13843,6 @@
 
 # sent_id = Septuagint-Genesis-2:s98
 # text = ἐκ τοῦ πατρός μου·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ἐκ	ἐκ	ADP	r--------	_	3	case	_	_
 2	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	det	_	_
 3	πατρός	πατήρ	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
@@ -14360,7 +14304,6 @@
 8	πατρός	πατήρ	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	u--------	_	13	punct	_	_
 10	ἀλλʼ	ἀλλά	CCONJ	b--------	_	13	cc	_	_
-10.1	E10.1	_	_	_	_	_	_	4:conj	_
 11	οὐκ	οὐ	ADV	d--------	_	13	advmod:neg	_	_
 12	ἐκ	ἐκ	ADP	r--------	_	13	case	_	_
 13	μητρός	μήτηρ	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
@@ -14468,7 +14411,6 @@
 # sent_id = Septuagint-Genesis-2:s140
 # text = ἰδού ἡ γῆ μου ἐναντίον σου·
 1	ἰδού	ἰδού	INTJ	i--------	_	3	discourse	_	_
-1.1	E1.1	_	_	_	_	_	_	0:root	_
 2	ἡ	ὁ	DET	l-s---fn-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	det	_	_
 3	γῆ	γῆ	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 4	μου	ἐγώ	PRON	p1s---cg-	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
@@ -14478,7 +14420,6 @@
 
 # sent_id = Septuagint-Genesis-2:s141
 # text = οὗ ἐάν σοι ἀρέσκῃ, κατοίκει.
-0.1	E0.1	_	_	_	_	_	_	6:advmod	_
 1	οὗ	οὗ	ADV	c--------	_	4	advmod	_	_
 2	ἐάν	ἐάν	SCONJ	c--------	_	4	mark	_	_
 3	σοι	σύ	PRON	p2s---cd-	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
@@ -14560,7 +14501,6 @@
 
 # sent_id = Septuagint-Genesis-2:s147
 # text = ὅτι συγκλείων συνέκλεισεν κύριος ἔξωθεν πᾶσαν μήτραν ἐν τῷ οἴκῳ τοῦ Αβιμελεχ ἕνεκεν Σαρρας τῆς γυναικός Ἀβραάμ.
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ὅτι	ὅτι	SCONJ	c--------	_	3	mark	_	_
 2	συγκλείων	συγκλείω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	3	advcl	_	_
 3	συνέκλεισεν	συγκλείω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
@@ -14694,7 +14634,6 @@
 
 # sent_id = Septuagint-Genesis-2:s154
 # text = ὅς γάρ ἄν ἀκούσῃ, συγχαρεῖται μοι.
-0.1	E0.1	_	_	_	_	_	_	6:nsubj	_
 1	ὅς	ὅς	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	_
 2	γάρ	γάρ	ADV	d--------	PartType=Ptcl	4	advmod	_	_
 3	ἄν	ἄν	ADV	d--------	PartType=Ptcl	4	advmod	_	_
@@ -14724,7 +14663,6 @@
 
 # sent_id = Septuagint-Genesis-2:s157
 # text = ὅτι ἔτεκον υἱόν ἐν τῷ γήρει μου.
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ὅτι	ὅτι	SCONJ	c--------	_	2	mark	_	_
 2	ἔτεκον	τίκτω	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
 3	υἱόν	υἱός	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
@@ -15207,7 +15145,6 @@
 
 # sent_id = Septuagint-Genesis-2:s185
 # text = ὁ θεός μετά σοῦ ἐν πᾶσιν, οἷς ἐάν ποιῇς·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	_
 2	θεός	θεός	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 3	μετά	μετά	ADP	r--------	_	4	case	_	_
@@ -15540,7 +15477,6 @@
 # sent_id = Septuagint-Genesis-2:s205
 # text = ἰδού ἐγώ.
 1	ἰδού	ἰδού	INTJ	i--------	_	2	discourse	_	_
-1.1	E1.1	_	_	_	_	_	_	0:root	_
 2	ἐγώ	ἐγώ	PRON	p1s---cn-	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	u--------	_	2	punct	_	_
 
@@ -15757,7 +15693,6 @@
 
 # sent_id = Septuagint-Genesis-2:s219
 # text = λέγων·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	λέγων	λέγω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 2	·	·	PUNCT	u--------	_	1	punct	_	_
 
@@ -15892,7 +15827,6 @@
 # sent_id = Septuagint-Genesis-2:s229
 # text = ἰδού ἐγώ.
 1	ἰδού	ἰδού	INTJ	i--------	_	2	discourse	_	_
-1.1	E1.1	_	_	_	_	_	_	0:root	_
 2	ἐγώ	ἐγώ	PRON	p1s---cn-	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	u--------	_	2	punct	_	_
 
@@ -17558,7 +17492,6 @@
 
 # sent_id = Septuagint-Genesis-2:s312
 # text = εἰ ἔστιν παρά τῷ πατρί σου τόπος ἡμῖν καταλῦσαι;
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	εἰ	εἰ	SCONJ	c--------	_	2	mark	_	_
 2	ἔστιν	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 3	παρά	παρά	ADP	r--------	_	5	case	_	_
@@ -17601,7 +17534,6 @@
 
 # sent_id = Septuagint-Genesis-2:s316
 # text = καί ἄχυρα καί χορτάσματα πολλά παρʼ ἡμῖν καί τόπος τοῦ καταλῦσαι.
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	καί	καί	ADV	d--------	_	2	discourse	_	_
 2	ἄχυρα	ἄχυρον	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
 3	καί	καί	ADV	b--------	_	2	advmod	_	_
@@ -18118,7 +18050,6 @@
 19	ὁρκισμοῦ	ὁρκισμός	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	16	obl	_	_
 20	μου	ἐγώ	PRON	p1s---cg-	Case=Gen|Number=Sing|Person=1|PronType=Prs	19	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	u--------	_	16	punct	_	_
-21.1	E21.1	_	_	_	_	_	_	16:root	_
 
 # sent_id = Septuagint-Genesis-2:s349
 # text = καί ἐλθών σήμερον ἐπί τήν πηγήν εἶπα·
@@ -19028,7 +18959,6 @@
 
 # sent_id = Septuagint-Genesis-3:s42
 # text = Γαιφα καί Αφερ καί Ενωχ καί Αβιρα καί Ελραγα.
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	Γαιφα	Γαιφα	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	καί	καί	CCONJ	c--------	_	3	cc	_	_
 3	Αφερ	Αφερ	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
@@ -19106,7 +19036,6 @@
 
 # sent_id = Septuagint-Genesis-3:s46
 # text = ἑκατόν ἑβδομήκοντα πέντε ἔτη.
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ἑκατόν	ἑκατόν	ADJ	a--------	_	4	amod	_	_
 2	ἑβδομήκοντα	ἑβδομήκοντα	ADJ	a--------	_	4	amod	_	_
 3	πέντε	πέντε	ADJ	a--------	_	4	amod	_	_
@@ -19305,7 +19234,6 @@
 
 # sent_id = Septuagint-Genesis-3:s54
 # text = δώδεκα ἄρχοντες κατά ἔθνη αὐτῶν.
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	δώδεκα	δώδεκα	ADJ	a--------	_	2	amod	_	_
 2	ἄρχοντες	ἄρχων	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
 3	κατά	κατά	ADP	r--------	_	4	case	_	_
@@ -19477,7 +19405,6 @@
 
 # sent_id = Septuagint-Genesis-3:s67
 # text = εἰ οὕτως μοι μέλλει γίνεσθαι, ἵνα τί μοι τοῦτο;
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	εἰ	εἰ	SCONJ	c--------	_	4	mark	_	_
 2	οὕτως	οὕτως	ADV	d--------	_	5	xcomp	_	_
 3	μοι	ἐγώ	PRON	p1s---cd-	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	obl	_	_
@@ -20523,7 +20450,6 @@
 
 # sent_id = Septuagint-Genesis-3:s138
 # text = διότι νῦν ἐπλάτυνεν κύριος ἡμῖν καί ηὔξησεν ἡμᾶς ἐπί τῆς γῆς.
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	διότι	διότι	SCONJ	c--------	_	3	mark	_	_
 2	νῦν	νῦν	ADV	d--------	_	3	advmod	_	_
 3	ἐπλάτυνεν	πλατύνω	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	0	root	_	_
@@ -20932,7 +20858,6 @@
 # sent_id = Septuagint-Genesis-3:s165
 # text = ἰδού ἐγώ.
 1	ἰδού	ἰδού	INTJ	i--------	_	2	discourse	_	_
-1.1	E1.1	_	_	_	_	_	_	0:root	_
 2	ἐγώ	ἐγώ	PRON	p1s---cn-	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	u--------	_	2	punct	_	_
 
@@ -21211,7 +21136,6 @@
 
 # sent_id = Septuagint-Genesis-3:s178
 # text = ἐπʼ ἐμέ ἡ κατάρα σου, τέκνον·
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ἐπʼ	ἐπί	ADP	r--------	_	2	case	_	_
 2	ἐμέ	ἐγώ	PRON	p1s---ca-	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	orphan	_	_
 3	ἡ	ὁ	DET	l-s---fn-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	det	_	_
@@ -21356,7 +21280,6 @@
 # sent_id = Septuagint-Genesis-3:s186
 # text = ἰδού ἐγώ·
 1	ἰδού	ἰδού	INTJ	i--------	_	2	discourse	_	_
-1.1	E1.1	_	_	_	_	_	_	0:root	_
 2	ἐγώ	ἐγώ	PRON	p1s---cn-	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	SpaceAfter=No
 3	·	·	PUNCT	u--------	_	2	punct	_	_
 
@@ -21578,7 +21501,6 @@
 
 # sent_id = Septuagint-Genesis-3:s206
 # text = ἐγώ.
-0.1	E0.1	_	_	_	_	_	_	0:root	_
 1	ἐγώ	ἐγώ	PRON	p1s---cn-	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	u--------	_	1	punct	_	_
 
@@ -22319,7 +22241,6 @@
 41	σοῦ	σύ	PRON	p2s---cg-	Case=Gen|Number=Sing|Person=2|PronType=Prs	31	obl:arg	_	_
 42	καί	καί	CCONJ	c--------	_	43	cc	_	_
 43	ἐπιλάθηται	ἐπιλανθάνω	VERB	v3sasm---	Mood=Sub|Number=Sing|Person=3|Voice=Mid	6	conj	_	_
-43.1	E43.1	_	_	_	_	_	_	43:obj	_
 44	ἅ	ὅς	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	45	obj	_	_
 45	πεποίηκας	ποιέω	VERB	v2sria---	Mood=Ind|Number=Sing|Person=2|Voice=Act	43	acl:relcl	_	_
 46	αὐτῷ	αὐτός	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	45	iobj	_	SpaceAfter=No
