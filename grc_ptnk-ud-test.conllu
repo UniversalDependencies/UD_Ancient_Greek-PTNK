@@ -445,7 +445,7 @@
 1	ἡνίκα	ἡνίκα	ADV	_	_	_	_	_	Gloss=when
 2	δὲ	δέ	CCONJ	_	_	_	_	_	Gloss=but,and,however
 3	ὄρθρος	ὄρθρος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Gloss=dawn,early-morning
-4	ἐγίνετο	γίνομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid,Pass	_	_	_	Gloss=to-become,come-to-be|SpaceAfter=No
+4	ἐγίνετο	γίνομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid,Pass	0	root	_	Gloss=to-become,come-to-be|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	ἐπεσπούδαζον	ἐπισπουδάζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	Gloss=to-hurry
 7	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	8	det	_	Gloss=the
@@ -1119,7 +1119,7 @@
 
 # sent_id = Septuagint-Genesis-19:38-grc
 # text = ἔτεκεν δὲ καὶ ἡ νεωτέρα υἱὸν καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἀμμὰν υἱὸς τοῦ γένους μου· οὗτος πατὴρ Ἀμμανιτῶν ἕως τῆς σήμερον ἡμέρας.
-1	ἔτεκεν	τίκτω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	Gloss=to-give-birth-to
+1	ἔτεκεν	τίκτω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-give-birth-to
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
 3	καὶ	καί	CCONJ	_	_	_	_	_	Gloss=and,also,even,then,next
 4	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Gloss=the
@@ -1187,7 +1187,7 @@
 13	·	·	PUNCT	_	_	14	punct	_	_
 14	ἐφοβήθη	φοβέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	_	Gloss=to-fear
 15	γὰρ	γάρ	SCONJ	_	_	_	_	_	Gloss=for,because
-16	εἰπεῖν	εἶπον	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	Gloss=to-say
+16	εἰπεῖν	εἶπον	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	conj	_	Gloss=to-say
 17	ὅτι	ὅτι	SCONJ	_	_	_	_	_	Gloss=because,that-for|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_
 19	γυνή	γυνή	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	appos	_	Gloss=wife,woman
@@ -3223,12 +3223,12 @@
 
 # sent_id = Septuagint-Genesis-23:1-grc
 # text = ἐγένετο δὲ ἡ ζωὴ Σάρρας ἔτη ἑκατὸν εἴκοσι ἑπτά.
-1	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	Gloss=to-become,come-to-be
+1	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-become,come-to-be
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
 3	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Gloss=the
-4	ζωὴ	ζωή	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Gloss=life
+4	ζωὴ	ζωή	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Gloss=life
 5	Σάρρας	Σάρρας	PROPN	_	_	4	nmod:poss	_	Gloss=Sarah
-6	ἔτη	ἔτος	NOUN	_	Case=Nom,Acc|Gender=Neut|Number=Plur	_	_	_	Gloss=years
+6	ἔτη	ἔτος	NOUN	_	Case=Nom,Acc|Gender=Neut|Number=Plur	1	obj	_	Gloss=years
 7	ἑκατὸν	ἑκατόν	NUM	_	NumType=Card	6	nummod	_	Gloss=100
 8	εἴκοσι	εἴκοσιν	NUM	_	Case=Nom,Acc|Gender=Masc|Number=Plur|NumType=Card	7	conj	_	Gloss=20
 9	ἑπτά	ἑπτά	NUM	_	NumType=Card	7	conj	_	Gloss=seven|SpaceAfter=No
@@ -3487,7 +3487,7 @@
 # text = παρ᾿ ἐμοὶ γενοῦ, κύριε, καὶ ἄκουσόν μου. τὸν ἀγρὸν καὶ τὸ σπήλαιον τὸ ἐν αὐτῷ σοί δίδωμι· ἐναντίον πάντων τῶν πολιτῶν μου δέδωκά σοι· θάψον τὸν νεκρόν σου.
 1	παρ᾿	παρά	ADP	_	_	2	case	_	Gloss=+G=from;-+D=before;-+A=beside,along
 2	ἐμοὶ	ἐμός	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	iobj	_	Gloss=me
-3	γενοῦ	γίνομαι	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	Gloss=to-become,come-to-be|SpaceAfter=No
+3	γενοῦ	γίνομαι	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-become,come-to-be|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	κύριε	κύριος	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	Gloss=lord|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
@@ -4444,7 +4444,7 @@
 2	ἐπηρώτησεν	ἐπερωτάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-ask
 3	αὐτὴν	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	2	obj	_	Gloss=she,-self,same
 4	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next
-5	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|SpaceAfter=No
+5	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-say|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	θυγάτηρ	θυγάτηρ	NOUN	_	Case=Nom,Voc|Gender=Fem|Number=Sing	5	ccomp	_	Gloss=daughter
 8	τίνος	τίς	PRON	_	Case=Gen|Gender=Masc,Fem,Neut|Number=Sing|PronType=Int	7	nmod:poss	_	Gloss=who?-what?
@@ -7090,7 +7090,7 @@
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
 3	Ἰσαὰκ	Ἰσαὰκ	PROPN	_	_	_	_	_	Gloss=Isaac
 4	ἐκεῖθεν	ἐκεῖθεν	ADV	_	_	_	_	_	Gloss=from-there
-5	ὤρυξεν	ὀρύσσω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-dig
+5	ὤρυξεν	ὀρύσσω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-dig
 6	φρέαρ	φρέαρ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Gloss=well,pit
 7	ἕτερον	ἕτερος	ADJ	_	Case=Nom,Acc|Gender=Neut|Number=Sing	6	amod	_	Gloss=another|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
@@ -10662,7 +10662,7 @@
 5	παιδίσκη	παιδίσκη	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	Gloss=maid-servant
 6	Λείας	Λείας	PROPN	_	_	5	nmod:poss	_	Gloss=Leah
 7	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
-8	ἔτεκεν	τίκτω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-give-birth-to
+8	ἔτεκεν	τίκτω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-give-birth-to
 9	ἔτι	ἔτι	ADV	_	_	8	advmod	_	Gloss=also,next
 10	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	11	det	_	Gloss=the
 11	Ἰακὼβ	Ἰακὼβ	PROPN	_	Case=Dat	_	_	_	Gloss=Jacob
@@ -11082,7 +11082,7 @@
 
 # sent_id = Septuagint-Genesis-30:28-grc
 # text = διάστειλον τὸν μισθόν σου πρός με, καὶ δώσω.
-1	διάστειλον	διαστέλλω	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	Gloss=to-name,determine
+1	διάστειλον	διαστέλλω	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-name,determine
 2	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Gloss=the
 3	μισθόν	μισθός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	Gloss=pay,wages,reward
 4	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	nmod:poss	_	Gloss=you,your
@@ -11283,7 +11283,7 @@
 # text = καὶ διέστειλεν διέστειλεν ἐν τῇ ἡμέρᾳ ἐκείνῃ τοὺς τράγους τοὺς ῥαντοὺς καὶ τοὺς διαλεύκους καὶ πάσας τὰς αἶγας τὰς ῥαντὰς καὶ τὰς διαλεύκους καὶ πᾶν, ὃ ἦν λευκὸν ἐν αὐτοῖς, καὶ πᾶν, ὃ ἦν φαιὸν ἐν τοῖς ἀρνάσιν, καὶ ἔδωκεν διὰ χειρὸς τῶν υἱῶν αὐτοῦ.
 1	καὶ	καί	CCONJ	_	_	3	cc	_	Gloss=and,also,even,then,next
 2	διέστειλεν	διαστέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-separate
-3	διέστειλεν	διαστέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-separate
+3	διέστειλεν	διαστέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	Gloss=to-separate
 4	ἐν	ἐν	ADP	_	_	6	case	_	Gloss=in,on,by,with,to
 5	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the
 6	ἡμέρᾳ	ἡμέρα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	obl:tmod	_	Gloss=day

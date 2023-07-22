@@ -1434,7 +1434,7 @@
 2	ἔπλασεν	πλάσσω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-shape,form
 3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh
 4	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=god
-5	ἔτι	ἔτι	ADV	_	_	2		_	Gloss=also,next
+5	ἔτι	ἔτι	ADV	_	_	2	advmod	_	Gloss=also,next
 6	ἐκ	ἐκ	ADP	_	_	8	case	_	Gloss=out,out-of
 7	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Gloss=the
 8	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	Gloss=earth,land
@@ -2996,7 +2996,7 @@
 18	δὲ	δέ	CCONJ	_	_	21	cc	_	Gloss=but,and,however
 19	Θοβέλ	Θοβέλ	PROPN	_	_	17	nmod:poss	_	Gloss=Tubal|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
-21	Νοεμά	Νοεμά	PROPN	_	_	3		_	Gloss=Naamah|SpaceAfter=No
+21	Νοεμά	Νοεμά	PROPN	_	_	3	conj	_	Gloss=Naamah|SpaceAfter=No
 22	.	.	PUNCT	_	_	21	punct	_	_
 
 # sent_id = Septuagint-Genesis-4:23-grc
@@ -6919,7 +6919,7 @@
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
 8	Καϊνᾶν	Καϊνᾶν	PROPN	_	_	9	nsubj	_	Gloss=Cainan
-9	ἐγέννησεν	γεννάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-give-birth
+9	ἐγέννησεν	γεννάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Gloss=to-give-birth
 10	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the
 11	Σαλά	Σαλά	PROPN	_	Case=Acc	9	obj	_	Gloss=Salah|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
@@ -7393,7 +7393,7 @@
 24	ἑκατὸν	ἑκατόν	NUM	_	NumType=Card	26	nummod	_	Gloss=100
 25	τριάκοντα	τριάκοντα	NUM	_	NumType=Card	24	conj	_	Gloss=30
 26	ἔτη	ἔτος	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	22	obj	_	Gloss=years
-27	καὶ	καί	CCONJ	_	_	28		_	Gloss=and,also,even,then,next
+27	καὶ	καί	CCONJ	_	_	28	cc	_	Gloss=and,also,even,then,next
 28	ἐγέννησεν	γεννάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-give-birth
 29	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	Gloss=the
 30	Σαλά	Σαλά	PROPN	_	Case=Acc	28	obj	_	Gloss=Salah|SpaceAfter=No
@@ -7402,7 +7402,7 @@
 33	ἔζησεν	ζάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-live
 34	Καϊνᾶν	Καϊνᾶν	PROPN	_	_	33	nsubj	_	Gloss=Cainan
 35	μετὰ	μετά	ADP	_	_	37	case	_	Gloss=+G=with;-+A=after
-36	τὸ	ὁ	DET	_	Case=Nom,Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	37		_	Gloss=the
+36	τὸ	ὁ	DET	_	Case=Nom,Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	37	det	_	Gloss=the
 37	γεννῆσαι	γεννάω	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	33	obl	_	Gloss=to-beget
 38	αὐτὸν	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	37	nsubj	_	Gloss=he,she,it,-self,same
 39	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	Gloss=the
@@ -9487,9 +9487,9 @@
 
 # sent_id = Septuagint-Genesis-14:24-grc
 # text = πλὴν ὧν ἔφαγον οἱ νεανίσκοι καὶ τῆς μερίδος τῶν ἀνδρῶν τῶν συμπορευθέντων μετ᾿ ἐμοῦ, Ἐσχώλ, Αὐνάν, Μαμβρῆ, οὗτοι λήμψονται μερίδα.
-1	πλὴν	πλήν	ADV	_	_	_	_	_	Gloss=but,however|Unknown=Preposition/Conjunction
+1	πλὴν	πλήν	ADV	_	_	3	advmod	_	Gloss=but,however|Unknown=Preposition/Conjunction
 2	ὧν	ὅς	PRON	_	Case=Gen|Gender=Masc,Fem,Neut|Number=Plur|PronType=Rel	3	obj	_	Gloss=who,which,that,what
-3	ἔφαγον	ἐσθίω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	Gloss=to-eat
+3	ἔφαγον	ἐσθίω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-eat
 4	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	5	det	_	Gloss=the
 5	νεανίσκοι	νεανίσκος	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Gloss=young-men
 6	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
@@ -9509,7 +9509,7 @@
 20	Μαμβρῆ	Μαμβρῆ	PROPN	_	_	16	conj	_	Gloss=Mamre|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	_
 22	οὗτοι	οὗτος	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	23	nsubj	_	Gloss=these
-23	λήμψονται	λαμβάνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	1	parataxis	_	Gloss=to-take,receive
+23	λήμψονται	λαμβάνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	Gloss=to-take,receive
 24	μερίδα	μερίς	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	23	obj	_	Gloss=portion|SpaceAfter=No
 25	.	.	PUNCT	_	_	24	punct	_	_
 
