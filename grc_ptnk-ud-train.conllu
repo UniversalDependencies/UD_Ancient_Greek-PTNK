@@ -6812,7 +6812,7 @@
 # sent_id = Septuagint-Genesis-38:14-grc
 # text = καὶ περιελομένη τὰ ἱμάτια τῆς χηρεύσεως ἀφ᾿ ἑαυτῆς περιεβάλετο θέριστρον καὶ ἐκαλλωπίσατο καὶ ἐκάθισεν πρὸς ταῖς πύλαις Αἰνάν, ἥ ἐστιν ἐν παρόδῳ Θαμνά· εἶδεν γὰρ ὅτι μέγας γέγονεν Σηλώμ, αὐτὸς δὲ οὐκ ἔδωκεν αὐτὴν αὐτῷ γυναῖκα.
 1	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-2	περιελομένη	περιαιρέω	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Mid	9	root	_	Gloss=to-take-away,remove
+2	περιελομένη	περιαιρέω	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Mid	9	advcl	_	Gloss=to-take-away,remove
 3	τὰ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	Gloss=the
 4	ἱμάτια	ἱμάτιον	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	Gloss=clothing
 5	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the
@@ -6855,7 +6855,7 @@
 # sent_id = Septuagint-Genesis-38:15-grc
 # text = καὶ ἰδὼν αὐτὴν Ἰούδας ἔδοξεν αὐτὴν πόρνην εἶναι· κατεκαλύψατο γὰρ τὸ πρόσωπον αὐτῆς, καὶ οὐκ ἐπέγνω αὐτήν.
 1	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next
-2	ἰδὼν	εἴδω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	root	_	Gloss=to-behold,see,know
+2	ἰδὼν	εἴδω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	advcl	_	Gloss=to-behold,see,know
 3	αὐτὴν	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	2	obj	_	Gloss=she,-self,same
 4	Ἰούδας	Ἰούδας	PROPN	_	_	2	nsubj	_	Gloss=Judah
 5	ἔδοξεν	δοκέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-think,suppose
