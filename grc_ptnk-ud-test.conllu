@@ -118,7 +118,7 @@
 7	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	Gloss=the
 8	πόλεως	πόλις	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	Gloss=city
 9	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	Gloss=the
-10	Σοδομῖται	Σοδομῖται	PROPN	_	Case=Nom	11	nsubj	_	Gloss=Sodomites
+10	Σοδομῖται	Σοδομῖται	PROPN	_	Case=Nom	6	appos	_	Gloss=Sodomites
 11	περιεκύκλωσαν	περικυκλόω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Gloss=to-surround
 12	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	Gloss=the
 13	οἰκίαν	οἰκία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	Gloss=house,home
@@ -1101,19 +1101,19 @@
 9	ὄνομα	ὄνομα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Gloss=name
 10	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	9	nmod	_	Gloss=he,she,it,-self,same
 11	Μωὰβ	Μωὰβ	PROPN	_	_	7	xcomp	_	Gloss=Moab
-12	λέγουσα	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	nsubj	_	Gloss=to-say|SpaceAfter=No
+12	λέγουσα	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	Gloss=to-say|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	ἐκ	ἐκ	ADP	_	_	16	case	_	Gloss=out,out-of
 15	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	16	det	_	Gloss=the
-16	πατρός	πατήρ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	parataxis	_	Gloss=father
-17	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	20	obl	_	Gloss=me,my|SpaceAfter=No
+16	πατρός	πατήρ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	ccomp	_	Gloss=father
+17	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	16	nmod	_	Gloss=me,my|SpaceAfter=No
 18	·	·	PUNCT	_	_	19	punct	_	_
 19	οὗτος	οὗτος	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	20	nsubj	_	Gloss=this
 20	πατὴρ	πατήρ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	Gloss=father
 21	Μωαβιτῶν	Μωαβιτῶν	PROPN	_	_	20	nmod	_	Gloss=Moabites
 22	ἕως	ἕως	CCONJ	_	_	25	case	_	Gloss=as-far-as,until,up-to
 23	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	25	det	_	Gloss=the
-24	σήμερον	σήμερον	ADV	_	_	20	obl	_	Gloss=today,this-day
+24	σήμερον	σήμερον	ADV	_	_	25	advmod	_	Gloss=today,this-day
 25	ἡμέρας	ἡμέρα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	20	obl	_	Gloss=days|SpaceAfter=No
 26	.	.	PUNCT	_	_	25	punct	_	_
 
@@ -1560,8 +1560,8 @@
 1	ἔλαβεν	λαμβάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=received,taken
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
 3	Ἀβιμέλεχ	Ἀβιμέλεχ	PROPN	_	_	1	nsubj	_	Gloss=Abimelech,Elimelech
-4	χίλια	χίλιοι	NUM	_	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	1	obj	_	Gloss=1000
-5	δίδραχμα	δίδραχμον	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	Gloss=double-drachma-(i.e.,money)
+4	χίλια	χίλιοι	NUM	_	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	5	nummod	_	Gloss=1000
+5	δίδραχμα	δίδραχμον	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	Gloss=double-drachma-(i.e.,money)
 6	πρόβατα	πρόβατον	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	Gloss=sheep
 7	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
 8	μόσχους	μόσχος	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	Gloss=calves
