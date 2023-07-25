@@ -3817,7 +3817,7 @@
 # sent_id = Septuagint-Genesis-6:2-grc
 # text = ἰδόντες δὲ οἱ υἱοὶ τοῦ θεοῦ τὰς θυγατέρας τῶν ἀνθρώπων, ὅτι καλαί εἰσιν, ἔλαβον ἑαυτοῖς γυναῖκας ἀπὸ πασῶν, ὧν ἐξελέξαντο.
 1	ἰδόντες	εἴδω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	16	advcl	_	Gloss=to-behold,know
-2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
+2	δὲ	δέ	CCONJ	_	_	16	cc	_	Gloss=but,and,however
 3	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	Gloss=the
 4	υἱοὶ	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	Gloss=sons
 5	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	6	det	_	Gloss=the
@@ -5339,9 +5339,9 @@
 
 # sent_id = Septuagint-Genesis-8:9-grc
 # text = καὶ οὐχ εὑροῦσα ἡ περιστερὰ ἀνάπαυσιν τοῖς ποσίν αὐτῆς, ὑπέστρεψεν πρὸς αὐτὸν εἰς τὴν κιβωτόν, ὅτι ὕδωρ ἦν ἐπὶ παντὶ προσώπῳ πάσης τῆς γῆς καὶ ἐκτείνας τὴν χεῖρα αὐτοῦ ἔλαβεν αὐτὴν καὶ εἰσήγαγεν αὐτὴν πρὸς ἑαυτὸν εἰς τὴν κιβωτόν.
-1	καὶ	καί	CCONJ	_	_	3	cc	_	Gloss=and,also,even,then,next
+1	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
 2	οὐχ	οὐ	ADV	_	Polarity=Neg	3	advmod	_	Gloss=no,not
-3	εὑροῦσα	εὑρίσκω	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Gloss=to-find
+3	εὑροῦσα	εὑρίσκω	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	11	advcl	_	Gloss=to-find
 4	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	Gloss=the
 5	περιστερὰ	περιστερά	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Gloss=dove,pigeon
 6	ἀνάπαυσιν	ἀνάπαυσις	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	Gloss=rest
@@ -5349,7 +5349,7 @@
 8	ποσίν	πούς	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	_	_	_	Gloss=foot,footstool
 9	αὐτῆς	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	8	nmod	_	Gloss=she,-self,same|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
-11	ὑπέστρεψεν	ὑποστρέφω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Gloss=to-return
+11	ὑπέστρεψεν	ὑποστρέφω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-return
 12	πρὸς	πρός	ADP	_	_	13	case	_	Gloss=+D=at;-+A=to,toward
 13	αὐτὸν	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	11	obl	_	Gloss=he,she,it,-self,same
 14	εἰς	εἰς	ADP	_	_	16	case	_	Gloss=into,unto,for
@@ -5366,14 +5366,14 @@
 25	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	26	det	_	Gloss=the
 26	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	Gloss=earth,land
 27	καὶ	καί	CCONJ	_	_	28	cc	_	Gloss=and,also,even,then,next
-28	ἐκτείνας	ἐκτείνω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	3	conj	_	Gloss=to-stretch-out
+28	ἐκτείνας	ἐκτείνω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	11	conj	_	Gloss=to-stretch-out
 29	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	30	det	_	Gloss=the
 30	χεῖρα	χείρ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	28	obj	_	Gloss=hand
 31	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	30	nmod	_	Gloss=he,she,it,-self,same
-32	ἔλαβεν	λαμβάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Gloss=received,taken
+32	ἔλαβεν	λαμβάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	Gloss=received,taken
 33	αὐτὴν	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	32	obj	_	Gloss=she,-self,same
 34	καὶ	καί	CCONJ	_	_	35	cc	_	Gloss=and,also,even,then,next
-35	εἰσήγαγεν	εἰσάγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Gloss=to-bring-in
+35	εἰσήγαγεν	εἰσάγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	Gloss=to-bring-in
 36	αὐτὴν	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	35	obj	_	Gloss=she,-self,same
 37	πρὸς	πρός	ADP	_	_	38	case	_	Gloss=+D=at;-+A=to,toward
 38	ἑαυτὸν	ἑαυτοῦ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	35	obl	_	Gloss=oneself
@@ -5435,19 +5435,19 @@
 
 # sent_id = Septuagint-Genesis-8:12-grc
 # text = καὶ ἐπισχὼν ἔτι ἡμέρας ἑπτὰ ἑτέρας πάλιν ἐξαπέστειλεν τὴν περιστεράν καὶ οὐ προσέθετο τοῦ ἐπιστρέψαι πρὸς αὐτὸν ἔτι.—
-1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	ἐπισχὼν	ἐπέχω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Gloss=to-have,hold-upon
+1	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
+2	ἐπισχὼν	ἐπέχω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	advcl	_	Gloss=to-have,hold-upon
 3	ἔτι	ἔτι	ADV	_	_	2	advmod	_	Gloss=also,next
 4	ἡμέρας	ἡμέρα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	obl	_	Gloss=days
 5	ἑπτὰ	ἑπτά	NUM	_	NumType=Card	4	nummod	_	Gloss=seven
 6	ἑτέρας	ἕτερος	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	4	amod	_	Gloss=other
 7	πάλιν	πάλιν	ADV	_	_	_	_	_	Gloss=again
-8	ἐξαπέστειλεν	ἐξαποστέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-send-away,send-forth
+8	ἐξαπέστειλεν	ἐξαποστέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-send-away,send-forth
 9	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	Gloss=the
 10	περιστεράν	περιστερά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	Gloss=dove,pigeon
 11	καὶ	καί	CCONJ	_	_	13	cc	_	Gloss=and,also,even,then,next
 12	οὐ	οὐ	ADV	_	Polarity=Neg	13	advmod	_	Gloss=no,not
-13	προσέθετο	προστίθημι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	Gloss=to-give-over
+13	προσέθετο	προστίθημι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	8	conj	_	Gloss=to-give-over
 14	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	15	det	_	Gloss=the
 15	ἐπιστρέψαι	ἐπιστρέφω	VERB	_	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	xcomp	_	Gloss=to-return
 16	πρὸς	πρός	ADP	_	_	17	case	_	Gloss=+D=at;-+A=to,toward
@@ -6336,14 +6336,14 @@
 
 # sent_id = Septuagint-Genesis-9:23-grc
 # text = καὶ λαβόντες Σὴμ καὶ Ἰάφεθ τὸ ἱμάτιον ἐπέθεντο ἐπὶ τὰ δύο νῶτα αὐτῶν, καὶ ἐπορεύθησαν ὀπισθοφανῶς, καὶ συνεκάλυψαν τὴν γύμνωσιν τοῦ πατρὸς αὐτῶν καὶ τὸ πρόσωπον αὐτῶν ὀπισθοφανές καὶ τὴν γύμνωσιν τοῦ πατρὸς αὐτῶν οὐκ εἶδον.
-1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	λαβόντες	λαμβάνω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	Gloss=to-take,receive
+1	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
+2	λαβόντες	λαμβάνω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	8	advcl	_	Gloss=to-take,receive
 3	Σὴμ	Σὴμ	PROPN	_	_	2	nsubj	_	Gloss=Shem
 4	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next
 5	Ἰάφεθ	Ἰάφεθ	PROPN	_	_	3	conj	_	Gloss=Japheth
 6	τὸ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	Gloss=the
 7	ἱμάτιον	ἱμάτιον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Gloss=garment
-8	ἐπέθεντο	ἐπιτίθημι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	Gloss=to-put-upon
+8	ἐπέθεντο	ἐπιτίθημι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-put-upon
 9	ἐπὶ	ἐπί	ADP	_	_	12	case	_	Gloss=on,upon,against
 10	τὰ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	12	det	_	Gloss=the
 11	δύο	δύο	NUM	_	Gender=Fem,Masc,Neut|Number=Sing|NumType=Card	12	nummod	_	Gloss=two|Unknown=Nom/Gen/Acc
@@ -6351,11 +6351,11 @@
 13	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	12	nmod	_	Gloss=he,she,it,-self,same|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	καὶ	καί	CCONJ	_	_	16	cc	_	Gloss=and,also,even,then,next
-16	ἐπορεύθησαν	πορεύομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	Gloss=to-proceed,go,depart
+16	ἐπορεύθησαν	πορεύομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	conj	_	Gloss=to-proceed,go,depart
 17	ὀπισθοφανῶς	ὀπισθοφανῶς	ADV	_	_	16	advmod	_	Gloss=backward|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_
 19	καὶ	καί	CCONJ	_	_	20	cc	_	Gloss=and,also,even,then,next
-20	συνεκάλυψαν	συγκαλύπτω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-cover,conceal
+20	συνεκάλυψαν	συγκαλύπτω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	Gloss=to-cover,conceal
 21	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	22	det	_	Gloss=the
 22	γύμνωσιν	γύμνωσις	NOUN	_	_	20	obj	_	Gloss=nakedness|Unknown=###NO,PARSE###
 23	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	24	det	_	Gloss=the
@@ -6365,7 +6365,7 @@
 27	τὸ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	28	det	_	Gloss=the
 28	πρόσωπον	πρόσωπον	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	30	nsubj	_	Gloss=face
 29	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	28	nmod	_	Gloss=he,she,it,-self,same
-30	ὀπισθοφανές	ὀπισθοφανής	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	2	conj	_	Gloss=backward
+30	ὀπισθοφανές	ὀπισθοφανής	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	8	conj	_	Gloss=backward
 31	καὶ	καί	CCONJ	_	_	38	cc	_	Gloss=and,also,even,then,next
 32	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	33	det	_	Gloss=the
 33	γύμνωσιν	γύμνωσις	NOUN	_	_	38	obj	_	Gloss=nakedness|Unknown=###NO,PARSE###
@@ -6373,7 +6373,7 @@
 35	πατρὸς	πατήρ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	Gloss=father
 36	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	35	nmod	_	Gloss=he,she,it,-self,same
 37	οὐκ	οὐ	ADV	_	Polarity=Neg	38	advmod	_	Gloss=no,not
-38	εἶδον	ὁράω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-see|SpaceAfter=No
+38	εἶδον	ὁράω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	Gloss=to-see|SpaceAfter=No
 39	.	.	PUNCT	_	_	38	punct	_	_
 
 # sent_id = Septuagint-Genesis-9:24-grc
@@ -8327,14 +8327,14 @@
 # text = ἵνα τί εἶπας ὅτι ἀδελφή μού ἐστιν; καὶ ἔλαβον αὐτὴν ἐμαυτῷ εἰς γυναῖκα. καὶ νῦν ἰδοὺ ἡ γυνή σου ἐναντίον σου· λαβὼν ἀπότρεχε.
 1	ἵνα	ἵνα	SCONJ	_	_	3	mark	_	Gloss=in-order-that
 2	τί	τίς	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Sing|PronType=Int	3	obl	_	Gloss=what?,which?;-+enclitic=anything,something
-3	εἶπας	λέγω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Gloss=to-say
+3	εἶπας	λέγω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	10	advcl	_	Gloss=to-say
 4	ὅτι	ὅτι	SCONJ	_	_	5	mark	_	Gloss=because,that-for
 5	ἀδελφή	ἀδελφή	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	ccomp	_	Gloss=sister
 6	μού	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Gloss=me,my
 7	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Gloss=to-be|SpaceAfter=No
 8	;	;	PUNCT	_	_	9	punct	_	_
 9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
-10	ἔλαβον	λαμβάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Gloss=to-take,receive
+10	ἔλαβον	λαμβάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-take,receive
 11	αὐτὴν	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	10	obj	_	Gloss=she,-self,same
 12	ἐμαυτῷ	ἐμαυτοῦ	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	10	iobj	_	Gloss=myself
 13	εἰς	εἰς	ADP	_	_	14	case	_	Gloss=into,unto,for
@@ -9015,9 +9015,9 @@
 
 # sent_id = Septuagint-Genesis-14:7-grc
 # text = καὶ ἀναστρέψαντες ἤλθοσαν ἐπὶ τὴν πηγὴν τῆς κρίσεως( αὕτη ἐστὶν Κάδης) καὶ κατέκοψαν πάντας τοὺς ἄρχοντας Ἀμαλὴκ καὶ τοὺς Ἀμορραίους τοὺς κατοικοῦντας ἐν Ἀσασανθαμάρ.
-1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	ἀναστρέψαντες	ἀναστρέφω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	Gloss=to-return
-3	ἤλθοσαν	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-come,go
+1	καὶ	καί	CCONJ	_	_	3	cc	_	Gloss=and,also,even,then,next
+2	ἀναστρέψαντες	ἀναστρέφω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	3	advcl	_	Gloss=to-return
+3	ἤλθοσαν	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-come,go
 4	ἐπὶ	ἐπί	ADP	_	_	6	case	_	Gloss=on,upon,against
 5	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	Gloss=the
 6	πηγὴν	πηγή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	Gloss=fountain,well
@@ -11204,24 +11204,24 @@
 
 # sent_id = Septuagint-Genesis-18:2-grc
 # text = ἀναβλέψας δὲ τοῖς ὀφθαλμοῖς αὐτοῦ εἶδεν, καὶ ἰδοὺ τρεῖς ἄνδρες εἱστήκεισαν ἐπάνω αὐτοῦ· καὶ ἰδὼν προσέδραμεν εἰς συνάντησιν αὐτοῖς ἀπὸ τῆς θύρας τῆς σκηνῆς αὐτοῦ καὶ προσεκύνησεν ἐπὶ τὴν γῆν
-1	ἀναβλέψας	ἀναβλέπω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Gloss=to-look-up,gain-sight
-2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
+1	ἀναβλέψας	ἀναβλέπω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	advcl	_	Gloss=to-look-up,gain-sight
+2	δὲ	δέ	CCONJ	_	_	6	cc	_	Gloss=but,and,however
 3	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	4	det	_	Gloss=the
 4	ὀφθαλμοῖς	ὀφθαλμός	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	1	obj	_	Gloss=eye
 5	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	4	nmod	_	Gloss=he,she,it,-self,same
-6	εἶδεν	ὁράω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-see,behold|SpaceAfter=No
+6	εἶδεν	ὁράω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-see,behold|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	καὶ	καί	CCONJ	_	_	12	cc	_	Gloss=and,also,even,then,next
 9	ἰδοὺ	ἰδού	INTJ	_	_	12	discourse	_	Gloss=look!,behold!|Unknown=Particle,,Interjection
 10	τρεῖς	τρεῖς	NUM	_	Case=Acc,Nom|Gender=Fem,Masc|Number=Plur|NumType=Card	11	nummod	_	Gloss=three
 11	ἄνδρες	ἀνήρ	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	12	nsubj	_	Gloss=men,males
-12	εἱστήκεισαν	ἵστημι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-stand
+12	εἱστήκεισαν	ἵστημι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	6	conj	_	Gloss=to-stand
 13	ἐπάνω	ἐπάνω	ADV	_	_	14	case	_	Gloss=above
 14	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	12	obl	_	Gloss=he,she,it,-self,same|SpaceAfter=No
 15	·	·	PUNCT	_	_	16	punct	_	_
 16	καὶ	καί	CCONJ	_	_	17	cc	_	Gloss=and,also,even,then,next
-17	ἰδὼν	εἴδω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	1	conj	_	Gloss=to-behold,see,know
-18	προσέδραμεν	προστρέχω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-run-to
+17	ἰδὼν	εἴδω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	conj	_	Gloss=to-behold,see,know
+18	προσέδραμεν	προστρέχω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	Gloss=to-run-to
 19	εἰς	εἰς	ADP	_	_	20	case	_	Gloss=into,unto,for
 20	συνάντησιν	συνάντησις	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	advcl	_	Gloss=meeting-with
 21	αὐτοῖς	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Plur|PronType=Prs	20	obj	_	Gloss=he,it,-self,same
@@ -11232,7 +11232,7 @@
 26	σκηνῆς	σκηνή	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	Gloss=tabernacle,tent
 27	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	_	_	_	Gloss=he,she,it,-self,same
 28	καὶ	καί	CCONJ	_	_	29	cc	_	Gloss=and,also,even,then,next
-29	προσεκύνησεν	προσκυνέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-worship
+29	προσεκύνησεν	προσκυνέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	Gloss=to-worship
 30	ἐπὶ	ἐπί	ADP	_	_	32	case	_	Gloss=on,upon,against
 31	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	32	det	_	Gloss=the
 32	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	29	obl	_	Gloss=earth,land
@@ -11571,12 +11571,12 @@
 
 # sent_id = Septuagint-Genesis-18:16-grc
 # text = ἐξαναστάντες δὲ ἐκεῖθεν οἱ ἄνδρες κατέβλεψαν ἐπὶ πρόσωπον Σοδόμων καὶ Γομόρρας, Ἁβραὰμ δὲ συνεπορεύετο μετ᾿ αὐτῶν συμπροπέμπων αὐτούς.
-1	ἐξαναστάντες	ἐξανίστημι	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	Gloss=to-rise-up
-2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
+1	ἐξαναστάντες	ἐξανίστημι	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	6	advcl	_	Gloss=to-rise-up
+2	δὲ	δέ	CCONJ	_	_	6	cc	_	Gloss=but,and,however
 3	ἐκεῖθεν	ἐκεῖθεν	ADV	_	_	1	advmod	_	Gloss=from-there
 4	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	Gloss=the
 5	ἄνδρες	ἀνήρ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	Gloss=men,males
-6	κατέβλεψαν	καταβλέπω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-look-down
+6	κατέβλεψαν	καταβλέπω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-look-down
 7	ἐπὶ	ἐπί	ADP	_	_	8	case	_	Gloss=on,upon,against
 8	πρόσωπον	πρόσωπον	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	obl	_	Gloss=face
 9	Σοδόμων	Σοδόμων	PROPN	_	_	8	nmod	_	Gloss=Sodom
@@ -11585,7 +11585,7 @@
 12	,	,	PUNCT	_	_	13	punct	_	_
 13	Ἁβραὰμ	Ἁβραὰμ	PROPN	_	_	15	nsubj	_	Gloss=Abraham
 14	δὲ	δέ	CCONJ	_	_	15	cc	_	Gloss=but,and,however
-15	συνεπορεύετο	συμπορεύομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid,Pass	1	conj	_	Gloss=to-proceed-forth
+15	συνεπορεύετο	συμπορεύομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid,Pass	6	conj	_	Gloss=to-proceed-forth
 16	μετ᾿	μετά	ADP	_	_	17	case	_	Gloss=+G=with;-+A=after
 17	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	15	obl	_	Gloss=he,she,it,-self,same
 18	συμπροπέμπων	συμπροπέμπω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	advcl	_	Gloss=to-go-with,escort
@@ -11696,9 +11696,9 @@
 
 # sent_id = Septuagint-Genesis-18:21-grc
 # text = καταβὰς οὖν ὄψομαι εἰ κατὰ τὴν κραυγὴν αὐτῶν τὴν ἐρχομένην πρός με συντελοῦνται, εἰ δὲ μή, ἵνα γνῶ.
-1	καταβὰς	καταβαίνω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Gloss=to-go-down
+1	καταβὰς	καταβαίνω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	3	advcl	_	Gloss=to-go-down
 2	οὖν	οὖν	ADV	_	_	1	advmod	_	Gloss=now,therefore
-3	ὄψομαι	ὁράω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	1	conj	_	Gloss=to-look-at
+3	ὄψομαι	ὁράω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-look-at
 4	εἰ	εἰ	CCONJ	_	_	_	_	_	Gloss=Conj:-if,since
 5	κατὰ	κατά	ADP	_	_	7	case	_	Gloss=+G=down-from/upon;-+A=according-to,along
 6	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	Gloss=the
@@ -11715,31 +11715,31 @@
 17	μή	μή	ADV	_	Polarity=Neg	20	advcl	_	Gloss=no,not|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_
 19	ἵνα	ἵνα	SCONJ	_	_	20	advcl	_	Gloss=in-order-that
-20	γνῶ	γινώσκω	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-know|SpaceAfter=No
+20	γνῶ	γινώσκω	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Gloss=to-know|SpaceAfter=No
 21	.	.	PUNCT	_	_	20	punct	_	_
 
 # sent_id = Septuagint-Genesis-18:22-grc
 # text = καὶ ἀποστρέψαντες ἐκεῖθεν οἱ ἄνδρες ἦλθον εἰς Σόδομα, Ἁβραὰμ δὲ ἦν ἑστηκὼς ἐναντίον κυρίου.
-1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	ἀποστρέψαντες	ἀποστρέφω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	Gloss=to-turn,return
+1	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next
+2	ἀποστρέψαντες	ἀποστρέφω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	6	advcl	_	Gloss=to-turn,return
 3	ἐκεῖθεν	ἐκεῖθεν	ADV	_	_	2	advmod	_	Gloss=from-there
 4	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	Gloss=the
 5	ἄνδρες	ἀνήρ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	Gloss=men,males
-6	ἦλθον	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-come,go
+6	ἦλθον	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-come,go
 7	εἰς	εἰς	ADP	_	_	8	case	_	Gloss=into,unto,for
 8	Σόδομα	Σόδομα	PROPN	_	_	6	obl	_	Gloss=Sodom|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
 10	Ἁβραὰμ	Ἁβραὰμ	PROPN	_	_	13	dislocated	_	Gloss=Abraham
 11	δὲ	δέ	CCONJ	_	_	13	cc	_	Gloss=but,and,however
 12	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	Gloss=to-be
-13	ἑστηκὼς	ἵστημι	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	2	conj	_	Gloss=to-stand
+13	ἑστηκὼς	ἵστημι	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	conj	_	Gloss=to-stand
 14	ἐναντίον	ἐναντίον	ADP	_	_	15	case	_	Gloss=before|Unknown=and/or
 15	κυρίου	κύριος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	13	obl	_	Gloss=lord|SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 
 # sent_id = Septuagint-Genesis-18:23-grc
 # text = καὶ ἐγγίσας Ἁβραὰμ εἶπεν, μὴ συναπολέσῃς δίκαιον μετὰ ἀσεβοῦς καὶ ἔσται ὁ δίκαιος ὡς ὁ ἀσεβής;
-1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
+1	καὶ	καί	CCONJ	_	_	4	cc	_	Gloss=and,also,even,then,next
 2	ἐγγίσας	ἐγγίζω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	4	advcl	_	Gloss=to-approach
 3	Ἁβραὰμ	Ἁβραὰμ	PROPN	_	_	2	nsubj	_	Gloss=Abraham
 4	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|SpaceAfter=No
@@ -11848,10 +11848,10 @@
 
 # sent_id = Septuagint-Genesis-18:27-grc
 # text = καὶ ἀποκριθεὶς Ἁβραὰμ εἶπεν, νῦν ἠρξάμην λαλῆσαι πρὸς τὸν κύριον, ἐγὼ δέ εἰμι γῆ καὶ σποδός·
-1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	ἀποκριθεὶς	ἀποκρίνω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Gloss=to-answer
+1	καὶ	καί	CCONJ	_	_	4	cc	_	Gloss=and,also,even,then,next
+2	ἀποκριθεὶς	ἀποκρίνω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	advcl	_	Gloss=to-answer
 3	Ἁβραὰμ	Ἁβραὰμ	PROPN	_	_	2	nsubj:pass	_	Gloss=Abraham
-4	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-say|SpaceAfter=No
+4	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	νῦν	νῦν	ADV	_	_	7	discourse	_	Gloss=now
 7	ἠρξάμην	ἄρχω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	4	ccomp	_	Gloss=to-begin,be-first,rule
