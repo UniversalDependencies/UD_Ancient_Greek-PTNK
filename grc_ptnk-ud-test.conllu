@@ -259,7 +259,7 @@
 8	ἦλθες	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-come,go
 9	παροικεῖν	παροικέω	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	8	advcl	_	Gloss=to-reside,dwell|SpaceAfter=No
 10	·	·	PUNCT	_	_	11	punct	_	_
-11	μὴ	μή	ADV	_	Polarity=Neg	_	_	_	Gloss=no,not
+11	μὴ	μή	ADV	_	Polarity=Neg	13	advmod	_	Gloss=no,not
 12	καὶ	καί	CCONJ	_	_	13	cc	_	Gloss=and,also,even,then,next
 13	κρίσιν	κρίσις	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	conj	_	Gloss=judgment,accusation|SpaceAfter=No
 14	;	;	PUNCT	_	_	15	punct	_	_
@@ -442,12 +442,12 @@
 
 # sent_id = Septuagint-Genesis-19:15-grc
 # text = ἡνίκα δὲ ὄρθρος ἐγίνετο, ἐπεσπούδαζον οἱ ἄγγελοι τὸν Λὼτ λέγοντες, ἀναστὰς λαβὲ τὴν γυναῖκά σου καὶ τὰς δύο θυγατέρας σου ἃς ἔχεις, καὶ ἔξελθε, ἵνα μὴ συναπόλῃ ταῖς ἀνομίαις τῆς πόλεως.
-1	ἡνίκα	ἡνίκα	ADV	_	_	_	_	_	Gloss=when
-2	δὲ	δέ	CCONJ	_	_	_	_	_	Gloss=but,and,however
+1	ἡνίκα	ἡνίκα	ADV	_	_	4	advmod	_	Gloss=when
+2	δὲ	δέ	CCONJ	_	_	4	cc	_	Gloss=but,and,however
 3	ὄρθρος	ὄρθρος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Gloss=dawn,early-morning
 4	ἐγίνετο	γίνομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid,Pass	0	root	_	Gloss=to-become,come-to-be|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
-6	ἐπεσπούδαζον	ἐπισπουδάζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	Gloss=to-hurry
+6	ἐπεσπούδαζον	ἐπισπουδάζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	Gloss=to-hurry
 7	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	8	det	_	Gloss=the
 8	ἄγγελοι	ἄγγελος	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Gloss=angel,messenger
 9	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	Gloss=the
@@ -624,7 +624,7 @@
 12	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	Gloss=to-be
 13	μικρά	μικρός	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Plur	5	conj	_	Gloss=small,little|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
-15	ἐκεῖ	ἐκεῖ	ADV	_	_	_	_	_	Gloss=there
+15	ἐκεῖ	ἐκεῖ	ADV	_	_	16	advmod	_	Gloss=there
 16	σωθήσομαι	σώζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Pass	5	parataxis	_	Gloss=to-save|SpaceAfter=No
 17	·	·	PUNCT	_	_	18	punct	_	_
 18	οὐ	οὐ	ADV	_	Polarity=Neg	19	advmod	_	Gloss=no,not
@@ -3876,7 +3876,7 @@
 20	υἱῷ	υἱός	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	17	iobj	_	Gloss=son
 21	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	20	nmod	_	Gloss=me,my
 22	Ἰσαὰκ	Ἰσαὰκ	PROPN	_	Case=Dat	20	appos	_	Gloss=Isaac
-23	ἐκεῖθεν	ἐκεῖθεν	ADV	_	_	_	_	_	Gloss=from-there|SpaceAfter=No
+23	ἐκεῖθεν	ἐκεῖθεν	ADV	_	_	17	advmod	_	Gloss=from-there|SpaceAfter=No
 24	.	.	PUNCT	_	_	23	punct	_	_
 
 # sent_id = Septuagint-Genesis-24:5-grc
@@ -4860,7 +4860,7 @@
 18	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	19	det	_	Gloss=the
 19	υἱῷ	υἱός	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	16	iobj	_	Gloss=son
 20	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	19	nmod	_	Gloss=me,my
-21	ἐκεῖθεν	ἐκεῖθεν	ADV	_	_	_	_	_	Gloss=from-there|SpaceAfter=No
+21	ἐκεῖθεν	ἐκεῖθεν	ADV	_	_	16	advmod	_	Gloss=from-there|SpaceAfter=No
 22	.	.	PUNCT	_	_	21	punct	_	_
 
 # sent_id = Septuagint-Genesis-24:39-grc
@@ -4982,7 +4982,7 @@
 22	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	21	nmod	_	Gloss=me,my|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	_
 24	ἣν	ὅς	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	27	obj	_	Gloss=who,which,that
-25	νῦν	νῦν	ADV	_	_	_	_	_	Gloss=now
+25	νῦν	νῦν	ADV	_	_	27	advmod	_	Gloss=now
 26	ἐγὼ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	27	nsubj	_	Gloss=I
 27	πορεύομαι	πορεύομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	21	acl:relcl	_	Gloss=to-depart,go
 28	ἐπ᾿	ἐπί	ADP	_	_	29	case	_	Gloss=upon,against
@@ -7088,8 +7088,8 @@
 # text = ἀπάρας δὲ Ἰσαὰκ ἐκεῖθεν ὤρυξεν φρέαρ ἕτερον, ἐκρίνοντο δὲ καὶ περὶ ἐκείνου· καὶ ἐπωνόμασεν τὸ ὄνομα αὐτοῦ Ἐχθρία.
 1	ἀπάρας	ἀπαίρω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	advcl	_	Gloss=to-depart
 2	δὲ	δέ	CCONJ	_	_	5	cc	_	Gloss=but,and,however
-3	Ἰσαὰκ	Ἰσαὰκ	PROPN	_	_	_	_	_	Gloss=Isaac
-4	ἐκεῖθεν	ἐκεῖθεν	ADV	_	_	_	_	_	Gloss=from-there
+3	Ἰσαὰκ	Ἰσαὰκ	PROPN	_	_	5	nsubj	_	Gloss=Isaac
+4	ἐκεῖθεν	ἐκεῖθεν	ADV	_	_	5	advmod	_	Gloss=from-there
 5	ὤρυξεν	ὀρύσσω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-dig
 6	φρέαρ	φρέαρ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Gloss=well,pit
 7	ἕτερον	ἕτερος	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Sing	6	amod	_	Gloss=another|SpaceAfter=No
@@ -7324,7 +7324,7 @@
 15	τρόπον	τρόπος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	obj	_	Gloss=manner,way
 16	ἐχρησάμεθά	χράω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	Gloss=to-abuse,exploit
 17	σοί	σός	PRON	_	Case=Dat|Number=Sing|Person=2|Poss=Yes|PronType=Prs	16	iobj	_	Gloss=you
-18	καλῶς	καλῶς	ADV	_	_	_	_	_	Gloss=good,well
+18	καλῶς	καλῶς	ADV	_	_	16	advmod	_	Gloss=good,well
 19	καὶ	καί	CCONJ	_	_	20	cc	_	Gloss=and,also,even,then,next
 20	ἐξαπεστείλαμέν	ἐξαποστέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-send-forth
 21	σὲ	σέ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	20	obj	_	Gloss=you
@@ -7402,7 +7402,7 @@
 21	καὶ	καί	CCONJ	_	_	22	cc	_	Gloss=and,also,even,then,next
 22	εἶπαν	λέγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-say|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	_
-24	οὐχ	οὐ	ADV	_	Polarity=Neg	_	_	_	Gloss=no,not
+24	οὐχ	οὐ	ADV	_	Polarity=Neg	25	advmod	_	Gloss=no,not
 25	εὕρομεν	εὑρίσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	22	ccomp	_	Gloss=to-find
 26	ὕδωρ	ὕδωρ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	25	obj	_	Gloss=water|SpaceAfter=No
 27	.	.	PUNCT	_	_	26	punct	_	_
@@ -9885,7 +9885,7 @@
 10	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	9	nmod	_	Gloss=me,my
 11	εἶ	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	Gloss=to-be|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
-13	οὐ	οὐ	ADV	_	Polarity=Neg	_	_	_	Gloss=no,not
+13	οὐ	οὐ	ADV	_	Polarity=Neg	14	advmod	_	Gloss=no,not
 14	δουλεύσεις	δουλεύω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	Gloss=to-serve
 15	μοι	ἐγώ	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	14	obj	_	Gloss=me
 16	δωρεάν	δωρεάν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	advmod	_	Gloss=without-cause,freely|SpaceAfter=No
@@ -10747,10 +10747,10 @@
 11	ἄνδρα	ἀνήρ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	Gloss=man
 12	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	11	nmod	_	Gloss=me,my|SpaceAfter=No
 13	;	;	PUNCT	_	_	14	punct	_	_
-14	μὴ	μή	ADV	_	Polarity=Neg	_	_	_	Gloss=no,not
+14	μὴ	μή	ADV	_	Polarity=Neg	21	advmod	_	Gloss=no,not
 15	καὶ	καί	CCONJ	_	_	_	_	_	Gloss=and,also,even,then,next
 16	τοὺς	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	17	det	_	Gloss=the
-17	μανδραγόρας	μανδραγόρας	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	Gloss=mandrakes
+17	μανδραγόρας	μανδραγόρας	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	21	obj	_	Gloss=mandrakes
 18	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	19	det	_	Gloss=the
 19	υἱοῦ	υἱός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	Gloss=son
 20	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	19	nmod	_	Gloss=me,my
@@ -10761,7 +10761,7 @@
 25	Ῥαχήλ	Ῥαχήλ	PROPN	_	_	23	nsubj	_	Gloss=Rachel|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	_
 27	οὐχ	οὐ	ADV	_	Polarity=Neg	30	advmod	_	Gloss=no,not
-28	οὕτως	οὕτω	ADV	_	_	_	_	_	Gloss=thus,so,this-way|SpaceAfter=No
+28	οὕτως	οὕτω	ADV	_	_	30	advmod	_	Gloss=thus,so,this-way|SpaceAfter=No
 29	·	·	PUNCT	_	_	30	punct	_	_
 30	κοιμηθήτω	κοιμάω	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	23	ccomp	_	Gloss=to-go-to-bed,lie-down,fall-asleep
 31	μετὰ	μετά	ADP	_	_	32	case	_	Gloss=+G=with;-+A=after
