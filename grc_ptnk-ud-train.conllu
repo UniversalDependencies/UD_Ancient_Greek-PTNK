@@ -5641,7 +5641,7 @@
 3	Ἰωσήφ	Ἰωσήφ	PROPN	_	_	1	nsubj:pass	_	Gloss=Joseph
 4	ἐνύπνιον	ἐνύπνιον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	Gloss=dream
 5	ἀπήγγειλεν	ἀπαγγέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-report,announce
-6	αὐτὸ	αὐτός	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Sing|PronType=Prs	8	case	_	Gloss=it,-self,same
+6	αὐτὸ	αὐτός	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Sing|PronType=Prs	5	nsubj	_	Gloss=it,-self,same
 7	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	8	det	_	Gloss=the
 8	ἀδελφοῖς	ἀδελφός	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	5	obl	_	Gloss=brothers
 9	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	8	nmod	_	Gloss=he,she,it,-self,same
@@ -8246,7 +8246,7 @@
 17	αὐτοῖς	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Plur|PronType=Prs	15	iobj	_	Gloss=he,it,-self,same
 18	Ἰωσήφ	Ἰωσήφ	PROPN	_	_	15	nsubj	_	Gloss=Joseph|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	_
-20	Οὐχὶ	οὐχί	PART	_	Polarity=Neg	23	discourse	_	Gloss=no-indeed
+20	Οὐχὶ	οὐχί	ADV	_	Polarity=Neg	23	advmod	_	Gloss=no-indeed
 21	διὰ	διά	ADP	_	_	23	case	_	Gloss=+G=through,by;-+A=because-of
 22	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	23	det	_	Gloss=the
 23	θεοῦ	θεός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	ccomp	_	Gloss=god
@@ -9783,7 +9783,7 @@
 16	ἱερέως	ἱερεύς	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	appos	_	Gloss=priest
 17	Ἡλίου	ἥλιος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	Gloss=sun,On
 18	πόλεως	πόλις	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	Gloss=city
-19	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	20	case	_	Gloss=he,she,it,-self,same
+19	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	10	dislocated	_	Gloss=he,she,it,-self,same
 20	γυναῖκα	γυνή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	xcomp	_	Gloss=woman,wife|SpaceAfter=No
 21	.	.	PUNCT	_	_	20	punct	_	_
 
@@ -10328,7 +10328,7 @@
 2	δὲ	δέ	CCONJ	_	_	3	cc	_	Gloss=but,and,however
 3	εἶπαν	λέγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
-5	Οὐχί	οὐχί	PART	_	Polarity=Neg	3	ccomp	_	Gloss=no-indeed|SpaceAfter=No
+5	Οὐχί	οὐχί	ADV	_	Polarity=Neg	3	ccomp	_	Gloss=no-indeed|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	κύριε	κύριος	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Gloss=lord|SpaceAfter=No
 8	·	·	PUNCT	_	_	9	punct	_	_
@@ -10365,7 +10365,7 @@
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
 3	αὐτοῖς	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Plur|PronType=Prs	1	iobj	_	Gloss=he,it,-self,same|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
-5	Οὐχί	οὐχί	PART	_	Polarity=Neg	1	ccomp	_	Gloss=no-indeed|SpaceAfter=No
+5	Οὐχί	οὐχί	ADV	_	Polarity=Neg	1	ccomp	_	Gloss=no-indeed|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	ἀλλὰ	ἀλλά	CCONJ	_	_	12	mark	_	Gloss=but
 8	τὰ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	9	det	_	Gloss=the
@@ -10493,7 +10493,7 @@
 33	Φαραώ	Φαραώ	PROPN	_	_	32	nsubj	_	Gloss=Pharaoh|SpaceAfter=No
 34	,	,	PUNCT	_	_	35	punct	_	_
 35	ἦ	ἦ	ADV	_	_	37	advmod	_	Gloss=truly,indeed
-36	μὴν	μήν	ADV	_	Case=Nom|Gender=Masc|Number=Sing	37	advmod	_	Gloss=month;-and-yet,indeed,surely
+36	μὴν	μήν	ADV	_	_	37	advmod	_	Gloss=month;-and-yet,indeed,surely
 37	κατάσκοποί	κατάσκοπος	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	32	advcl	_	Gloss=a-spy
 38	ἐστε	εἰμί	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	37	cop	_	Gloss=to-be|SpaceAfter=No
 39	.	.	PUNCT	_	_	38	punct	_	_
@@ -13630,7 +13630,7 @@
 4	ταῦτα	οὗτος	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Plur|PronType=Dem	3	obj	_	Gloss=these-things|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	λαβεῖν	λαμβάνω	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	Gloss=to-take,receive
-7	αὐτοῖς	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Plur|PronType=Prs	8	case	_	Gloss=he,it,-self,same
+7	αὐτοῖς	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Plur|PronType=Prs	6	iobj	_	Gloss=he,it,-self,same
 8	ἁμάξας	ἅμαξα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obl	_	Gloss=wagon
 9	ἐκ	ἐκ	ADP	_	_	10	case	_	Gloss=out,out-of
 10	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	Gloss=earth,land
@@ -14386,7 +14386,7 @@
 39	·	·	PUNCT	_	_	40	punct	_	_
 40	Μαχὶρ	Μαχὶρ	PROPN	_	_	42	nsubj	_	Gloss=Machir
 41	δὲ	δέ	CCONJ	_	_	42	cc	_	Gloss=but,and,however
-42	ἐγέννησεν	γεννάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	csubj	_	Gloss=to-give-birth
+42	ἐγέννησεν	γεννάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-give-birth
 43	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	44	det	_	Gloss=the
 44	Γαλαάδ	Γαλαάδ	PROPN	_	Case=Acc	42	obj	_	Gloss=Gilead|SpaceAfter=No
 45	.	.	PUNCT	_	_	46	punct	_	_
@@ -15036,15 +15036,15 @@
 4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	5	det	_	Gloss=the
 5	Φαραώ	Φαραώ	PROPN	_	Case=Dat	2	iobj	_	Gloss=Pharaoh|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
-7	Αἱ	ὁ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	38	det	_	Gloss=the
+7	Αἱ	ὁ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	8	det	_	Gloss=the
 8	ἡμέραι	ἡμέρα	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	35	obj	_	Gloss=days
 9	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	10	det	_	Gloss=the
-10	ἐτῶν	ἔτος	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	38	nmod	_	Gloss=years
+10	ἐτῶν	ἔτος	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	Gloss=years
 11	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	Gloss=the
-12	ζωῆς	ζωή	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	40	nmod	_	Gloss=life
-13	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	44	nmod	_	Gloss=me,my|SpaceAfter=No
+12	ζωῆς	ζωή	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	Gloss=life
+13	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	nmod	_	Gloss=me,my|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
-15	ἃς	ὅς	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	48	case	_	Gloss=who,which
+15	ἃς	ὅς	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	16	obj	_	Gloss=who,which
 16	παροικῶ	παροικέω	VERB	_	Aspect=Imp|Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	48	nmod	_	Gloss=to-dwell-beside|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	_
 18	ἑκατὸν	ἑκατόν	NUM	_	_	20	nummod	_	Gloss=100
@@ -15586,7 +15586,7 @@
 16	μέρη	μέρος	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	21	nsubj	_	Gloss=part
 17	ἔσται	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	21	cop	_	Gloss=to-be
 18	ὑμῖν	ὑμεῖς	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	21	iobj	_	Gloss=you
-19	αὐτοῖς	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Plur|PronType=Prs	21	case	_	Gloss=he,it,-self,same
+19	αὐτοῖς	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Plur|PronType=Prs	21	iobj	_	Gloss=he,it,-self,same
 20	εἰς	εἰς	ADP	_	_	21	case	_	Gloss=into,unto,for
 21	σπέρμα	σπέρμα	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	conj	_	Gloss=seed
 22	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	23	det	_	Gloss=the

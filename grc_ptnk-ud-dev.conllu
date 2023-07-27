@@ -4873,7 +4873,7 @@
 1	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
 2	τὰ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	3	nsubj	_	Gloss=the
 3	εἰσπορευόμενα	εἰσπορεύομαι	VERB	_	Aspect=Imp|Case=Acc,Nom|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid,Pass	10	csubj	_	Gloss=to-enter
-4	ἄρσεν	ἄῤῥην	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	3	nsubj	_	Gloss=male,man
+4	ἄρσεν	ἄῤῥην	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	3	dislocated	_	Gloss=male,man
 5	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next
 6	θῆλυ	θῆλυς	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Sing	4	conj	_	Gloss=female,woman
 7	ἀπὸ	ἀπό	ADP	_	_	9	case	_	Gloss=from,away-from
@@ -7119,7 +7119,7 @@
 9	πλίνθους	πλίνθος	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	8	obj	_	Gloss=bricks
 10	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
 11	ὀπτήσωμεν	ὀπτάω	VERB	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	Gloss=bake
-12	αὐτὰς	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Prs	13	case	_	Gloss=she,-self,same
+12	αὐτὰς	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Prs	11	obj	_	Gloss=she,-self,same
 13	πυρί	πῦρ	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	11	obl	_	Gloss=fire|SpaceAfter=No
 14	.	.	PUNCT	_	_	15	punct	_	_
 15	καὶ	καί	CCONJ	_	_	16	cc	_	Gloss=and,also,even,then,next
@@ -8979,11 +8979,11 @@
 19	ἐν	ἐν	ADP	_	_	20	case	_	Gloss=in,on,by,with,to
 20	Ἀσταρὼθ	Ἀσταρὼθ	PROPN	_	_	17	acl:relcl	_	Gloss=Ashtaroth
 21	Καρναὶν	Καρναὶν	PROPN	_	_	20	flat:name	_	Gloss=Karnaim
-22	καὶ	καί	CCONJ	_	_	24	cc	_	Gloss=and,also,even,then,next
-23	ἔθνη	ἔθνος	NOUN	_	Gender=Neut|Number=Plur	24	case	_	Gloss=nations|Unknown=Nom/Acc/Voc
-24	ἰσχυρὰ	ἰσχυρός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	Gloss=mighty
+22	καὶ	καί	CCONJ	_	_	23	cc	_	Gloss=and,also,even,then,next
+23	ἔθνη	ἔθνος	NOUN	_	Gender=Neut|Number=Plur	6	conj	_	Gloss=nations|Unknown=Nom/Acc/Voc
+24	ἰσχυρὰ	ἰσχυρός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	23	amod	_	Gloss=mighty
 25	ἅμα	ἅμα	ADV	_	_	26	case	_	Gloss=together;-ἅμα-πρωῒ=early-in-the-morning|Unknown=Adverb/Preposition
-26	αὐτοῖς	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Plur|PronType=Prs	24	orphan	_	Gloss=he,it,-self,same
+26	αὐτοῖς	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Plur|PronType=Prs	23	orphan	_	Gloss=he,it,-self,same
 27	καὶ	καί	CCONJ	_	_	29	cc	_	Gloss=and,also,even,then,next
 28	τοὺς	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	29	det	_	Gloss=the
 29	Ὀμμαίους	Ὀμμαίους	PROPN	_	Case=Acc	6	conj	_	Gloss=Emim
@@ -11564,7 +11564,7 @@
 12	καὶ	καί	CCONJ	_	_	13	cc	_	Gloss=and,also,even,then,next
 13	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-say|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
-15	οὐχί	οὐχί	PART	_	Polarity=Neg	13	ccomp	_	Gloss=no-indeed
+15	οὐχί	οὐχί	ADV	_	Polarity=Neg	13	ccomp	_	Gloss=no-indeed
 16	ἀλλὰ	ἀλλά	CCONJ	_	_	17	mark	_	Gloss=but
 17	ἐγέλασας	γελάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	15	advcl	_	Gloss=to-laugh|SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_
