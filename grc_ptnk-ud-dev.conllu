@@ -10170,7 +10170,7 @@
 18	,	,	PUNCT	_	_	19	punct	_	_
 19	ὡς	ὡς	ADP	_	_	21	case	_	Gloss=as-soon-as|Unknown=Preposition/Conjunction
 20	ἄν	ἄν	ADP	_	_	21	case	_	Gloss=as-soon-as|Unknown=Preposition/Conjunction
-21	σοί	σός	PRON	_	Case=Dat|Number=Sing|Person=2|Poss=Yes|PronType=Prs	_	_	_	Gloss=you
+21	σοί	σός	PRON	_	Case=Dat|Number=Sing|Person=2|Poss=Yes|PronType=Prs	22	iobj	_	Gloss=you
 22	ἀρεστὸν	ἀρεστός	ADJ	_	Case=Acc|Gender=Masc,Neut|Number=Sing	16	ccomp	_	Gloss=pleasing
 23	ᾖ	εἰμί	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_	Gloss=to-be|SpaceAfter=No
 24	.	.	PUNCT	_	_	25	punct	_	_
@@ -10910,7 +10910,7 @@
 15	,	,	PUNCT	_	_	16	punct	_	_
 16	εἰ	εἰ	SCONJ	_	_	19	mark	_	Gloss=Conj:-if,since
 17	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	18	det	_	Gloss=the
-18	ἑκατονταετεῖ	ἑκατονταετής	ADJ	_	Case=Dat|Gender=Fem,Masc,Neut|Number=Sing	_	_	_	Gloss=100-year-old
+18	ἑκατονταετεῖ	ἑκατονταετής	ADJ	_	Case=Dat|Gender=Fem,Masc,Neut|Number=Sing	19	iobj	_	Gloss=100-year-old
 19	γενήσεται	γίνομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	14	ccomp	_	Gloss=to-become,come-to-be|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
 21	καὶ	καί	CCONJ	_	_	27	cc	_	Gloss=and,also,even,then,next
@@ -11938,7 +11938,7 @@
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	κύριε	κύριος	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	obl	_	Gloss=lord|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
-9	ἐὰν	ἐάν	CCONJ	_	_	_	_	_	Gloss=if,though,when,whenever
+9	ἐὰν	ἐάν	CCONJ	_	_	10	mark	_	Gloss=if,though,when,whenever
 10	λαλήσω	λαλέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	5	conj	_	Gloss=to-speak|SpaceAfter=No
 11	·	·	PUNCT	_	_	12	punct	_	_
 12	ἐὰν	ἐάν	CCONJ	_	_	14	advmod	_	Gloss=if,though,when,whenever
@@ -11963,7 +11963,7 @@
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
-4	ἐπειδὴ	ἐπειδή	CCONJ	_	_	_	_	_	Gloss=then,after-that
+4	ἐπειδὴ	ἐπειδή	CCONJ	_	_	5	cc	_	Gloss=then,after-that
 5	ἔχω	ἔχω	VERB	_	Aspect=Imp|Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	Gloss=to-have,hold
 6	λαλῆσαι	λαλέω	VERB	_	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	xcomp	_	Gloss=to-speak
 7	πρὸς	πρός	ADP	_	_	9	case	_	Gloss=+D=at;-+A=to,toward
@@ -11996,7 +11996,7 @@
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	κύριε	κύριος	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	obl	_	Gloss=lord|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
-9	ἐὰν	ἐάν	CCONJ	_	_	_	_	_	Gloss=if,though,when,whenever
+9	ἐὰν	ἐάν	CCONJ	_	_	10	mark	_	Gloss=if,though,when,whenever
 10	λαλήσω	λαλέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	5	conj	_	Gloss=to-speak
 11	ἔτι	ἔτι	ADV	_	_	10	advmod	_	Gloss=also,next
 12	ἅπαξ	ἅπαξ	ADV	_	_	10	obl	_	Gloss=once
