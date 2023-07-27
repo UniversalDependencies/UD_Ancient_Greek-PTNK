@@ -2074,7 +2074,7 @@
 10	ὀπίσω	ὀπίσω	ADP	_	_	11	case	_	Gloss=back|Unknown=or
 11	ἡμῶν	ἡμεῖς	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	9	obl	_	Gloss=us,our|SpaceAfter=No
 12	.	.	PUNCT	_	_	13	punct	_	_
-13	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	36	mark	_	Gloss=to-say
+13	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	Gloss=to-say
 14	γάρ	γάρ	SCONJ	_	_	13	mark	_	Gloss=for,because|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
 16	ἐξιλάσομαι	ἐξιλάσκομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	2	conj	_	Gloss=to-appease,propitiate
@@ -3335,7 +3335,7 @@
 3	ὁμοιωθησόμεθα	ὁμοιόω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-resemble,conform
 4	ὑμῖν	ὑμεῖς	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	_	Gloss=you
 5	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next
-6	κατοικήσομεν	κατοικέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	11	mark	_	Gloss=to-dwell
+6	κατοικήσομεν	κατοικέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	Gloss=to-dwell
 7	ἐν	ἐν	ADP	_	_	8	case	_	Gloss=in,on,by,with,to
 8	ὑμῖν	ὑμεῖς	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	obl	_	Gloss=you|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
@@ -8027,7 +8027,7 @@
 15	διὰ	διά	ADP	_	_	16	case	_	Gloss=+G=through,by;-+A=because-of
 16	χειρὸς	χείρ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	advcl	_	Gloss=hand
 17	Ἰωσὴφ	Ἰωσὴφ	PROPN	_	_	16	nmod	_	Gloss=Joseph
-18	διὰ	διά	ADP	_	_	23	mark	_	Gloss=+G=through,by;-+A=because-of
+18	διὰ	διά	ADP	_	_	23	case	_	Gloss=+G=through,by;-+A=because-of
 19	τὸ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	23	mark	_	Gloss=the
 20	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	23	mark	_	Gloss=the
 21	κύριον	κύριος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	nsubj	_	Gloss=lord
@@ -8236,7 +8236,7 @@
 7	εἴδομεν	εἴδω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	Gloss=to-see
 8	καὶ	καί	CCONJ	_	_	13	cc	_	Gloss=and,also,even,then,next
 9	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	_	Gloss=the;-oh
-10	συγκρίνων	συγκρίνω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	dislocated:relcl	_	Gloss=to-explain,interpret
+10	συγκρίνων	συγκρίνω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	dislocated	_	Gloss=to-explain,interpret
 11	οὐκ	οὐ	ADV	_	Polarity=Neg	13	advmod	_	Gloss=no,not
 12	ἔστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	Gloss=to-be
 13	αὐτό	αὐτός	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Sing|PronType=Prs	7	conj	_	Gloss=it,-self,same|SpaceAfter=No
@@ -10875,7 +10875,7 @@
 13	ἡμᾶς	ἡμεῖς	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	obj	_	Gloss=us
 14	ἐν	ἐν	ADP	_	_	15	case	_	Gloss=in,on,by,with,to
 15	φυλακῇ	φυλακή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	obl	_	Gloss=guard,guarding;-prison
-16	ὡς	ὡς	ADP	_	_	17	mark	_	Gloss=as|Unknown=Preposition/Conjunction
+16	ὡς	ὡς	SCONJ	_	_	17	mark	_	Gloss=as|Unknown=Preposition/Conjunction
 17	κατασκοπεύοντας	κατασκοπεύω	VERB	_	Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	Gloss=to-spy-out
 18	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	19	det	_	Gloss=the
 19	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	Gloss=earth|SpaceAfter=No
@@ -11432,7 +11432,7 @@
 1	εἰ	εἰ	SCONJ	_	_	6	mark	_	Gloss=Conj:-if,since
 2	μὴ	μή	ADV	_	Polarity=Neg	6	advmod	_	Gloss=no,not
 3	γὰρ	γάρ	SCONJ	_	_	8	mark	_	Gloss=for,because
-4	ἐβραδύναμεν	βραδύνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	mark	_	Gloss=to-delay|SpaceAfter=No
+4	ἐβραδύναμεν	βραδύνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	Gloss=to-delay|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	ἤδη	ἤδη	ADV	_	_	0	root	_	Gloss=already,now
 7	ἄν	ἄν	PART	_	_	8	mark	_	Gloss=whenever,whoever,whatever
@@ -12291,7 +12291,7 @@
 9	;	;	PUNCT	_	_	10	punct	_	_
 10	οὐ	οὐ	ADV	_	Polarity=Neg	16	advmod	_	Gloss=no,not
 11	τοῦτό	οὗτος	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Sing|PronType=Dem	16	nsubj:outer	_	Gloss=this
-12	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop:outer	_	Gloss=to-be|SpaceAfter=No
+12	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	Gloss=to-be|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	ἐν	ἐν	ADP	_	_	15	case	_	Gloss=in,on,by,with,to
 15	ᾧ	ὅς	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Rel	16	obl	_	Gloss=who,which,that
@@ -13037,7 +13037,7 @@
 8	παρὰ	παρά	ADP	_	_	10	case	_	Gloss=+G=from;-+D=before;-+A=beside,along
 9	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	10	det	_	Gloss=the
 10	πατρὸς	πατήρ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	Gloss=father
-11	λέγων	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	24	mark	_	Gloss=to-say
+11	λέγων	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	Gloss=to-say
 12	Ἐὰν	ἐάν	CCONJ	_	_	14	mark	_	Gloss=if,though
 13	μὴ	μή	ADV	_	Polarity=Neg	14	advmod	_	Gloss=no,not
 14	ἀγάγω	ἄγω	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	Gloss=to-lead,bring
@@ -14756,7 +14756,7 @@
 24	ἐν	ἐν	ADP	_	_	25	case	_	Gloss=in,on,by,with,to
 25	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	23	obl	_	Gloss=earth,ground,land
 26	Γεσὲμ	Γεσὲμ	PROPN	_	_	25	nmod	_	Gloss=Goshen
-27	Ἀραβίᾳ	Ἀραβίᾳ	PROPN	_	_	29	mark	_	Gloss=Arabia|SpaceAfter=No
+27	Ἀραβίᾳ	Ἀραβίᾳ	PROPN	_	_	26	nmod	_	Gloss=Arabia|SpaceAfter=No
 28	·	·	PUNCT	_	_	29	punct	_	_
 29	βδέλυγμα	βδέλυγμα	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	23	advcl	_	Gloss=abomination
 30	γάρ	γάρ	SCONJ	_	_	29	mark	_	Gloss=for,because

@@ -1056,7 +1056,7 @@
 10	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	4	acl:relcl	_	Gloss=to-become,come-to-be|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	ᾗ	ὅς	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	13	case	_	Gloss=who,which,that
-13	ἡμέρᾳ	ἡμέρα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	nmod:relcl	_	Gloss=day
+13	ἡμέρᾳ	ἡμέρα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	Gloss=day
 14	ἐποίησεν	ποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	Gloss=to-do,make
 15	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	16	det	_	Gloss=the;-oh
 16	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	Gloss=god
@@ -2966,7 +2966,7 @@
 7	Ἰουβάλ	Ἰουβάλ	PROPN	_	_	0	root	_	Gloss=Jubal|SpaceAfter=No
 8	·	·	PUNCT	_	_	9	punct	_	_
 9	οὗτος	οὗτος	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	12	nsubj:outer	_	Gloss=this
-10	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	cop:outer	_	Gloss=to-be
+10	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	Gloss=to-be
 11	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	Gloss=the;-oh
 12	καταδείξας	καταδεικνύω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	7	parataxis	_	Gloss=to-introduce
 13	ψαλτήριον	ψαλτήριον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	Gloss=psaltery
@@ -5912,7 +5912,7 @@
 # sent_id = Septuagint-Genesis-9:6-grc
 # text = ὁ ἐκχέων αἷμα ἀνθρώπου ἀντὶ τοῦ αἵματος αὐτοῦ ἐκχυθήσεται, ὅτι ἐν εἰκόνι θεοῦ ἐποίησα τὸν ἄνθρωπον.
 1	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Gloss=the;-oh
-2	ἐκχέων	ἐκχέω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	dislocated:relcl	_	Gloss=to-gush-out,shed
+2	ἐκχέων	ἐκχέω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	dislocated	_	Gloss=to-gush-out,shed
 3	αἷμα	αἷμα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Gloss=blood
 4	ἀνθρώπου	ἄνθρωπος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Gloss=man
 5	ἀντὶ	ἀντί	ADP	_	_	7	case	_	Gloss=instead-of,against
@@ -8156,7 +8156,7 @@
 1	ἔσται	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-be
 2	οὖν	οὖν	ADV	_	_	1	advmod	_	Gloss=now,therefore
 3	ὡς	ὡς	ADP	_	_	5	advmod	_	Gloss=as-soon-as|Unknown=Preposition/Conjunction
-4	ἄν	ἄν	ADP	_	_	5	mark	_	Gloss=as-soon-as|Unknown=Preposition/Conjunction
+4	ἄν	ἄν	PART	_	_	5	mark	_	Gloss=as-soon-as|Unknown=Preposition/Conjunction
 5	ἴδωσίν	εἴδω	VERB	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	Gloss=to-see
 6	σὲ	σέ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	obj	_	Gloss=you
 7	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	8	det	_	Gloss=the
@@ -9614,7 +9614,7 @@
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	ἀλλ᾿	ἀλλά	CCONJ	_	_	21	cc	_	Gloss=but
 16	ὃς	ὅς	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	17	nsubj	_	Gloss=who,which,that,what
-17	ἐξελεύσεται	ἐξέρχομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	21	dislocated:relcl	_	Gloss=to-come/go-out
+17	ἐξελεύσεται	ἐξέρχομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	21	dislocated	_	Gloss=to-come/go-out
 18	ἐκ	ἐκ	ADP	_	_	19	case	_	Gloss=out,out-of
 19	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	17	obl	_	Gloss=you,your
 20	οὗτος	οὗτος	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	21	nsubj	_	Gloss=this
@@ -11408,7 +11408,7 @@
 11	;	;	PUNCT	_	_	12	punct	_	_
 12	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	14	nsubj:pass	_	Gloss=the;-oh
 13	δὲ	δέ	CCONJ	_	_	15	cc	_	Gloss=but,and,however
-14	ἀποκριθεὶς	ἀποκρίνω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	15	cc	_	Gloss=to-answer
+14	ἀποκριθεὶς	ἀποκρίνω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	15	advcl	_	Gloss=to-answer
 15	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-say
 16	ἰδοὺ	ἰδού	INTJ	_	_	19	discourse	_	Gloss=look!,behold!|Unknown=Particle,,Interjection
 17	ἐν	ἐν	ADP	_	_	19	case	_	Gloss=in,on,by,with,to
@@ -11609,7 +11609,7 @@
 13	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	nmod	_	Gloss=me,my
 14	ἃ	ὅς	PRON	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	16	obj	_	Gloss=who,which,that
 15	ἐγὼ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	Gloss=I
-16	ποιῶ	ποιέω	VERB	_	Aspect=Imp|Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	obj:relcl	_	Gloss=to-do,make|SpaceAfter=No
+16	ποιῶ	ποιέω	VERB	_	Aspect=Imp|Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	obj	_	Gloss=to-do,make|SpaceAfter=No
 17	;	;	PUNCT	_	_	16	punct	_	_
 
 # sent_id = Septuagint-Genesis-18:18-grc

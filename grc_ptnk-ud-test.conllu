@@ -6894,7 +6894,7 @@
 9	,	,	PUNCT	_	_	10	punct	_	_
 10	ἕως	ἕως	SCONJ	_	_	13	mark	_	Gloss=as-far-as,until,up-to
 11	οὗ	ὅς	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Rel	12	obj	_	Gloss=where;-who,which,that
-12	μέγας	μέγας	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	13	obj:relcl	_	Gloss=great
+12	μέγας	μέγας	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	13	obj	_	Gloss=great
 13	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	8	advcl	_	Gloss=to-become,come-to-be
 14	σφόδρα	σφόδρα	ADV	_	_	13	advmod	_	Gloss=very-much|SpaceAfter=No
 15	·	·	PUNCT	_	_	14	punct	_	_
@@ -10754,7 +10754,7 @@
 18	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	19	det	_	Gloss=the
 19	υἱοῦ	υἱός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	Gloss=son
 20	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	19	nmod	_	Gloss=me,my
-21	λήμψῃ	λαμβάνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	23	cc	_	Gloss=to-take,receive|SpaceAfter=No
+21	λήμψῃ	λαμβάνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	6	conj	_	Gloss=to-take,receive|SpaceAfter=No
 22	;	;	PUNCT	_	_	23	punct	_	_
 23	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-say
 24	δὲ	δέ	CCONJ	_	_	23	cc	_	Gloss=but,and,however
@@ -11416,7 +11416,7 @@
 17	ἵνα	ἵνα	SCONJ	_	_	21	mark	_	Gloss=in-order-that|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_
 19	ὡς	ὡς	ADP	_	_	21	advmod	_	Gloss=as-soon-as|Unknown=Preposition/Conjunction
-20	ἄν	ἄν	ADP	_	_	21	mark	_	Gloss=as-soon-as|Unknown=Preposition/Conjunction
+20	ἄν	ἄν	PART	_	_	21	mark	_	Gloss=as-soon-as|Unknown=Preposition/Conjunction
 21	ἔλθωσιν	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	acl:relcl	_	Gloss=to-come,go
 22	τὰ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	23	det	_	Gloss=the
 23	πρόβατα	πρόβατον	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	21	nsubj	_	Gloss=sheep
