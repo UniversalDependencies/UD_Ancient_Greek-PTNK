@@ -579,7 +579,7 @@
 12	δικαιοσύνην	δικαιοσύνη	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	Gloss=righteousness
 13	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	12	nmod	_	Gloss=you,your|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
-15	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	16	mark	_	Gloss=who,which,that
+15	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	16	nsubj	_	Gloss=who,which,that
 16	ποιεῖς	ποιέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl:relcl	_	Gloss=to-do,make
 17	ἐπ᾿	ἐπί	ADP	_	_	18	case	_	Gloss=upon,against
 18	ἐμέ	ἐγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	16	obl	_	Gloss=me|SpaceAfter=No
@@ -1305,7 +1305,7 @@
 7	ὕπνον	ὕπνος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	Gloss=sleep|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9-10	κἀγὼ	_	_	_	_	_	_	_	_
-9	καί	καί	CCONJ	_	Person=1|PronType=Prs	11	cc	_	Gloss=and-I,even-I|Unknown=plus,Neuter,Singular
+9	καί	καί	CCONJ	_	_	11	cc	_	Gloss=and-I,even-I|Unknown=plus,Neuter,Singular
 10	ἐγώ	ἐγώ	PRON	_	Person=1|PronType=Prs	11	nsubj	_	Gloss=and-I,even-I|Unknown=plus,Neuter,Singular
 11	ἔγνων	γινώσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	Gloss=to-know
 12	ὅτι	ὅτι	SCONJ	_	_	16	mark	_	Gloss=because,that-for
@@ -3425,7 +3425,7 @@
 6	τὸ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	Gloss=the
 7	διπλοῦν	διπλοῦς	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Sing	5	nmod	_	Gloss=double|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
-9	ὅ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	11	mark	_	Gloss=who,which,that;-+enclitic=the
+9	ὅ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	11	nsubj	_	Gloss=who,which,that;-+enclitic=the
 10	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	Gloss=to-be
 11	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	5	acl:relcl	_	Gloss=he,she,it,-self,same|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
@@ -3626,7 +3626,7 @@
 12	τὸ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	13	det	_	Gloss=the
 13	ἀργύριον	ἀργύριον	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	Gloss=silver-money|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
-15	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	16	mark	_	Gloss=who,which,that
+15	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	16	nsubj	_	Gloss=who,which,that
 16	ἐλάλησεν	λαλέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	Gloss=to-speak,talk
 17	εἰς	εἰς	ADP	_	_	19	case	_	Gloss=into,unto,for
 18	τὰ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	19	det	_	Gloss=the
@@ -3669,7 +3669,7 @@
 23	τὸ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	24	det	_	Gloss=the
 24	σπήλαιον	σπήλαιον	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	21	conj	_	Gloss=cave|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	_
-26	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	29	mark	_	Gloss=who,which,that
+26	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	29	nsubj	_	Gloss=who,which,that
 27	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	29	cop	_	Gloss=to-be
 28	ἐν	ἐν	ADP	_	_	29	case	_	Gloss=in,on,by,with,to
 29	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	24	acl:relcl	_	Gloss=he,she,it,-self,same|SpaceAfter=No
@@ -3678,7 +3678,7 @@
 32	πᾶν	πᾶς	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Sing	33	amod	_	Gloss=every,all
 33	δένδρον	δένδρον	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	21	conj	_	Gloss=tree|SpaceAfter=No
 34	,	,	PUNCT	_	_	35	punct	_	_
-35	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	39	mark	_	Gloss=who,which,that
+35	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	39	nsubj	_	Gloss=who,which,that
 36	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	39	cop	_	Gloss=to-be
 37	ἐν	ἐν	ADP	_	_	39	case	_	Gloss=in,on,by,with,to
 38	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	39	det	_	Gloss=the
@@ -3752,7 +3752,7 @@
 6	τὸ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	Gloss=the
 7	σπήλαιον	σπήλαιον	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	Gloss=cave|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
-9	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	12	mark	_	Gloss=who,which,that
+9	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	Gloss=who,which,that
 10	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	Gloss=to-be
 11	ἐν	ἐν	ADP	_	_	12	case	_	Gloss=in,on,by,with,to
 12	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	7	acl:relcl	_	Gloss=he,she,it,-self,same|SpaceAfter=No
@@ -5357,7 +5357,7 @@
 7	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
 8	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	9	det	_	Gloss=the
 9	ἄνδρες	ἀνήρ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	conj	_	Gloss=men,males
-10	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	12	mark	_	Gloss=the
+10	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	12	nsubj	_	Gloss=the
 11	μετ᾿	μετά	ADP	_	_	12	case	_	Gloss=+G=with;-+A=after
 12	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	9	acl:relcl	_	Gloss=he,she,it,-self,same
 13	ὄντες	εἰμί	AUX	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	cop	_	Gloss=to-be|SpaceAfter=No
@@ -5901,7 +5901,7 @@
 21	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	22	det	_	Gloss=the
 22	Χετταίου	Χετταίου	PROPN	_	Case=Gen	20	amod	_	Gloss=Hittite|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	_
-24	ὅ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	27	mark	_	Gloss=who,which,that;-+enclitic=the
+24	ὅ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	27	nsubj	_	Gloss=who,which,that;-+enclitic=the
 25	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	cop	_	Gloss=to-be
 26	ἀπέναντι	ἀπέναντι	ADP	_	_	27	case	_	Gloss=before|Unknown=and/or
 27	Μαμβρῆ	Μαμβρῆ	PROPN	_	_	20	acl:relcl	_	Gloss=Mamre|SpaceAfter=No
@@ -10481,7 +10481,7 @@
 24	καὶ	καί	CCONJ	_	_	25	cc	_	Gloss=and,also,even,then,next
 25	τεκνοποιήσομαι	τεκνοποιέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	13	conj	_	Gloss=to-produce-children
 26-27	κἀγὼ	_	_	_	_	_	_	_	_
-26	καί	καί	CCONJ	_	Person=1|PronType=Prs	27	advmod	_	Gloss=and-I,even-I|Unknown=plus,Neuter,Singular
+26	καί	καί	CCONJ	_	_	27	advmod	_	Gloss=and-I,even-I|Unknown=plus,Neuter,Singular
 27	ἐγώ	ἐγώ	PRON	_	Person=1|PronType=Prs	25	nsubj	_	Gloss=and-I,even-I|Unknown=plus,Neuter,Singular
 28	ἐξ	ἐκ	ADP	_	_	29	case	_	Gloss=out,out-of
 29	αὐτῆς	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	25	obl	_	Gloss=she,-self,same|SpaceAfter=No
@@ -11144,7 +11144,7 @@
 26	πότε	πότε	ADV	_	PronType=Int	27	advmod	_	Gloss=when?,ἕως-πότε-=-how-long?
 27	ποιήσω	ποιέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	16	ccomp	_	Gloss=to-do,make
 28-29	κἀγὼ	_	_	_	_	_	_	_	_
-28	καί	καί	CCONJ	_	Person=1|PronType=Prs	30	advmod	_	Gloss=and-I,even-I|Unknown=plus,Neuter,Singular
+28	καί	καί	CCONJ	_	_	30	advmod	_	Gloss=and-I,even-I|Unknown=plus,Neuter,Singular
 29	ἐγώ	ἐγώ	PRON	_	Person=1|PronType=Prs	30	advmod	_	Gloss=and-I,even-I|Unknown=plus,Neuter,Singular
 30	ἐμαυτῷ	ἐμαυτοῦ	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	27	nsubj	_	Gloss=myself
 31	οἶκον	οἶκος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	27	obl	_	Gloss=house,home|SpaceAfter=No
@@ -11389,7 +11389,7 @@
 28	τὸ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	29	det	_	Gloss=the
 29	λευκόν	λευκός	ADJ	_	Case=Acc|Gender=Masc,Neut|Number=Sing	19	nmod	_	Gloss=white|SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	_	_
-31	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	34	mark	_	Gloss=who,which,that
+31	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	34	nsubj	_	Gloss=who,which,that
 32	ἐλέπισεν	λεπίζω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	nmod	_	Gloss=to-peel|SpaceAfter=No
 33	,	,	PUNCT	_	_	34	punct	_	_
 34	ποικίλον	ποικίλος	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	32	acl:relcl	_	Gloss=motley|SpaceAfter=No
