@@ -160,7 +160,7 @@
 25	μέσον	μέσος	ADJ	_	Case=Acc|Gender=Masc,Neut|Number=Sing	13	conj	_	Gloss=between,middle,among
 26	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	27	det	_	Gloss=the
 27	ὕδατος	ὕδωρ	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	Gloss=water
-28	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	31	mark	_	Gloss=the
+28	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	31	nsubj	_	Gloss=the
 29	ἐπάνω	ἐπάνω	ADV	_	_	31	advmod	_	Gloss=above
 30	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	31	det	_	Gloss=the
 31	στερεώματος	στερέωμα	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	27	acl:relcl	_	Gloss=firmament|SpaceAfter=No
@@ -204,7 +204,7 @@
 6	συναχθήτω	συνάγω	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	ccomp	_	Gloss=to-collect-together
 7	τὸ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	Gloss=the
 8	ὕδωρ	ὕδωρ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	Gloss=water
-9	τὸ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	12	mark	_	Gloss=the
+9	τὸ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	12	nsubj	_	Gloss=the
 10	ὑποκάτω	ὑποκάτω	ADV	_	_	12	advmod	_	Gloss=under,beneath
 11	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	12	det	_	Gloss=the
 12	οὐρανοῦ	οὐρανός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	acl:relcl	_	Gloss=heaven,sky
@@ -225,7 +225,7 @@
 27	συνήχθη	συνάγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	ccomp	_	Gloss=to-collect,gather,assemble
 28	τὸ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	29	det	_	Gloss=the
 29	ὕδωρ	ὕδωρ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	27	nsubj:pass	_	Gloss=water
-30	τὸ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	33	mark	_	Gloss=the
+30	τὸ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	33	nsubj	_	Gloss=the
 31	ὑποκάτω	ὑποκάτω	ADV	_	_	33	advmod	_	Gloss=under,beneath
 32	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	33	det	_	Gloss=the
 33	οὐρανοῦ	οὐρανός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	29	acl:relcl	_	Gloss=heaven,sky
@@ -1370,7 +1370,7 @@
 11	ἀπὸ	ἀπό	ADP	_	_	13	case	_	Gloss=from,away-from
 12	παντὸς	πᾶς	ADJ	_	Case=Gen|Gender=Masc,Neut|Number=Sing	13	amod	_	Gloss=all,every
 13	ξύλου	ξύλον	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	19	obl	_	Gloss=tree,wood
-14	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	17	mark	_	Gloss=the
+14	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	17	nsubj	_	Gloss=the
 15	ἐν	ἐν	ADP	_	_	17	case	_	Gloss=in,on,by,with,to
 16	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	17	det	_	Gloss=the
 17	παραδείσῳ	παράδεισος	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	13	acl:relcl	_	Gloss=garden,paradise
@@ -1465,7 +1465,7 @@
 33	·	·	PUNCT	_	_	34	punct	_	_
 34	καὶ	καί	CCONJ	_	_	45	cc	_	Gloss=and,also,even,then,next
 35	πᾶν	πᾶς	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Sing	45	dislocated	_	Gloss=every,all
-36	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	38	mark	_	Gloss=who,which,that
+36	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	38	xcomp	_	Gloss=who,which,that
 37	ἐὰν	ἐάν	CCONJ	_	_	38	mark	_	Gloss=if,though,when,whenever
 38	ἐκάλεσεν	καλέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	35	acl:relcl	_	Gloss=to-call
 39	αὐτὸ	αὐτός	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	38	obj	_	Gloss=it,-self,same
@@ -1660,7 +1660,7 @@
 6	πάντων	πᾶς	ADJ	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur	8	amod	_	Gloss=all
 7	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	8	det	_	Gloss=the
 8	θηρίων	θηρίον	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	5	obl	_	Gloss=beasts
-9	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	12	mark	_	Gloss=the
+9	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	12	nsubj	_	Gloss=the
 10	ἐπὶ	ἐπί	ADP	_	_	12	case	_	Gloss=on,upon,against
 11	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	Gloss=the
 12	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	acl:relcl	_	Gloss=earth,land|SpaceAfter=No
@@ -1690,7 +1690,7 @@
 36	ἀπὸ	ἀπό	ADP	_	_	38	case	_	Gloss=from,away-from
 37	παντὸς	πᾶς	ADJ	_	Case=Gen|Gender=Masc,Neut|Number=Sing	38	amod	_	Gloss=all,every
 38	ξύλου	ξύλον	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	35	obl	_	Gloss=tree,wood
-39	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	42	mark	_	Gloss=the
+39	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	42	nsubj	_	Gloss=the
 40	ἐν	ἐν	ADP	_	_	42	case	_	Gloss=in,on,by,with,to
 41	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	42	det	_	Gloss=the
 42	παραδείσῳ	παράδεισος	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	38	acl:relcl	_	Gloss=garden,paradise|SpaceAfter=No
@@ -3864,9 +3864,9 @@
 19	αἰῶνα	αἰών	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Gloss=age,eternity|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
 21	διὰ	διά	ADP	_	_	9	obl	_	Gloss=+G=through,by;-+A=because-of
-22	τὸ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	25	mark	_	Gloss=the
+22	τὸ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	25	nsubj	_	Gloss=the
 23	εἶναι	εἰμί	AUX	_	Tense=Pres|VerbForm=Inf|Voice=Act	25	cop	_	Gloss=to-be
-24	αὐτοὺς	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	25	nsubj	_	Gloss=he,she,it,-self,same
+24	αὐτοὺς	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	25	amod	_	Gloss=he,she,it,-self,same
 25	σάρκας	σάρξ	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	21	acl:relcl	_	Gloss=flesh|SpaceAfter=No
 26	·	·	PUNCT	_	_	27	punct	_	_
 27	ἔσονται	εἰμί	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	35	cop	_	Gloss=to-be
@@ -4509,7 +4509,7 @@
 17	δὲ	δέ	CCONJ	_	_	19	cc	_	Gloss=but,and,however
 18	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	19	det	_	Gloss=the
 19	κτηνῶν	κτῆνος	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	7	conj	_	Gloss=cattle
-20	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	22	mark	_	Gloss=the
+20	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	22	nsubj	_	Gloss=the
 21	μὴ	μή	ADV	_	Polarity=Neg	22	advmod	_	Gloss=no,not
 22	καθαρῶν	καθαρός	ADJ	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur	19	acl:relcl	_	Gloss=clean,pure
 23	δύο	δύο	NUM	_	Gender=Fem,Masc,Neut|Number=Sing	19	orphan	_	Gloss=two|Unknown=Nom/Gen/Acc
@@ -4536,7 +4536,7 @@
 44	ἀπὸ	ἀπό	ADP	_	_	46	case	_	Gloss=from,away-from
 45	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	46	det	_	Gloss=the
 46	πετεινῶν	πετεινόν	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	32	conj	_	Gloss=birds
-47	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	49	mark	_	Gloss=the
+47	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	49	nsubj	_	Gloss=the
 48	μὴ	μή	ADV	_	Polarity=Neg	49	advmod	_	Gloss=no,not
 49	καθαρῶν	καθαρός	ADJ	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur	46	acl:relcl	_	Gloss=clean,pure
 50	δύο	δύο	NUM	_	Gender=Fem,Masc,Neut|Number=Sing	46	orphan	_	Gloss=two|Unknown=Nom/Gen/Acc
@@ -4670,7 +4670,7 @@
 13	ἀπὸ	ἀπό	ADP	_	_	15	case	_	Gloss=from,away-from
 14	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	15	det	_	Gloss=the
 15	κτηνῶν	κτῆνος	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	4	conj	_	Gloss=cattle
-16	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	17	mark	_	Gloss=the
+16	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	17	nsubj	_	Gloss=the
 17	μὴ	μή	ADV	_	Polarity=Neg	15	acl:relcl	_	Gloss=no,not
 18	καθαρῶν	καθαρός	ADJ	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur	17	obl	_	Gloss=clean,pure|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	_
@@ -6062,7 +6062,7 @@
 12	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	Gloss=the
 13	διαθήκης	διαθήκη	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	Gloss=covenant|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
-15	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	17	mark	_	Gloss=who,which,that
+15	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	17	obj	_	Gloss=who,which,that
 16	ἐγὼ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	Gloss=I
 17	δίδωμι	δίδωμι	VERB	_	Aspect=Imp|Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	Gloss=to-give
 18	ἀνὰ	ἀνά	ADP	_	_	19	case	_	Gloss=up,again
@@ -8854,7 +8854,7 @@
 6	παρὰ	παρά	ADP	_	_	8	case	_	Gloss=+G=from;-+D=before;-+A=beside,along
 7	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	Gloss=the
 8	δρῦν	δρῦς	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	Gloss=oak
-9	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	15	mark	_	Gloss=the
+9	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	Gloss=the
 10	Μαμβρῆ	Μαμβρῆ	PROPN	_	_	8	nmod	_	Gloss=Mamre|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	ἣ	ὅς	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	Gloss=who,which,that;-+enclitic=the
@@ -9325,7 +9325,7 @@
 18	καὶ	καί	CCONJ	_	_	20	cc	_	Gloss=and,also,even,then,next
 19	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	20	det	_	Gloss=the
 20	βασιλέων	βασιλεύς	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	17	conj	_	Gloss=kings
-21	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	23	mark	_	Gloss=the
+21	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	23	nsubj	_	Gloss=the
 22	μετ᾿	μετά	ADP	_	_	23	case	_	Gloss=+G=with;-+A=after
 23	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	20	acl:relcl	_	Gloss=he,she,it,-self,same|SpaceAfter=No
 24	—	—	PUNCT	_	_	25	punct	_	_
@@ -11076,7 +11076,7 @@
 19	ἄρσεν	ἄῤῥην	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	21	nmod	_	Gloss=male,man
 20	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	21	det	_	Gloss=the
 21	ἀνδρῶν	ἀνήρ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	conj	_	Gloss=men
-22	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	25	mark	_	Gloss=the
+22	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	25	nsubj	_	Gloss=the
 23	ἐν	ἐν	ADP	_	_	25	case	_	Gloss=in,on,by,with,to
 24	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	25	det	_	Gloss=the
 25	οἴκῳ	οἶκος	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	21	acl:relcl	_	Gloss=house,home
@@ -11812,7 +11812,7 @@
 22	.	.	PUNCT	_	_	23	punct	_	_
 23	μηδαμῶς	μηδαμῶς	ADV	_	_	1	parataxis	_	Gloss=by-no-means|SpaceAfter=No
 24	·	·	PUNCT	_	_	25	punct	_	_
-25	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	31	mark	_	Gloss=the;-oh
+25	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	26	nsubj	_	Gloss=the;-oh
 26	κρίνων	κρίνω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	31	nsubj	_	Gloss=to-judge
 27	πᾶσαν	πᾶς	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	29	amod	_	Gloss=every,all
 28	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	29	det	_	Gloss=the
