@@ -1845,7 +1845,7 @@
 11	δοχὴν	δοχή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	Gloss=feast
 12	μεγάλην	μέγας	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	11	amod	_	Gloss=big,great|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
-14	ᾗ	ὅς	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	15	case	_	Gloss=who,which,that
+14	ᾗ	ὅς	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	15	det	_	Gloss=who,which,that
 15	ἡμέρᾳ	ἡμέρα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	Gloss=day
 16	ἀπεγαλακτίσθη	ἀπογαλακτίζω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	15	acl:relcl	_	Gloss=to-wean
 17	Ἰσαὰκ	Ἰσαὰκ	PROPN	_	_	16	nsubj:pass	_	Gloss=Isaac

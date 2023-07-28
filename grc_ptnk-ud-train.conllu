@@ -7678,7 +7678,7 @@
 # text = ἐγένετο δὲ τοιαύτη τις ἡμέρα, εἰσῆλθεν Ἰωσὴφ εἰς τὴν οἰκίαν ποιεῖν τὰ ἔργα αὐτοῦ, καὶ οὐθεὶς ἦν τῶν ἐν τῇ οἰκίᾳ ἔσω,
 1	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-become,come-to-be
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
-3	τοιαύτη	τοιοῦτος	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	5	case	_	Gloss=such
+3	τοιαύτη	τοιοῦτος	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	Gloss=such
 4	τις	τίς	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Int	5	det	_	Gloss=someone,something
 5	ἡμέρα	ἡμέρα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	obl	_	Gloss=day|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
@@ -15076,7 +15076,7 @@
 44	πατέρων	πατήρ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	42	nmod	_	Gloss=fathers
 45	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	44	nmod	_	Gloss=me,my|SpaceAfter=No
 46	,	,	PUNCT	_	_	47	punct	_	_
-47	ἃς	ὅς	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	48	case	_	Gloss=who,which
+47	ἃς	ὅς	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	48	nsubj	_	Gloss=who,which
 48	ἡμέρας	ἡμέρα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	38	nmod	_	Gloss=days
 49	παρῴκησαν	παροικέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	48	nmod	_	Gloss=to-inhabit|SpaceAfter=No
 50	.	.	PUNCT	_	_	49	punct	_	_
