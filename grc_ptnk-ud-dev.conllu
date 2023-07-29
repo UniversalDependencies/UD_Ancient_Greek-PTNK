@@ -5147,7 +5147,7 @@
 25	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	26	det	_	Gloss=the
 26	ἑρπετῶν	ἑρπετόν	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	6	conj	_	Gloss=reptiles|SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	_
-28	ὅσα	ὅσος	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Plur	31	mark	_	Gloss=all-who;-as-great-as
+28	ὅσα	ὅσος	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Plur	31	nsubj	_	Gloss=all-who;-as-great-as
 29	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	31	cop	_	Gloss=to-be
 30	μετ᾿	μετά	ADP	_	_	31	case	_	Gloss=+G=with;-+A=after
 31	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	26	acl:relcl	_	Gloss=he,she,it,-self,same
@@ -5573,7 +5573,7 @@
 3	τὰ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	4	det	_	Gloss=the
 4	θηρία	θηρίον	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	26	obj	_	Gloss=wild-beasts|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
-6	ὅσα	ὅσος	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Plur	9	mark	_	Gloss=all-who;-as-great-as
+6	ὅσα	ὅσος	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Plur	9	nsubj	_	Gloss=all-who;-as-great-as
 7	ἐστὶν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	Gloss=to-be
 8	μετὰ	μετά	ADP	_	_	9	case	_	Gloss=+G=with;-+A=after
 9	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	acl:relcl	_	Gloss=you,your|SpaceAfter=No
@@ -8370,7 +8370,7 @@
 13	καὶ	καί	CCONJ	_	_	14	cc	_	Gloss=and,also,even,then,next
 14	πάντα	πᾶς	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	8	conj	_	Gloss=all,every|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
-16	ὅσα	ὅσος	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Plur	18	mark	_	Gloss=all-who;-as-great-as
+16	ὅσα	ὅσος	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Plur	18	nsubj	_	Gloss=all-who;-as-great-as
 17	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	_	Gloss=to-be
 18	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	14	acl:relcl	_	Gloss=he,she,it,-self,same|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	_
@@ -9252,7 +9252,7 @@
 3	ἐπ᾿	ἐπί	ADP	_	_	4	case	_	Gloss=upon,against
 4	αὐτοὺς	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	2	obl	_	Gloss=he,she,it,-self,same
 5	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	Gloss=the
-6	νύκτα	νύξ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	advmod	_	Gloss=night|SpaceAfter=No
+6	νύκτα	νύξ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	Gloss=night|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	αὐτὸς	αὐτός	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	Gloss=he,she,it,-self,same
 9	καὶ	καί	CCONJ	_	_	11	cc	_	Gloss=and,also,even,then,next
