@@ -6503,7 +6503,7 @@
 15	ἕως	ἕως	CCONJ	_	_	17	case	_	Gloss=as-far-as,until,up-to
 16	πρὸς	πρός	ADP	_	_	17	case	_	Gloss=+D=at;-+A=to,toward
 17	ἄνθρωπόν	ἄνθρωπος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	obl	_	Gloss=man
-18	τινα	τις	PRON	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	17	det	_	Gloss=something,someone
+18	τινα	τις	PRON	_	Case=Acc|Gender=Neut|Number=Plur	17	det	_	Gloss=something,someone
 19	Ὀδολλαμίτην	Ὀδολλαμίτην	PROPN	_	_	17	amod	_	Gloss=Adullamite|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
 21	ᾧ	ὅς	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Rel	23	iobj	_	Gloss=who,which,that

@@ -8728,7 +8728,7 @@
 3	μετ᾿	μετά	ADP	_	_	4	case	_	Gloss=+G=with;-+A=after
 4	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	2	obl	_	Gloss=he,she,it,-self,same
 5	ἡμέρας	ἡμέρα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	obl	_	Gloss=days
-6	τινὰς	τις	PRON	_	Case=Acc|Gender=Fem,Masc|Number=Plur|PronType=Ind	5	det	_	Gloss=someone,something
+6	τινὰς	τις	PRON	_	Case=Acc|Gender=Fem,Masc|Number=Plur	5	det	_	Gloss=someone,something
 7	ἕως	ἕως	CCONJ	_	_	2	obl	_	Gloss=as-far-as,until,up-to
 8	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	9	det	_	Gloss=the
 9	ἀποστρέψαι	ἀποστρέφω	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	acl:relcl	_	Gloss=to-turn,return
