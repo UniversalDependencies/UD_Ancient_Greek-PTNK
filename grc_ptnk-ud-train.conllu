@@ -9155,7 +9155,7 @@
 11	ἑπτὰ	ἑπτά	NUM	_	_	12	nummod	_	Gloss=seven
 12	βόας	βοῦς	NOUN	_	Case=Acc|Gender=Fem,Masc|Number=Plur	2	obj	_	Gloss=oxen
 13	τὰς	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	14	det	_	Gloss=the
-14	πρώτας	πρῶτος	NUM	_	Case=Acc|Degree=Sup|Gender=Fem|Number=Plur	12	nummod	_	Gloss=first
+14	πρώτας	πρῶτος	NUM	_	Case=Acc|Gender=Fem|Number=Plur	12	nummod	_	Gloss=first
 15	τὰς	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	16	det	_	Gloss=the
 16	καλὰς	καλός	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	12	amod	_	Gloss=good
 17	καὶ	καί	CCONJ	_	_	18	cc	_	Gloss=and,also,even,then,next
