@@ -5260,7 +5260,7 @@
 15	μηνί	μήν	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	22	obl	_	Gloss=month|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	Gloss=the
-18	πρώτῃ	πρῶτος	NUM	_	Case=Dat|Degree=Sup|Gender=Fem|Number=Sing	22	iobj	_	Gloss=first
+18	πρώτῃ	πρῶτος	NUM	_	Case=Dat|Gender=Fem|Number=Sing	22	iobj	_	Gloss=first
 19	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	20	det	_	Gloss=the
 20	μηνός	μήν	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	Gloss=month|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	_
@@ -5473,7 +5473,7 @@
 13	Νῶε	Νῶε	PROPN	_	Case=Gen	11	nmod	_	Gloss=Noah|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	17	det	_	Gloss=the
-16	πρώτου	πρῶτος	NUM	_	Case=Gen|Degree=Sup|Gender=Masc,Neut|Number=Sing	17	nummod	_	Gloss=first
+16	πρώτου	πρῶτος	NUM	_	Case=Gen|Gender=Masc,Neut|Number=Sing	17	nummod	_	Gloss=first
 17	μηνός	μήν	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	Gloss=month|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_
 19	μιᾷ	εἷς	NUM	_	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	Gloss=one

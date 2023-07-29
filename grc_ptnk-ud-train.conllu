@@ -1974,7 +1974,7 @@
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἐνετείλατο	ἐντέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-command,order
 3	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	4	det	_	Gloss=the
-4	πρώτῳ	πρῶτος	NUM	_	Case=Dat|Degree=Sup|Gender=Masc,Neut|Number=Sing	2	iobj	_	Gloss=first
+4	πρώτῳ	πρῶτος	NUM	_	Case=Dat|Gender=Masc,Neut|Number=Sing	2	iobj	_	Gloss=first
 5	λέγων	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	Gloss=to-say|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	ἐάν	ἐάν	SCONJ	_	_	9	cc	_	Gloss=if,though,when,whenever
@@ -2031,7 +2031,7 @@
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἐνετείλατο	ἐντέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-command,order
 3	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	4	det	_	Gloss=the
-4	πρώτῳ	πρῶτος	NUM	_	Case=Dat|Degree=Sup|Gender=Masc,Neut|Number=Sing	2	ccomp	_	Gloss=first
+4	πρώτῳ	πρῶτος	NUM	_	Case=Dat|Gender=Masc,Neut|Number=Sing	2	ccomp	_	Gloss=first
 5	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
 6	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	7	det	_	Gloss=the
 7	δευτέρῳ	δεύτερος	NUM	_	Case=Dat|Gender=Masc,Neut|Number=Sing	4	conj	_	Gloss=second
@@ -2465,7 +2465,7 @@
 8	υἱοὺς	υἱός	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	conj	_	Gloss=sons
 9	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	8	nmod	_	Gloss=he,she,it,-self,same
 10	ἐν	ἐν	ADP	_	_	11	case	_	Gloss=in,on,by,with,to
-11	πρώτοις	πρῶτος	NUM	_	Case=Dat|Degree=Sup|Gender=Masc,Neut|Number=Plur	2	obl	_	Gloss=first-(ones)
+11	πρώτοις	πρῶτος	NUM	_	Case=Dat|Gender=Masc,Neut|Number=Plur	2	obl	_	Gloss=first-(ones)
 12	καὶ	καί	CCONJ	_	_	13	cc	_	Gloss=and,also,even,then,next
 13	Λείαν	Λείαν	PROPN	_	_	2	conj	_	Gloss=Leah
 14	καὶ	καί	CCONJ	_	_	16	cc	_	Gloss=and,also,even,then,next
