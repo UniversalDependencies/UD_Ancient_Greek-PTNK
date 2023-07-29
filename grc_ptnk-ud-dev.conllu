@@ -1817,7 +1817,7 @@
 20	καὶ	καί	CCONJ	_	_	21	cc	_	Gloss=and,also,even,then,next
 21	ὡραῖόν	ὡραῖος	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Sing	7	conj	_	Gloss=mature,beautiful
 22	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	cop	_	Gloss=to-be
-23	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	24	mark	_	Gloss=the
+23	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	24	det	_	Gloss=the
 24	κατανοῆσαι	κατανοέω	VERB	_	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	advcl	_	Gloss=to-consider|SpaceAfter=No
 25	·	·	PUNCT	_	_	26	punct	_	_
 26	καὶ	καί	CCONJ	_	_	32	cc	_	Gloss=and,also,even,then,next
@@ -2826,7 +2826,7 @@
 26	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	27	det	_	Gloss=the
 27	Κάϊν	Κάϊν	PROPN	_	Case=Dat	21	iobj	_	Gloss=Cain|SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	_
-29	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	31	mark	_	Gloss=the
+29	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	31	det	_	Gloss=the
 30	μὴ	μή	ADV	_	Polarity=Neg	31	advmod	_	Gloss=no,not
 31	ἀνελεῖν	ἀναιρέω	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	advcl	_	Gloss=to-kill
 32	αὐτὸν	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	31	obj	_	Gloss=he,she,it,-self,same
@@ -10433,7 +10433,7 @@
 1	Ἅβραμ	Ἅβραμ	PROPN	_	_	3	nsubj	_	Gloss=Abram
 2	δὲ	δέ	CCONJ	_	_	3	cc	_	Gloss=but,and,however
 3	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-be
-4	ὀγδοήκοντα	ὀγδοήκοντα	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	6	nummod	_	Gloss=eighty
+4	ὀγδοήκοντα	ὀγδοήκοντα	NUM	_	Case=Nom|Gender=Masc|Number=Plur	6	nummod	_	Gloss=eighty
 5	ἓξ	ἕξ	NUM	_	_	4	conj	_	Gloss=six|Unknown=Ordinal
 6	ἐτῶν	ἔτος	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	3	conj	_	Gloss=years|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
