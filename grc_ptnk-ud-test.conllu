@@ -303,10 +303,10 @@
 13	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	Gloss=the
 14	οἶκον	οἶκος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	Gloss=house,home
 15	καὶ	καί	CCONJ	_	_	20	cc	_	Gloss=and,also,even,then,next
-16	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	19	det	_	Gloss=the
+16	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	17	det	_	Gloss=the
 17	θύραν	θύρα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	Gloss=door,gate
 18	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	19	det	_	Gloss=the
-19	οἴκου	οἶκος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	20	obj	_	Gloss=house,home
+19	οἴκου	οἶκος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	Gloss=house,home
 20	ἀπέκλεισαν	ἀποκλείω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	Gloss=to-shut,lock|SpaceAfter=No
 21	·	·	PUNCT	_	_	20	punct	_	_
 
@@ -685,7 +685,7 @@
 16	ἐκεῖ	ἐκεῖ	ADV	_	_	15	advmod	_	Gloss=there|SpaceAfter=No
 17	.	.	PUNCT	_	_	18	punct	_	_
 18	διὰ	διά	ADP	_	_	19	case	_	Gloss=+G=through,by;-+A=because-of
-19	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	20	advmod	_	Gloss=this
+19	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	20	obl	_	Gloss=this
 20	ἐκάλεσεν	καλέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	Gloss=to-call
 21	τὸ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	22	det	_	Gloss=the
 22	ὄνομα	ὄνομα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	20	obj	_	Gloss=name
@@ -3712,7 +3712,7 @@
 # sent_id = Septuagint-Genesis-23:19-grc
 # text = μετὰ ταῦτα ἔθαψεν Ἁβραὰμ Σάρραν τὴν γυναῖκα αὐτοῦ ἐν τῷ σπηλαίῳ τοῦ ἀγροῦ τῷ διπλῷ, ὅ ἐστιν ἀπέναντι Μαμβρῆ( αὕτη ἐστὶν Χεβρὼν) ἐν τῇ γῇ Χαναάν.
 1	μετὰ	μετά	ADP	_	_	2	case	_	Gloss=+G=with;-+A=after
-2	ταῦτα	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	3	advmod	_	Gloss=these-things
+2	ταῦτα	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	3	obl	_	Gloss=these-things
 3	ἔθαψεν	θάπτω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-bury
 4	Ἁβραὰμ	Ἁβραὰμ	PROPN	_	_	3	nsubj	_	Gloss=Abraham
 5	Σάρραν	Σάρραν	PROPN	_	Case=Acc	3	obj	_	Gloss=Sarah
@@ -4440,7 +4440,7 @@
 
 # sent_id = Septuagint-Genesis-24:23-grc
 # text = καὶ ἐπηρώτησεν αὐτὴν καὶ εἶπεν, θυγάτηρ τίνος εἶ; ἀνάγγειλόν μοι· εἰ ἔστιν παρὰ τῷ πατρί σου τόπος ἡμῖν καταλῦσαι;
-1	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next
+1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἐπηρώτησεν	ἐπερωτάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-ask
 3	αὐτὴν	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	2	obj	_	Gloss=she,-self,same
 4	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next
@@ -4654,8 +4654,8 @@
 8	εὐλογητὸς	εὐλογητός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	Gloss=blessed
 9	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	Gloss=lord|SpaceAfter=No
 10	·	·	PUNCT	_	_	11	punct	_	_
-11	ἵνα	ἵνα	SCONJ	_	_	13	advmod	_	Gloss=in-order-that
-12	τί	τίς	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Sing|PronType=Int	13	advmod	_	Gloss=what?,which?;-+enclitic=anything,something
+11	ἵνα	ἵνα	SCONJ	_	_	13	mark	_	Gloss=in-order-that
+12	τί	τίς	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Sing|PronType=Int	13	obl	_	Gloss=what?,which?;-+enclitic=anything,something
 13	ἕστηκας	ἵστημι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	Gloss=to-stand
 14	ἔξω	ἔξω	ADV	_	_	13	obl	_	Gloss=outside|SpaceAfter=No
 15	;	;	PUNCT	_	_	16	punct	_	_
@@ -5000,16 +5000,16 @@
 7	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	8	det	_	Gloss=the
 8	ὕδατος	ὕδωρ	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	Gloss=water|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
-10	καὶ	καί	CCONJ	_	_	22	cc	_	Gloss=and,also,even,then,next
+10	καὶ	καί	CCONJ	_	_	17	cc	_	Gloss=and,also,even,then,next
 11	αἱ	ὁ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	12	det	_	Gloss=the
-12	θυγατέρες	θυγάτηρ	NOUN	_	Case=Nom,Voc|Gender=Fem|Number=Plur	29	dislocated	_	Gloss=daughters
+12	θυγατέρες	θυγάτηρ	NOUN	_	Case=Nom,Voc|Gender=Fem|Number=Plur	17	nsubj	_	Gloss=daughters
 13	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	14	det	_	Gloss=the
 14	ἀνθρώπων	ἄνθρωπος	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	Gloss=man
 15	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	Gloss=the
 16	πόλεως	πόλις	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	Gloss=city
-17	ἐξελεύσονται	ἐξέρχομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	24	acl:relcl	_	Gloss=to-come/go-out
+17	ἐξελεύσονται	ἐξέρχομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	3	conj	_	Gloss=to-come/go-out
 18	ὑδρεύσασθαι	ὑδρεύω	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	17	advcl	_	Gloss=to-draw-water
-19	ὕδωρ	ὕδωρ	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	6	nmod	_	Gloss=water|SpaceAfter=No
+19	ὕδωρ	ὕδωρ	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	18	obj	_	Gloss=water|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
 21	καὶ	καί	CCONJ	_	_	22	cc	_	Gloss=and,also,even,then,next
 22	ἔσται	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	3	conj	_	Gloss=to-be
@@ -5499,8 +5499,8 @@
 1	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
 2	εὐλόγησαν	εὐλογέω	VERB	_	Aspect=Perf|Case=Acc,Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	8	advcl	_	Gloss=to-bless
 3	Ῥεβέκκαν	Ῥεβέκκαν	PROPN	_	_	2	obj	_	Gloss=Rebekah
-4	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	Gloss=the
-5	ἀδελφὴν	ἀδελφή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	dislocated	_	Gloss=sister
+4	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	Gloss=the
+5	ἀδελφὴν	ἀδελφή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	appos	_	Gloss=sister
 6	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	5	nmod	_	Gloss=he,she,it,-self,same
 7	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
 8	εἶπαν	λέγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
@@ -5522,7 +5522,7 @@
 24	τὰς	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	25	det	_	Gloss=the
 25	πόλεις	πόλις	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	20	obj	_	Gloss=cities
 26	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	27	det	_	Gloss=the
-27	ὑπεναντίων	ὑπεναντίος	ADJ	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur	20	obj	_	Gloss=contrary,opponent|SpaceAfter=No
+27	ὑπεναντίων	ὑπεναντίος	ADJ	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur	25	nmod	_	Gloss=contrary,opponent|SpaceAfter=No
 28	.	.	PUNCT	_	_	27	punct	_	_
 
 # sent_id = Septuagint-Genesis-24:61-grc
@@ -6301,7 +6301,7 @@
 # text = καὶ μετὰ τοῦτο ἐξῆλθεν ὁ ἀδελφὸς αὐτοῦ, καὶ ἡ χεὶρ αὐτοῦ ἐπειλημμένη τῆς πτέρνης Ἡσαῦ· καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰακώβ. Ἰσαὰκ δὲ ἦν ἐτῶν ἑξήκοντα, ὅτε ἔτεκεν αὐτοὺς Ῥεβέκκα.
 1	καὶ	καί	CCONJ	_	_	4	cc	_	Gloss=and,also,even,then,next
 2	μετὰ	μετά	ADP	_	_	3	case	_	Gloss=+G=with;-+A=after
-3	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	advmod	_	Gloss=this
+3	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	obl	_	Gloss=this
 4	ἐξῆλθεν	ἐξέρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-go-out,come-out
 5	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	Gloss=the;-oh
 6	ἀδελφὸς	ἀδελφός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Gloss=brother
@@ -6418,7 +6418,7 @@
 17	ἐκλείπω	ἐκλείπω	VERB	_	Aspect=Imp|Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Gloss=to-faint|SpaceAfter=No
 18	.	.	PUNCT	_	_	19	punct	_	_
 19	διὰ	διά	ADP	_	_	20	case	_	Gloss=+G=through,by;-+A=because-of
-20	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	21	advmod	_	Gloss=this
+20	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	21	obl	_	Gloss=this
 21	ἐκλήθη	καλέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	parataxis	_	Gloss=to-call
 22	τὸ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	23	det	_	Gloss=the
 23	ὄνομα	ὄνομα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	21	obj	_	Gloss=name
@@ -7257,8 +7257,8 @@
 3	αὐτοῖς	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Plur|PronType=Prs	2	iobj	_	Gloss=he,it,-self,same
 4	Ἰσαάκ	Ἰσαάκ	PROPN	_	_	2	nsubj	_	Gloss=Isaac|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
-6	ἵνα	ἵνα	SCONJ	_	_	8	advmod	_	Gloss=in-order-that
-7	τί	τίς	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Sing|PronType=Int	8	advmod	_	Gloss=what?,which?;-+enclitic=anything,something
+6	ἵνα	ἵνα	SCONJ	_	_	8	mark	_	Gloss=in-order-that
+7	τί	τίς	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Sing|PronType=Int	8	obl	_	Gloss=what?,which?;-+enclitic=anything,something
 8	ἤλθατε	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	Gloss=to-come,go
 9	πρός	πρός	ADP	_	_	10	case	_	Gloss=+D=at;-+A=to,toward
 10	με	ἐγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obl	_	Gloss=me|SpaceAfter=No
@@ -7415,7 +7415,7 @@
 4	Ὅρκος	ὅρκος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	xcomp	_	Gloss=oath|SpaceAfter=No
 5	·	·	PUNCT	_	_	6	punct	_	_
 6	διὰ	διά	ADP	_	_	7	case	_	Gloss=+G=through,by;-+A=because-of
-7	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	advmod	_	Gloss=this
+7	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	obl	_	Gloss=this
 8	ὄνομα	ὄνομα	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	Gloss=name
 9	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	Gloss=the
 10	πόλει	πόλις	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	8	nmod	_	Gloss=city
@@ -10121,8 +10121,8 @@
 26	Σοὶ	σός	PRON	_	Case=Dat|Number=Sing|Person=2|Poss=Yes|PronType=Prs	24	obl	_	Gloss=you|SpaceAfter=No
 27	;	;	PUNCT	_	_	28	punct	_	_
 28	καὶ	καί	CCONJ	_	_	31	cc	_	Gloss=and,also,even,then,next
-29	ἵνα	ἵνα	SCONJ	_	_	31	advmod	_	Gloss=in-order-that
-30	τί	τίς	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Sing|PronType=Int	31	advmod	_	Gloss=what?,which?;-+enclitic=anything,something
+29	ἵνα	ἵνα	SCONJ	_	_	31	mark	_	Gloss=in-order-that
+30	τί	τίς	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Sing|PronType=Int	31	obl	_	Gloss=what?,which?;-+enclitic=anything,something
 31	παρελογίσω	παραλογίζομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	24	conj	_	Gloss=to-deceive,lead-astray
 32	με	ἐγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	31	obj	_	Gloss=me|SpaceAfter=No
 33	;	;	PUNCT	_	_	32	punct	_	_
@@ -10357,7 +10357,7 @@
 25	υἱούς	υἱός	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	21	obj	_	Gloss=sons|SpaceAfter=No
 26	·	·	PUNCT	_	_	27	punct	_	_
 27	διὰ	διά	ADP	_	_	28	case	_	Gloss=+G=through,by;-+A=because-of
-28	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	29	advmod	_	Gloss=this
+28	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	29	obl	_	Gloss=this
 29	ἐκάλεσεν	καλέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	Gloss=to-call
 30	τὸ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	31	det	_	Gloss=the
 31	ὄνομα	ὄνομα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	29	obj	_	Gloss=name
@@ -10382,7 +10382,7 @@
 13	κυρίῳ	κύριος	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	12	iobj	_	Gloss=lord|SpaceAfter=No
 14	·	·	PUNCT	_	_	15	punct	_	_
 15	διὰ	διά	ADP	_	_	16	case	_	Gloss=+G=through,by;-+A=because-of
-16	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	17	advmod	_	Gloss=this
+16	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	17	obl	_	Gloss=this
 17	ἐκάλεσεν	καλέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	Gloss=to-call
 18	τὸ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	19	det	_	Gloss=the
 19	ὄνομα	ὄνομα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	Gloss=name
@@ -10542,7 +10542,7 @@
 17	υἱόν	υἱός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	Gloss=son|SpaceAfter=No
 18	·	·	PUNCT	_	_	19	punct	_	_
 19	διὰ	διά	ADP	_	_	20	case	_	Gloss=+G=through,by;-+A=because-of
-20	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	21	advmod	_	Gloss=this
+20	τοῦτο	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	21	obl	_	Gloss=this
 21	ἐκάλεσεν	καλέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	Gloss=to-call
 22	τὸ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	23	det	_	Gloss=the
 23	ὄνομα	ὄνομα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	21	obj	_	Gloss=name
@@ -10655,9 +10655,9 @@
 
 # sent_id = Septuagint-Genesis-30:12-grc
 # text = καὶ συνέλαβεν Ζέλφα ἡ παιδίσκη Λείας καὶ ἔτεκεν ἔτι τῷ Ἰακὼβ υἱὸν δεύτερον.
-1	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
+1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	συνέλαβεν	συλλαμβάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-help,conceive,catch
-3	Ζέλφα	Ζέλφα	PROPN	_	Case=Nom	8	nsubj	_	Gloss=Zilpah
+3	Ζέλφα	Ζέλφα	PROPN	_	Case=Nom	2	nsubj	_	Gloss=Zilpah
 4	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	Gloss=the
 5	παιδίσκη	παιδίσκη	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	Gloss=maid-servant
 6	Λείας	Λείας	PROPN	_	_	5	nmod	_	Gloss=Leah
