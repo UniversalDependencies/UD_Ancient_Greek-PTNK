@@ -2529,7 +2529,7 @@
 14	ὄνομα	ὄνομα	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	11	obj	_	Gloss=name
 15	κυρίου	κύριος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	Gloss=lord
 16	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	appos	_	Gloss=god
-17	αἰώνιος	αἰώνιος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	16	nmod	_	Gloss=eternal|SpaceAfter=No
+17	αἰώνιος	αἰώνιος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	16	amod	_	Gloss=eternal|SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_
 
 # sent_id = Septuagint-Genesis-21:34-grc
@@ -3008,7 +3008,7 @@
 5	ὤμοσα	ὄμνυμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	Gloss=to-swear|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	λέγει	λέγω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	Gloss=to-say
-8	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	nmod	_	Gloss=lord|SpaceAfter=No
+8	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Gloss=lord|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
 10	οὗ	ὅς	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Rel	12	obl	_	Gloss=where;-who,which,that
 11	εἵνεκεν	ἕνεκα	ADP	_	_	10	case	_	Gloss=because-of,on-account-of
@@ -11367,7 +11367,7 @@
 3	ἑαυτῷ	ἑαυτοῦ	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	iobj	_	Gloss=himself,herself,itself
 4	Ἰακὼβ	Ἰακὼβ	PROPN	_	Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Jacob
 5	ῥάβδον	ῥάβδος	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	Gloss=rod,staff
-6	στυρακίνην	στυράκινος	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	Gloss=poplar
+6	στυρακίνην	στυράκινος	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	Gloss=poplar
 7	χλωρὰν	χλωρός	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	Gloss=green,pale
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
 9	καρυίνην	καρύϊνος	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	6	conj	_	Gloss=walnut
