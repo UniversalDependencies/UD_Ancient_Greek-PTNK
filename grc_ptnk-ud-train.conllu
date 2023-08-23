@@ -9441,7 +9441,7 @@
 4	δευτερῶσαι	δευτερόω	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	obl	_	Gloss=to-repeat
 5	τὸ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	Gloss=the
 6	ἐνύπνιον	ἐνύπνιον	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	Gloss=dream
-7	Φαραὼ	Φαραὼ	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	_	Gloss=Pharaoh
+7	Φαραὼ	Φαραὼ	PROPN	_	Gender=Masc|Number=Sing	6	nmod	_	Gloss=Pharaoh
 8	δίς	δίς	ADV	_	_	4	advmod	_	Gloss=again,twice|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
 10	ὅτι	ὅτι	SCONJ	_	_	11	mark	_	Gloss=because,that-for
