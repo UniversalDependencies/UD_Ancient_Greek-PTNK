@@ -1797,10 +1797,10 @@
 7	ἐποίησεν	ποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	Gloss=to-do,make
 8	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Gloss=lord|SpaceAfter=No
 9	·	·	PUNCT	_	_	10	punct	_	_
-10	ὃς	ὅς	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	Gloss=who,which,that,what
+10	ὃς	ὅς	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	Gloss=who,which,that,what
 11	γὰρ	γάρ	SCONJ	_	_	15	mark	_	Gloss=for,because
 12	ἄν	ἄν	PART	_	_	13	mark	_	Gloss=whenever,whoever,whatever
-13	ἀκούσῃ	ἀκούω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	15	nsubj	_	Gloss=to-hear|SpaceAfter=No
+13	ἀκούσῃ	ἀκούω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	10	acl:relcl	_	Gloss=to-hear|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	συγχαρεῖταί	συγχαίρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	7	advcl	_	Gloss=to-rejoice-with
 16	μοι	ἐγώ	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	15	iobj	_	Gloss=me|SpaceAfter=No
@@ -1845,8 +1845,8 @@
 12	μεγάλην	μέγας	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	11	amod	_	Gloss=big,great|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	ᾗ	ὅς	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	15	det	_	Gloss=who,which,that
-15	ἡμέρᾳ	ἡμέρα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	Gloss=day
-16	ἀπεγαλακτίσθη	ἀπογαλακτίζω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	15	acl:relcl	_	Gloss=to-wean
+15	ἡμέρᾳ	ἡμέρα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	16	obl	_	Gloss=day
+16	ἀπεγαλακτίσθη	ἀπογαλακτίζω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	9	advcl	_	Gloss=to-wean
 17	Ἰσαὰκ	Ἰσαὰκ	PROPN	_	Gender=Masc|Number=Sing	16	nsubj:pass	_	Gloss=Isaac
 18	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	19	det	_	Gloss=the;-oh
 19	υἱὸς	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	appos	_	Gloss=son
@@ -7331,11 +7331,11 @@
 23	εἰρήνης	εἰρήνη	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	20	obl	_	Gloss=peace|SpaceAfter=No
 24	·	·	PUNCT	_	_	25	punct	_	_
 25	καὶ	καί	CCONJ	_	_	28	cc	_	Gloss=and,also,even,then,next
-26	νῦν	νῦν	ADV	_	_	28	advmod	_	Gloss=now
+26	νῦν	νῦν	ADV	_	_	28	obl	_	Gloss=now
 27	σὺ	σύ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	28	nsubj	_	Gloss=you
 28	εὐλογητὸς	εὐλογητός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	20	ccomp	_	Gloss=blessed
 29	ὑπὸ	ὑπό	ADP	_	_	30	case	_	Gloss=+-G-=-by-(agency);-+-A-=-under
-30	κυρίου	κύριος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	Gloss=lord|SpaceAfter=No
+30	κυρίου	κύριος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	28	obl	_	Gloss=lord|SpaceAfter=No
 31	.	.	PUNCT	_	_	30	punct	_	_
 
 # sent_id = Septuagint-Genesis-26:30-grc
