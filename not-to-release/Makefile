@@ -7,6 +7,7 @@ ready/%.conllu: temp/%.hbo.conllu temp/%.grc.conllu temp/%.align.txt project.py
 #temp/genesis.hbo.conllu:
 
 lexicon.tsv: extract_lexicon.py
+	./extract_lexicon.py > $@
 
 temp/%.grc.conllu: lexicon.tsv
 	./parse_chapter.py $* > $@

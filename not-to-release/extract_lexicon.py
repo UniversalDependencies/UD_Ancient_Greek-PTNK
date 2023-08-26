@@ -5,92 +5,124 @@ import glob
 import sys
 
 known_pos = {
-    'Adj:': 'ADJ',
-    'Adverb': 'ADV',
-    'Adv:': 'ADV',
-    'article:': 'DET',
-    'Article:': 'DET',
-    'Conjunction': 'CCONJ', # TODO
-    'Noun:': 'NOUN',
+    'adj': 'ADJ',
+    'adjective': 'ADJ',
+    'adverb': 'ADV',
+    'adv': 'ADV',
+    'article': 'DET',
+    'conjunction': 'CCONJ', # TODO
+    'interjection': 'INTJ',
     'noun': 'NOUN',
-    'Number': 'NUM',
     'number': 'NUM',
-    'Numeral': 'NUM',
-    'Part:': 'PART', # TODO: maybe actually VERB participle?
+    'numeral': 'NUM',
+    'part': 'PART', # TODO: maybe actually VERB participle?
     'particle': 'PART',
-    'PREP': 'ADP',
-    'Preposition': 'ADP',
-    'Prep': 'ADP',
-    'Pronoun:': 'PRON',
-    'pronoun:': 'PRON',
-    'Verb:': 'VERB',
+    'prep': 'ADP',
+    'preposition': 'ADP',
+    'pronoun': 'PRON',
+    'verb': 'VERB',
 }
 
 known_tags = {
     '1st': 'Person=1',
     '2nd': 'Person=2',
     '3rd': 'Person=3',
-    '1Aor': 'Aspect=Aor',
-    '2Aor': 'Aspect=Aor',
-    '1Fut': 'Tense=Fut',
-    '2Fut': 'Tense=Fut',
-    '1Perf': 'Aspect=Perf',
-    '2Perf': 'Aspect=Perf',
-    'Acc': 'Case=Acc',
-    'Act': 'Voice=Act',
-    'Aor': 'Tense=Aor',
-    'Cardinal': 'NumType=Card',
+    '1aor': 'Aspect=Perf|Tense=Past',
+    '2aor': 'Aspect=Perf|Tense=Past',
+    '1fut': 'Aspect=Imp|Tense=Fut',
+    '2fut': 'Aspect=Imp|Tense=Fut',
+    '1perf': 'Aspect=Perf|Tense=Past',
+    '2perf': 'Aspect=Perf|Tense=Past',
+    'acc': 'Case=Acc',
+    'act': 'Voice=Act',
+    'aor': 'Aspect=Perf|Tense=Past',
     'cardinal': 'NumType=Card',
-    'Comparative': 'Degree=Cmp',
-    'Dat': 'Case=Dat',
-    'Definite': 'Definite=Def',
-    'Fem': 'Gender=Fem',
-    'Fem;': 'Gendef=Fem',
-    'Fut': 'Tense=Fut',
-    'Gen': 'Case=Gen',
-    'Imperative': 'Mood=Imp',
-    'Imperativ': 'Mood=Imp',
-    'Imperat': 'Mood=Imp',
-    'Imperfect': 'Aspect=Impf',
-    'Imperf': 'Aspect=Impf',
-    'Ind': 'Mood=Ind',
-    'Indefinite': 'Definite=Ind',
-    'Ind/Subj': 'Mood=Ind,Sub',
-    'Infin': 'VerbForm=Inf',
-    'Masc': 'Gender=Masc',
-    'Masc/Fem': 'Gender=Masc,Fem',
-    'Masc/Neut': 'Gender=Masc,Neut',
-    'MFN': 'Gender=Masc,Fem,Neut',
-    'Mid': 'Voice=Mid',
-    'Mid/Pass': 'Voice=Mid,Pass',
-    'Neut': 'Gender=Neut',
-    'Nom': 'Case=Nom',
-    'Nom/Acc': 'Case=Nom,Acc',
-    'Nom/Voc': 'Case=Nom,Voc',
-    'Opt': 'Mood=Opt',
-    'Pass': 'Voice=Pass',
-    'Perf': 'Aspect=Perf',
-    'Personal': 'PronType=Prs',
-    'Plur': 'Number=Plur',
+    'comparative': 'Degree=Cmp',
+    'dat': 'Case=Dat',
+    'definite': 'Definite=Def',
+    'demonstrative': 'PronType=Dem',
+    'fem': 'Gender=Fem',
+    'fem;': 'Gendef=Fem',
+    'fut': 'Aspect=Imp|Tense=Fut',
+    'futperf': 'Aspect=Perf|Tense=Fut',
+    'gen': 'Case=Gen',
+    'imperative': 'Mood=Imp',
+    'imperativ': 'Mood=Imp',
+    'imperat': 'Mood=Imp',
+    'imperfect': 'Aspect=Imp|Tense=Past',
+    'imperf': 'Aspect=Impf',
+    'ind': 'Mood=Ind',
+    'ind/imperative': 'Mood=Imp,Ind',
+    'indefinite': 'Definite=Ind',
+    'ind/subj': 'Mood=Ind,Sub',
+    'infin': 'VerbForm=Inf',
+    'interrogative': 'PronType=Int',
+    'masc': 'Gender=Masc',
+    'masc/fem': 'Gender=Fem,Masc',
+    'masc/neut': 'Gender=Masc,Neut',
+    'mfn': 'Gender=Fem,Masc,Neut',
+    'mid': 'Voice=Mid',
+    'mid/pass': 'Voice=Mid,Pass',
+    'neg.': 'Polarity=Neg',
+    'neut': 'Gender=Neut',
+    'nom': 'Case=Nom',
+    'nom/acc': 'Case=Acc,Nom',
+    'nom/acc/voc': 'Case=Acc,Nom,Voc',
+    'nom/voc': 'Case=Nom,Voc',
+    'opt': 'Mood=Opt',
+    'pass': 'Voice=Pass',
+    'perf': 'Aspect=Perf|Tense=Pres',
+    'personal': 'PronType=Prs',
+    'pluperf': 'Aspect=Perf|Tense=Pqp',
     'plur': 'Number=Plur',
-    'Pres': 'Tense=Pres',
-    'Reflexive': 'PronType=Prs|Reflex=Yes',
-    'Relative': 'PronType=Rel',
-    'Sing': 'Number=Sing',
-    'Subj': 'Mood=Sub',
-    'Superlative': 'Degree=Sup',
-    'Voc': 'Case=Voc',
+    'plural': 'Number=Plur',
+    'possessive': 'PronType=Prs|Possessive=Yes',
+    'pres': 'Tense=Pres',
+    'pres/imperfect': 'Aspect=Imp|Tense=Past,Pres',
+    'pres/fut': 'Aspect=Imp|Tense=Fut,Pres',
+    'reciprocal': 'PronType=Rcp',
+    'reflexive': 'PronType=Prs|Reflex=Yes',
+    'relative': 'PronType=Rel',
+    'sing': 'Number=Sing',
+    'singular': 'Number=Sing',
+    'subj': 'Mood=Sub',
+    'superlative': 'Degree=Sup',
+    'voc': 'Case=Voc',
+}
+
+skip_tags = {
+    'transliterated',
+    'hebrew',
+    'word',
+    'meaning',
+    'form',
+    '',
+    'aramaic',
+    'enclitic',
+    'transliteration',
+    'or',
+    '+',
+    'and',
+    'and/or',
+    'contracted',
+    'indeclined',
+    'verbal',
+    'of',
+    'person',
 }
 
 def process_parse(p):
     upos = ''
     feats = []
     unk = []
-    for w in p.split():
+    for w_ in p.replace('Fut Perf', 'FutPerf').split():
+        w = w_.strip(':').lower()
         if w in known_pos:
             upos += known_pos[w]
         elif w in known_tags:
-            feats.append(known_tags[w])
+            feats += known_tags[w].split('|')
+        elif w in skip_tags:
+            continue
         else:
             unk.append(w)
     if unk:
@@ -178,7 +210,9 @@ class LexiconParser(HTMLParser):
                         upos, feats = process_parse(p)
                         if self.cur_root == 'εἰμί':
                             upos = 'AUX'
-                        print(f'{self.cur_page}#{ref}\t{head}\t{self.cur_root}\t{upos}\t{feats}')
+                        if '/names/' in self.cur_page:
+                            upos = 'PROPN'
+                        print(f'{self.cur_page.replace("KOINE", "..")}#{ref}\t{head}\t{self.cur_root}\t{upos}\t{feats}')
                         weird = False
                         for c in ' ,':
                             for s in [head, self.cur_root]:
@@ -198,7 +232,8 @@ class LexiconParser(HTMLParser):
             self.in_fieldset = False
 
 p = LexiconParser()
-for fname in sorted(glob.glob('KOINE/lexicon/*.html')):
-    p.cur_page = fname
-    with open(fname) as fin:
-        p.feed(fin.read())
+for dirname in ['lexicon', 'names']:
+    for fname in sorted(glob.glob(f'KOINE/{dirname}/*.html')):
+        p.cur_page = fname
+        with open(fname) as fin:
+            p.feed(fin.read())

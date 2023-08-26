@@ -10,7 +10,7 @@ with open('lexicon.tsv') as fin:
         ls = line.strip().split('\t')
         if not ls or ls[0] in MORPH:
             continue
-        MORPH['../'+ls[0]] = ls[1:]
+        MORPH[ls[0]] = ls[1:]
 
 class ChapterParser(HTMLParser):
     in_article = False
@@ -57,9 +57,11 @@ class ChapterParser(HTMLParser):
         if tag in ['sup', 'h4']:
             self.in_skip_element = False
     def write_tree(self):
-        print(f'# sent_id = {self.chapter}_{self.verse}')
+        print(f'# sent_id = {self.chapter.replace("KOINE/","")}_{self.verse}')
         for i, (link, gloss, surf) in enumerate(self.sentence):
             data = MORPH.get(link)
+            if not data and link and '/names/' not in link:
+                data = MORPH.get(link.replace('/lexicon/', '/names/'))
             ln = ['_']*10
             ln[0] = str(i+1)
             ln[1] = surf
@@ -84,8 +86,9 @@ p = ChapterParser()
 book = sys.argv[1]
 book2file = {
     'genesis': 'gen',
+    'ruth': 'ruth',
 }
-for fname in glob.glob(f'KOINE/lxx/{book2file[book]}*.html'):
+for fname in sorted(glob.glob(f'KOINE/lxx/{book2file[book]}*.html')):
     p.chapter = fname.rstrip('.html')
     with open(fname) as fin:
         p.feed(fin.read())
