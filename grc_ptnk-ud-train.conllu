@@ -18021,7 +18021,7 @@
 14	καὶ	καί	CCONJ	_	_	20	cc	_	Gloss=and,also,even,then,next
 15	ὄνομα	ὄνομα	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	20	nsubj	_	Gloss=name
 16	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur	18	det	_	Gloss=the
-17	δυσὶν	δύο	ADJ	_	Case=Dat|Gender=Fem,Masc|Number=Plur	18	nummod	_	Gloss=two
+17	δυσὶν	δύο	NUM	_	Case=Dat|Gender=Fem,Masc|Number=Plur	18	nummod	_	Gloss=two
 18	υἱοῖς	υἱός	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	15	nmod	_	Gloss=son
 19	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	18	nmod	_	Gloss=he,she,it,-self,same
 20	Μααλὼν	Μααλών	PROPN	_	_	5	conj	_	Gloss=Mahlon|Unknown=###no,parse###
@@ -20079,7 +20079,7 @@
 45	,	,	PUNCT	_	_	44	punct	_	_
 46-47	κἀγώ	_	_	_	_	_	_	_	_
 46	καί	καί	CCONJ	_	_	50	cc	_	Gloss=and,even
-47	ἐγώ	ἐγώ	PRON	_	Number=Sing|Person=1|PronType=Prs	50	cc	_	Gloss=I
+47	ἐγώ	ἐγώ	PRON	_	Number=Sing|Person=1|PronType=Prs	50	nsubj	_	Gloss=I
 48	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	50	cop	_	Gloss=to-be
 49	μετὰ	μετά	ADP	_	_	50	case	_	Gloss=+G=with;-+A=after
 50	σέ	σέ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	40	conj	_	Gloss=you|SpaceAfter=No
