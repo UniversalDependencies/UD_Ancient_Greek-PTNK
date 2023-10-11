@@ -18028,7 +18028,7 @@
 21	καὶ	καί	CCONJ	_	_	22	cc	_	Gloss=and,also,even,then,next
 22	Χελαιών	Χελαιών	PROPN	_	_	20	conj	_	Gloss=Chilion|SpaceAfter=No|Unknown=###no,parse###
 23	,	,	PUNCT	_	_	22	punct	_	_
-24	Ἐφραθαῖοι	Ἐφραθαῖοι	PUNCT	_	_	5	parataxis	_	Gloss=Ephrathites
+24	Ἐφραθαῖοι	Ἐφραθαῖοι	PROPN	_	_	5	parataxis	_	Gloss=Ephrathites
 25	ἐκ	ἐκ	ADP	_	_	26	case	_	Gloss=out,out-of
 26	Βαιθλεὲμ	Βαιθλεέμ	PROPN	_	_	24	nmod	_	Gloss=Beth-Lehem|Unknown=###no,parse###
 27	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	28	det	_	Gloss=the
@@ -18059,7 +18059,7 @@
 11	αὐτὴ	αὐτός	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	10	dislocated	_	Gloss=she,-self,same
 12	καὶ	καί	CCONJ	_	_	15	cc	_	Gloss=and,also,even,then,next
 13	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur	15	det	_	Gloss=the
-14	δύο	δύο	ADJ	_	Gender=Fem,Masc,Neut|Number=Sing	15	nummod	_	Gloss=two|Unknown=nom/gen/acc
+14	δύο	δύο	NUM	_	Gender=Fem,Masc,Neut|Number=Sing	15	nummod	_	Gloss=two|Unknown=nom/gen/acc
 15	υἱοὶ	υἱός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	11	conj	_	Gloss=sons
 16	αὐτῆς	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	15	nmod	_	Gloss=she,-self,same|SpaceAfter=No
 17	.	.	PUNCT	_	_	16	punct	_	_
@@ -18087,7 +18087,7 @@
 19	κατῴκησαν	κατοικέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	10	conj	_	Gloss=to-dwell
 20	ἐκεῖ	ἐκεῖ	ADV	_	_	19	advmod	_	Gloss=there
 21	ὡς	ὡς	ADP	_	_	23	case	_	Gloss=as|Unknown=preposition/conjunction
-22	δέκα	δέκ᾿	ADJNUM	_	_	23	nummod	_	Gloss=ten
+22	δέκα	δέκ᾿	NUM	_	_	23	nummod	_	Gloss=ten
 23	ἔτη	ἔτος	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Plur	19	obl	_	Gloss=years|SpaceAfter=No
 24	.	.	PUNCT	_	_	23	punct	_	_
 
@@ -18114,7 +18114,7 @@
 19	καὶ	καί	CCONJ	_	_	23	cc	_	Gloss=and,also,even,then,next
 20	ἀπὸ	ἀπό	ADP	_	_	23	case	_	Gloss=from,away-from
 21	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur	23	det	_	Gloss=the
-22	δύο	δύο	ADJ	_	Gender=Fem,Masc,Neut|Number=Sing	23	nummod	_	Gloss=two|Unknown=nom/gen/acc
+22	δύο	δύο	NUM	_	Gender=Fem,Masc,Neut|Number=Sing	23	nummod	_	Gloss=two|Unknown=nom/gen/acc
 23	υἱῶν	υἱός	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	17	conj	_	Gloss=sons
 24	αὐτῆς	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	23	nmod	_	Gloss=she,-self,same|SpaceAfter=No
 25	.	.	PUNCT	_	_	24	punct	_	_
@@ -18126,7 +18126,7 @@
 3	αὐτὴ	αὐτός	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	2	dislocated	_	Gloss=she,-self,same
 4	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
 5	αἱ	ὁ	DET	_	Case=Nom|Gender=Fem|Number=Plur	7	det	_	Gloss=the
-6	δύο	δύο	ADJ	_	Gender=Fem,Masc,Neut|Number=Sing	7	nummod	_	Gloss=two|Unknown=nom/gen/acc
+6	δύο	δύο	NUM	_	Gender=Fem,Masc,Neut|Number=Sing	7	nummod	_	Gloss=two|Unknown=nom/gen/acc
 7	νύμφαι	νύμφη	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	conj	_	Gloss=daughter-in-law,bride
 8	αὐτῆς	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	7	nmod	_	Gloss=she,-self,same
 9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
@@ -18165,7 +18165,7 @@
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	καὶ	καί	CCONJ	_	_	17	cc	_	Gloss=and,also,even,then,next
 12	αἱ	ὁ	DET	_	Case=Nom|Gender=Fem|Number=Plur	14	det	_	Gloss=the
-13	δύο	δύο	ADJ	_	Gender=Fem,Masc,Neut|Number=Sing	14	nummod	_	Gloss=two|Unknown=nom/gen/acc
+13	δύο	δύο	NUM	_	Gender=Fem,Masc,Neut|Number=Sing	14	nummod	_	Gloss=two|Unknown=nom/gen/acc
 14	νύμφαι	νύμφη	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	17	nsubj	_	Gloss=daughter-in-law,bride
 15	αὐτῆς	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	14	nmod	_	Gloss=she,-self,same
 16	μετ᾿	μετά	ADP	_	_	17	case	_	Gloss=+G=with;-+A=after
@@ -18879,7 +18879,7 @@
 14	κατόπισθεν	κατόπισθεν	ADP	_	_	15	case	_	Gloss=behind
 15	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	13	obl	_	Gloss=he,she,it,-self,same|SpaceAfter=No
 16	·	·	PUNCT	_	_	15	punct	_	_
-17	ἰδοὺ	ἰδού	INTJ	_	_	18	advmod	_	Gloss=look!,behold!|Unknown=particle,
+17	ἰδοὺ	ἰδού	INTJ	_	_	18	discourse	_	Gloss=look!,behold!|Unknown=particle,
 18	ἐνετειλάμην	ἐντέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Mid	13	parataxis	_	Gloss=to-charge,command
 19	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur	20	det	_	Gloss=the
 20	παιδαρίοις	παιδάριον	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	18	iobj	_	Gloss=young-servant
@@ -18956,7 +18956,7 @@
 11	ὅσα	ὅσος	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Plur	12	obj	_	Gloss=all-who;-as-great-as
 12	πεποίηκας	ποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	9	csubj:pass	_	Gloss=to-do,make
 13	μετὰ	μετά	ADP	_	_	15	case	_	Gloss=+G=with;-+A=after
-14	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	_	_	_	Gloss=the
+14	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	det	_	Gloss=the
 15	πενθερᾶς	πενθερά	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	12	obl	_	Gloss=mother-in-law
 16	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	15	nmod	_	Gloss=you,your
 17	μετὰ	μετά	ADP	_	_	19	case	_	Gloss=+G=with;-+A=after|Outer=Yes
@@ -19981,7 +19981,7 @@
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἔλαβεν	λαμβάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	Gloss=received,taken
 3	Βοὸζ	Βοόζ	PROPN	_	_	2	nsubj	_	Gloss=Boaz|Unknown=###no,parse###
-4	δέκα	δέκ᾿	ADJNUM	_	_	5	nummod	_	Gloss=ten
+4	δέκα	δέκ᾿	NUM	_	_	5	nummod	_	Gloss=ten
 5	ἄνδρας	ἀνήρ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	Gloss=men
 6	ἀπὸ	ἀπό	ADP	_	_	8	case	_	Gloss=from,away-from
 7	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur	8	det	_	Gloss=the
@@ -20033,7 +20033,7 @@
 # text = κἀγὼ εἶπα, ἀποκαλύψω τὸ οὖς σου λέγων, κτῆσαι ἐναντίον τῶν καθημένων καὶ ἐναντίον τῶν πρεσβυτέρων τοῦ λαοῦ μου· εἰ ἀγχιστεύεις, ἀγχίστευε· εἰ δὲ μὴ ἀγχιστεύεις, ἀνάγγειλόν μοι καὶ γνώσομαι· ὅτι οὐκ ἔστιν πάρεξ σου τοῦ ἀγχιστεῦσαι, κἀγώ εἰμι μετὰ σέ. ὁ δὲ εἶπεν, ἐγώ εἰμι ἀγχιστεύσω.
 1-2	κἀγὼ	_	_	_	_	_	_	_	_
 1	καί	καί	CCONJ	_	_	3	cc	_	Gloss=and,even
-2	ἐγώ	ἐγώ	PRON	_	Number=Sing|Person=1|PronType=Prs	3	cc	_	Gloss=Ι
+2	ἐγώ	ἐγώ	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=Ι
 3	εἶπα	λέγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	Gloss=to-speak,say|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	ἀποκαλύψω	ἀποκαλύπτω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	3	ccomp	_	Gloss=to-reveal,disclose
@@ -20113,13 +20113,13 @@
 16	παρὰ	παρά	ADP	_	_	17	case	_	Gloss=+G=from;-+D=before;-+A=beside,along
 17	Ῥοὺθ	Ῥούθ	PROPN	_	Gender=Fem	13	conj	_	Gloss=Ruth
 18	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	det	_	Gloss=the
-19	Μωαβίτιδος	Μωαβίτιδος	PUNCT	_	_	17	amod	_	Gloss=Moabite-woman
+19	Μωαβίτιδος	Μωαβίτιδος	PROPN	_	_	17	amod	_	Gloss=Moabite-woman
 20	γυναικὸς	γυνή	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	17	appos	_	Gloss=wife,woman
 21	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing	20	nmod	_	Gloss=the
 22	τεθνηκότος	θνήσκω	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc,Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	21	acl:relcl	_	Gloss=to-die|SpaceAfter=No
 23	,	,	PUNCT	_	_	22	punct	_	_
 24	καὶ	καί	ADV	_	_	25	advmod	_	Gloss=and,also,even,then,next
-25	αὐτὴν	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	26	advmod	_	Gloss=she,-self,same
+25	αὐτὴν	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	26	obj	_	Gloss=she,-self,same
 26	κτήσασθαί	κτάομαι	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	28	ccomp	_	Gloss=to-redeem,obtain
 27	σὲ	σέ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	26	nsubj	_	Gloss=you
 28	δεῖ	δεῖ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	ccomp	_	Gloss=it-is-necessary|Unknown=impersonal
@@ -20248,7 +20248,7 @@
 6	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
 7	παντὶ	πᾶς	ADJ	_	Case=Dat|Gender=Masc,Neut|Number=Sing	9	amod	_	Gloss=all,every
 8	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing	9	det	_	Gloss=the
-9	λαῷ	λαός	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	conj:poss	_	Gloss=people|SpaceAfter=No
+9	λαῷ	λαός	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	conj	_	Gloss=people|SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	μάρτυρες	μάρτυς	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	ccomp	_	Gloss=witnesses
 12	ὑμεῖς	ὑμεῖς	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	Gloss=you
@@ -20281,7 +20281,7 @@
 2	γε	γέ	PART	_	_	1	fixed	_	Gloss=yet,doubtless,indeed,also
 3	Ῥοὺθ	Ῥούθ	PROPN	_	Gender=Fem	9	obj	_	Gloss=Ruth
 4	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	det	_	Gloss=the
-5	Μωαβῖτιν	Μωαβῖτιν	PUNCT	_	_	3	amod	_	Gloss=Moabite-woman
+5	Μωαβῖτιν	Μωαβῖτιν	PROPN	_	_	3	amod	_	Gloss=Moabite-woman
 6	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	7	det	_	Gloss=the
 7	γυναῖκα	γυνή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	appos	_	Gloss=woman,wife
 8	Μααλὼν	Μααλών	PROPN	_	_	7	nmod	_	Gloss=Mahlon|Unknown=###no,parse###
@@ -20515,11 +20515,11 @@
 9	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	10	det	_	Gloss=the
 10	κόλπον	κόλπος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	Gloss=creek
 11	αὐτῆς	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	10	nmod	_	Gloss=she,-self,same
-12	καὶ	καί	CCONJ	_	_	16	cc	_	Gloss=and,also,even,then,next
-13	ἐγενήθη	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	16	cop	_	Gloss=to-become,come-to-be
-14	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	16	iobj	_	Gloss=he,she,it,-self,same
+12	καὶ	καί	CCONJ	_	_	13	cc	_	Gloss=and,also,even,then,next
+13	ἐγενήθη	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	2	conj	_	Gloss=to-become,come-to-be
+14	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	13	iobj	_	Gloss=he,she,it,-self,same
 15	εἰς	εἰς	ADP	_	_	16	case	_	Gloss=into,unto,for
-16	τιθηνόν	τιθηνός	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	Gloss=nursing|SpaceAfter=No
+16	τιθηνόν	τιθηνός	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	Gloss=nursing|SpaceAfter=No
 17	.	.	PUNCT	_	_	16	punct	_	_
 
 # sent_id = Septuagint-Ruth-4:17-grc
