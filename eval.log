@@ -1,0 +1,44 @@
+Running the following version of UD tools:
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sat Nov 4 17:10:55 2023 +0100
+Evaluating the following revision of UD_Ancient_Greek-PTNK:
+commit 1a157ae8696e8e91dab2d7189f526bef796bf528
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sat Nov 4 23:12:53 2023 +0100
+Size: counted 39509 of 39509 words (nodes).
+Size: min(0, log((N/1000)**2)) = 7.35305698810981.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 15 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 25888 out of 39509 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 31 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Udapi:
+               TOTAL       1135
+Udapi: found 1135 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 39509 words.
+Genres: found 1 out of 17 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PTNK/grc_ptnk-ud-dev.conllu
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PTNK/grc_ptnk-ud-test.conllu
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PTNK/grc_ptnk-ud-train.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
+(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
+(weight=0.256410256410256) * (score{size}=0.532232012509373) = 0.136469746797275
+(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
+(weight=0.307692307692308) * (score{udapi}=0.71272368321142) = 0.219299594834283
+(weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
+(TOTAL score=0.697744801254077) * (availability=1) * (validity=1) = 0.697744801254077
+STARS = 3.5
+UD_Ancient_Greek-PTNK	0.697744801254077	3.5
