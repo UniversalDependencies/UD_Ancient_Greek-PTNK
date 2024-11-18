@@ -53,7 +53,11 @@ def process_sentence(sid, block, ranges, book, verse_re):
     nsid = f'# sent_id = Septuagint-{book_names[book]}-{verse}-grc'
     text = ''
     skip_to = None
-    for line in block:
+    drop = []
+    for i, line in enumerate(block):
+        if line.startswith('# text ='):
+            drop.append(i)
+            continue
         ls = line.split('\t')
         if len(ls) != 10:
             continue
@@ -68,6 +72,8 @@ def process_sentence(sid, block, ranges, book, verse_re):
             text += ' '
         if '-' in ls[0]:
             skip_to = ls[0].split('-')[1]
+    for i in reversed(drop):
+        block.pop(i)
     out = '\n'.join([nsid, f'# text = {text.strip()}'] + block)
     for a, b in fixes:
         out = out.replace(a, b)

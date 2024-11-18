@@ -17965,7 +17965,6 @@
 
 # sent_id = Septuagint-Ruth-1:1-grc
 # text = Καὶ ἐγένετο ἐν τῷ κρίνειν τοὺς κριτὰς καὶ ἐγένετο λιμὸς ἐν τῇ γῇ, καὶ ἐπορεύθη ἀνὴρ ἀπὸ Βαιθλεὲμ τῆς Ἰούδα τοῦ παροικῆσαι ἐν ἀγρῷ Μωάβ, αὐτὸς καὶ ἡ γυνὴ αὐτοῦ καὶ οἱ υἱοὶ αὐτοῦ.
-# text = Καὶ ἐγένετο ἐν τῷ κρίνειν τοὺς κριτὰς καὶ ἐγένετο λιμὸς ἐν τῇ γῇ, καὶ ἐπορεύθη ἀνὴρ ἀπὸ Βαιθλεὲμ τῆς Ἰούδα τοῦ παροικῆσαι ἐν ἀγρῷ Μωάβ, αὐτὸς καὶ ἡ γυνὴ αὐτοῦ καὶ οἱ υἱοὶ αὐτοῦ.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-become,come-to-be
 3	ἐν	ἐν	ADP	_	_	5	case	_	Gloss=in,on,by,with,to|Outer=Yes
@@ -18005,7 +18004,6 @@
 37	.	.	PUNCT	_	_	36	punct	_	_
 
 # sent_id = Septuagint-Ruth-1:2-grc
-# text = καὶ ὄνομα τῷ ἀνδρὶ Ἀβιμέλεχ, καὶ ὄνομα τῇ γυναικὶ αὐτοῦ Νωεμίν, καὶ ὄνομα τοῖς δυσὶν υἱοῖς αὐτοῦ Μααλὼν καὶ Χελαιών, Ἐφραθαῖοι ἐκ Βαιθλεὲμ τῆς Ἰούδα· καὶ ἤλθοσαν εἰς ἀγρὸν Μωὰβ καὶ ἦσαν ἐκεῖ.
 # text = καὶ ὄνομα τῷ ἀνδρὶ Ἀβιμέλεχ, καὶ ὄνομα τῇ γυναικὶ αὐτοῦ Νωεμίν, καὶ ὄνομα τοῖς δυσὶν υἱοῖς αὐτοῦ Μααλὼν καὶ Χελαιών, Ἐφραθαῖοι ἐκ Βαιθλεὲμ τῆς Ἰούδα· καὶ ἤλθοσαν εἰς ἀγρὸν Μωὰβ καὶ ἦσαν ἐκεῖ.
 1	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next
 2	ὄνομα	ὄνομα	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	5	nsubj	_	Gloss=name
@@ -18048,7 +18046,6 @@
 
 # sent_id = Septuagint-Ruth-1:3-grc
 # text = Καὶ ἀπέθανεν Ἀβιμέλεχ ὁ ἀνὴρ τῆς Νωεμίν, καὶ κατελείφθη αὐτὴ καὶ οἱ δύο υἱοὶ αὐτῆς.
-# text = Καὶ ἀπέθανεν Ἀβιμέλεχ ὁ ἀνὴρ τῆς Νωεμίν, καὶ κατελείφθη αὐτὴ καὶ οἱ δύο υἱοὶ αὐτῆς.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἀπέθανεν	ἀποθνήσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-die
 3	Ἀβιμέλεχ	Ἀβιμέλεχ	PROPN	_	_	2	nsubj	_	Gloss=-Elimelech|Unknown=###no,parse###
@@ -18068,7 +18065,6 @@
 17	.	.	PUNCT	_	_	16	punct	_	_
 
 # sent_id = Septuagint-Ruth-1:4-grc
-# text = καὶ ἐλάβοσαν ἑαυτοῖς γυναῖκας Μωαβίτιδας, ὄνομα τῇ μιᾷ Ὀρφά, καὶ ὄνομα τῇ δευτέρᾳ Ῥούθ· καὶ κατῴκησαν ἐκεῖ ὡς δέκα ἔτη.
 # text = καὶ ἐλάβοσαν ἑαυτοῖς γυναῖκας Μωαβίτιδας, ὄνομα τῇ μιᾷ Ὀρφά, καὶ ὄνομα τῇ δευτέρᾳ Ῥούθ· καὶ κατῴκησαν ἐκεῖ ὡς δέκα ἔτη.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἐλάβοσαν	λαμβάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-take,receive
@@ -18097,7 +18093,6 @@
 
 # sent_id = Septuagint-Ruth-1:5-grc
 # text = καὶ ἀπέθανον καὶ γε ἀμφότεροι, Μααλὼν καὶ Χελαιών, καὶ κατελείφθη ἡ γυνὴ ἀπὸ τοῦ ἀνδρὸς αὐτῆς καὶ ἀπὸ τῶν δύο υἱῶν αὐτῆς.
-# text = καὶ ἀπέθανον καὶ γε ἀμφότεροι, Μααλὼν καὶ Χελαιών, καὶ κατελείφθη ἡ γυνὴ ἀπὸ τοῦ ἀνδρὸς αὐτῆς καὶ ἀπὸ τῶν δύο υἱῶν αὐτῆς.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἀπέθανον	ἀποθνήσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-die
 3	καὶ	καί	ADV	_	_	5	advmod	_	Gloss=and,also,even,then,next
@@ -18125,7 +18120,6 @@
 25	.	.	PUNCT	_	_	24	punct	_	_
 
 # sent_id = Septuagint-Ruth-1:6-grc
-# text = Καὶ ἀνέστη αὐτὴ καὶ αἱ δύο νύμφαι αὐτῆς καὶ ἀπέστρεψαν ἐξ ἀγροῦ Μωάβ, ὅτι ἤκουσαν ἐν ἀγρῷ Μωὰβ ὅτι ἐπέσκεπται κύριος τὸν λαὸν αὐτοῦ δοῦναι αὐτοῖς ἄρτους.
 # text = Καὶ ἀνέστη αὐτὴ καὶ αἱ δύο νύμφαι αὐτῆς καὶ ἀπέστρεψαν ἐξ ἀγροῦ Μωάβ, ὅτι ἤκουσαν ἐν ἀγρῷ Μωὰβ ὅτι ἐπέσκεπται κύριος τὸν λαὸν αὐτοῦ δοῦναι αὐτοῖς ἄρτους.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἀνέστη	ἀνίστημι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-arise
@@ -18158,7 +18152,6 @@
 29	.	.	PUNCT	_	_	28	punct	_	_
 
 # sent_id = Septuagint-Ruth-1:7-grc
-# text = καὶ ἐξῆλθεν ἐκ τοῦ τόπου, οὗ ἦν ἐκεῖ, καὶ αἱ δύο νύμφαι αὐτῆς μετ᾿ αὐτῆς· καὶ ἐπορεύοντο ἐν τῇ ὁδῷ τοῦ ἐπιστρέψαι εἰς τὴν γῆν Ἰούδα.
 # text = καὶ ἐξῆλθεν ἐκ τοῦ τόπου, οὗ ἦν ἐκεῖ, καὶ αἱ δύο νύμφαι αὐτῆς μετ᾿ αὐτῆς· καὶ ἐπορεύοντο ἐν τῇ ὁδῷ τοῦ ἐπιστρέψαι εἰς τὴν γῆν Ἰούδα.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἐξῆλθεν	ἐξέρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-go-out,come-out
@@ -18193,7 +18186,6 @@
 
 # sent_id = Septuagint-Ruth-1:8-grc
 # text = Καὶ εἶπεν Νωεμὶν ταῖς νύμφαις αὐτῆς, πορεύεσθε δὴ ἀποστράφητε ἑκάστη εἰς οἶκον μητρὸς αὐτῆς· ποιήσαι κύριος μεθ᾿ ὑμῶν ἔλεος καθὼς ἐποιήσατε μετὰ τῶν τεθνηκότων καὶ μετ᾿ ἐμοῦ·
-# text = Καὶ εἶπεν Νωεμὶν ταῖς νύμφαις αὐτῆς, πορεύεσθε δὴ ἀποστράφητε ἑκάστη εἰς οἶκον μητρὸς αὐτῆς· ποιήσαι κύριος μεθ᾿ ὑμῶν ἔλεος καθὼς ἐποιήσατε μετὰ τῶν τεθνηκότων καὶ μετ᾿ ἐμοῦ·
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	Νωεμὶν	Νωεμίν	PROPN	_	Gender=Fem|Number=Sing	2	nsubj	_	Gloss=Naomi
@@ -18227,7 +18219,6 @@
 
 # sent_id = Septuagint-Ruth-1:9-grc
 # text = δῴη κύριος ὑμῖν καὶ εὕροιτε ἀνάπαυσιν ἑκάστη ἐν οἴκῳ ἀνδρὸς αὐτῆς. καὶ κατεφίλησεν αὐτάς, καὶ ἐπῆραν τὴν φωνὴν αὐτῶν καὶ ἔκλαυσαν.
-# text = δῴη κύριος ὑμῖν καὶ εὕροιτε ἀνάπαυσιν ἑκάστη ἐν οἴκῳ ἀνδρὸς αὐτῆς. καὶ κατεφίλησεν αὐτάς, καὶ ἐπῆραν τὴν φωνὴν αὐτῶν καὶ ἔκλαυσαν.
 1	δῴη	δίδωμι	VERB	_	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-give
 2	κύριος	κύριος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=lord
 3	ὑμῖν	ὑμεῖς	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	1	iobj	_	Gloss=you
@@ -18255,7 +18246,6 @@
 
 # sent_id = Septuagint-Ruth-1:10-grc
 # text = καὶ εἶπαν αὐτῇ, μετὰ σου ἐπιστρέφομεν εἰς τὸν λαόν σου.
-# text = καὶ εἶπαν αὐτῇ, μετὰ σου ἐπιστρέφομεν εἰς τὸν λαόν σου.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπαν	λέγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	αὐτῇ	αὐτός	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Prs	2	iobj	_	Gloss=she,-self,same|SpaceAfter=No
@@ -18270,7 +18260,6 @@
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = Septuagint-Ruth-1:11-grc
-# text = Καὶ εἶπεν Νωεμὶν ἐπιστράφητε δή, θυγατέρες μου· καὶ ἵνα τί πορεύεσθε μετ᾿ ἐμοῦ; μὴ ἔτι μοι υἱοὶ ἐν τῇ κοιλίᾳ μου καὶ ἔσονται ὑμῖν εἰς ἄνδρας;
 # text = Καὶ εἶπεν Νωεμὶν ἐπιστράφητε δή, θυγατέρες μου· καὶ ἵνα τί πορεύεσθε μετ᾿ ἐμοῦ; μὴ ἔτι μοι υἱοὶ ἐν τῇ κοιλίᾳ μου καὶ ἔσονται ὑμῖν εἰς ἄνδρας;
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
@@ -18305,7 +18294,6 @@
 
 # sent_id = Septuagint-Ruth-1:12-grc
 # text = ἐπιστράφητε δή, θυγατέρες μου, διότι γεγήρακα τοῦ μὴ εἶναι ἀνδρί· ὅτι εἶπα ὅτι ἔστιν μοι ὑπόστασις τοῦ γενηθῆναί με ἀνδρὶ καὶ τέξομαι υἱούς,
-# text = ἐπιστράφητε δή, θυγατέρες μου, διότι γεγήρακα τοῦ μὴ εἶναι ἀνδρί· ὅτι εἶπα ὅτι ἔστιν μοι ὑπόστασις τοῦ γενηθῆναί με ἀνδρὶ καὶ τέξομαι υἱούς,
 1	ἐπιστράφητε	ἐπιστρέφω	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-turn-around
 2	δή	δή	PART	_	_	1	discourse	_	Gloss=now,therefore|SpaceAfter=No|Unknown=postpositive
 3	,	,	PUNCT	_	_	4	punct	_	_
@@ -18335,7 +18323,6 @@
 27	,	,	PUNCT	_	_	26	punct	_	_
 
 # sent_id = Septuagint-Ruth-1:13-grc
-# text = μὴ αὐτοὺς προσδέξεσθε ἕως οὗ ἁδρυνθῶσιν; ἢ αὐτοῖς κατασχεθήσεσθε τοῦ μὴ γενέσθαι ἀνδρί; μὴ δή, θυγατέρες μου, ὅτι ἐπικράνθη μοι ὑπὲρ ὑμᾶς ὅτι ἐξῆλθεν ἐν ἐμοὶ χεὶρ κυρίου.
 # text = μὴ αὐτοὺς προσδέξεσθε ἕως οὗ ἁδρυνθῶσιν; ἢ αὐτοῖς κατασχεθήσεσθε τοῦ μὴ γενέσθαι ἀνδρί; μὴ δή, θυγατέρες μου, ὅτι ἐπικράνθη μοι ὑπὲρ ὑμᾶς ὅτι ἐξῆλθεν ἐν ἐμοὶ χεὶρ κυρίου.
 1	μὴ	μή	ADV	_	Polarity=Neg	3	advmod	_	Gloss=no,not
 2	αὐτοὺς	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	3	obj	_	Gloss=he,she,it,-self,same
@@ -18373,7 +18360,6 @@
 
 # sent_id = Septuagint-Ruth-1:14-grc
 # text = Καὶ ἐπῆραν τὴν φωνὴν αὐτῶν καὶ ἔκλαυσαν ἔτι· καὶ κατεφίλησεν Ὀρφὰ τὴν πενθερὰν αὐτῆς καὶ ἐπέστρεψεν εἰς τὸν λαὸν αὐτῆς, Ῥοὺθ δὲ ἠκολούθησεν αὐτῇ.
-# text = Καὶ ἐπῆραν τὴν φωνὴν αὐτῶν καὶ ἔκλαυσαν ἔτι· καὶ κατεφίλησεν Ὀρφὰ τὴν πενθερὰν αὐτῆς καὶ ἐπέστρεψεν εἰς τὸν λαὸν αὐτῆς, Ῥοὺθ δὲ ἠκολούθησεν αὐτῇ.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἐπῆραν	ἐπαίρω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-raise-up
 3	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	det	_	Gloss=the
@@ -18403,7 +18389,6 @@
 27	.	.	PUNCT	_	_	26	punct	_	_
 
 # sent_id = Septuagint-Ruth-1:15-grc
-# text = Καὶ εἶπεν Νωεμὶν πρὸς Ῥούθ, ἰδοὺ ἀνέστρεψεν ἡ σύννυμφός σου πρὸς λαὸν αὐτῆς καὶ πρὸς τοὺς θεοὺς αὐτῆς· ἐπιστράφητι δὴ καὶ σὺ ὀπίσω τῆς συννύμφου σου.
 # text = Καὶ εἶπεν Νωεμὶν πρὸς Ῥούθ, ἰδοὺ ἀνέστρεψεν ἡ σύννυμφός σου πρὸς λαὸν αὐτῆς καὶ πρὸς τοὺς θεοὺς αὐτῆς· ἐπιστράφητι δὴ καὶ σὺ ὀπίσω τῆς συννύμφου σου.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
@@ -18436,7 +18421,6 @@
 29	.	.	PUNCT	_	_	28	punct	_	_
 
 # sent_id = Septuagint-Ruth-1:16-grc
-# text = εἶπεν δὲ Ῥούθ, μὴ ἀπαντήσαι ἐμοὶ τοῦ καταλιπεῖν σὲ ἢ ἀποστρέψαι ὄπισθέν σου· ὅτι σὺ ὅπου ἐὰν πορευθῇς, πορεύσομαι, καὶ οὗ ἐὰν αὐλισθῇς, αὐλισθήσομαι· ὁ λαός σου, λαός μου καὶ ὁ θεός σου θεός μου·
 # text = εἶπεν δὲ Ῥούθ, μὴ ἀπαντήσαι ἐμοὶ τοῦ καταλιπεῖν σὲ ἢ ἀποστρέψαι ὄπισθέν σου· ὅτι σὺ ὅπου ἐὰν πορευθῇς, πορεύσομαι, καὶ οὗ ἐὰν αὐλισθῇς, αὐλισθήσομαι· ὁ λαός σου, λαός μου καὶ ὁ θεός σου θεός μου·
 1	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Unknown=postpositive
@@ -18484,7 +18468,6 @@
 
 # sent_id = Septuagint-Ruth-1:17-grc
 # text = καὶ οὗ ἐὰν ἀποθάνῃς, ἀποθανοῦμαι κἀκεῖ ταφήσομαι· τάδε ποιήσαι μοι κύριος καὶ τάδε προσθείη, ὅτι θάνατος διαστελεῖ ἀνὰ μέσον ἐμοῦ καὶ σου.
-# text = καὶ οὗ ἐὰν ἀποθάνῃς, ἀποθανοῦμαι κἀκεῖ ταφήσομαι· τάδε ποιήσαι μοι κύριος καὶ τάδε προσθείη, ὅτι θάνατος διαστελεῖ ἀνὰ μέσον ἐμοῦ καὶ σου.
 1	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next
 2	οὗ	ὅς	PRON	_	_	4	obl	_	Gloss=where;-who,which,that
 3	ἐὰν	ἐάν	CCONJ	_	_	4	mark	_	Gloss=if,though,when,whenever
@@ -18516,7 +18499,6 @@
 
 # sent_id = Septuagint-Ruth-1:18-grc
 # text = ἰδοῦσα δὲ Νωεμὶν ὅτι κραταιοῦται αὐτὴ τοῦ πορεύεσθαι μετ᾿ αὐτῆς, ἐκόπασεν τοῦ λαλῆσαι πρὸς αὐτὴν ἔτι.
-# text = ἰδοῦσα δὲ Νωεμὶν ὅτι κραταιοῦται αὐτὴ τοῦ πορεύεσθαι μετ᾿ αὐτῆς, ἐκόπασεν τοῦ λαλῆσαι πρὸς αὐτὴν ἔτι.
 1	ἰδοῦσα	εἴδω	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	advcl	_	Gloss=to-see
 2	δὲ	δέ	CCONJ	_	_	12	cc	_	Gloss=but,and,however|Unknown=postpositive
 3	Νωεμὶν	Νωεμίν	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Gloss=Naomi
@@ -18537,7 +18519,6 @@
 18	.	.	PUNCT	_	_	17	punct	_	_
 
 # sent_id = Septuagint-Ruth-1:19-grc
-# text = Ἐπορεύθησαν δὲ ἀμφότεραι ἕως τοῦ παραγενέσθαι αὐτὰς εἰς Βαιθλεέμ. καὶ ἤχησεν πᾶσα ἡ πόλις ἐπ᾿ αὐταῖς καὶ εἶπον, αὕτη ἐστὶν Νωεμίν;
 # text = Ἐπορεύθησαν δὲ ἀμφότεραι ἕως τοῦ παραγενέσθαι αὐτὰς εἰς Βαιθλεέμ. καὶ ἤχησεν πᾶσα ἡ πόλις ἐπ᾿ αὐταῖς καὶ εἶπον, αὕτη ἐστὶν Νωεμίν;
 1	Ἐπορεύθησαν	πορεύομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-proceed,go,depart
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Unknown=postpositive
@@ -18566,7 +18547,6 @@
 
 # sent_id = Septuagint-Ruth-1:20-grc
 # text = καὶ εἶπεν πρὸς αὐτάς, μὴ δὴ καλεῖτέ με Νωεμίν, καλέσατέ με Πικράν, ὅτι ἐπικράνθη ἐν ἐμοὶ ὁ ἱκανὸς σφόδρα·
-# text = καὶ εἶπεν πρὸς αὐτάς, μὴ δὴ καλεῖτέ με Νωεμίν, καλέσατέ με Πικράν, ὅτι ἐπικράνθη ἐν ἐμοὶ ὁ ἱκανὸς σφόδρα·
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	πρὸς	πρός	ADP	_	_	4	case	_	Gloss=+D=at;-+A=to,toward
@@ -18592,7 +18572,6 @@
 23	·	·	PUNCT	_	_	22	punct	_	_
 
 # sent_id = Septuagint-Ruth-1:21-grc
-# text = ἐγὼ πλήρης ἐπορεύθην, καὶ κενὴν ἀπέστρεψέν με ὁ κύριος· καὶ ἵνα τί καλεῖτέ με Νωεμίν; καὶ κύριος ἐταπείνωσέν με, καὶ ὁ ἱκανὸς ἐκάκωσέν με.
 # text = ἐγὼ πλήρης ἐπορεύθην, καὶ κενὴν ἀπέστρεψέν με ὁ κύριος· καὶ ἵνα τί καλεῖτέ με Νωεμίν; καὶ κύριος ἐταπείνωσέν με, καὶ ὁ ἱκανὸς ἐκάκωσέν με.
 1	ἐγὼ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I
 2	πλήρης	πλήρης	ADJ	_	Case=Nom|Gender=Fem,Masc|Number=Sing	3	xcomp	_	Gloss=full
@@ -18626,7 +18605,6 @@
 
 # sent_id = Septuagint-Ruth-1:22-grc
 # text = Καὶ ἐπέστρεψεν Νωεμὶν καὶ Ῥοὺθ ἡ Μωαβῖτις ἡ νύμφη αὐτῆς ἐπιστρέφουσα ἐξ ἀγροῦ Μωάβ· αὐταὶ δὲ παρεγενήθησαν εἰς Βαιθλεὲμ ἐν ἀρχῇ θερισμοῦ κριθῶν.
-# text = Καὶ ἐπέστρεψεν Νωεμὶν καὶ Ῥοὺθ ἡ Μωαβῖτις ἡ νύμφη αὐτῆς ἐπιστρέφουσα ἐξ ἀγροῦ Μωάβ· αὐταὶ δὲ παρεγενήθησαν εἰς Βαιθλεὲμ ἐν ἀρχῇ θερισμοῦ κριθῶν.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἐπέστρεψεν	ἐπιστρέφω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-turn,return
 3	Νωεμὶν	Νωεμίν	PROPN	_	Gender=Fem|Number=Sing	2	dislocated	_	Gloss=Naomi
@@ -18655,7 +18633,6 @@
 
 # sent_id = Septuagint-Ruth-2:1-grc
 # text = Καὶ τῇ Νωεμὶν ἀνὴρ γνώριμος τῷ ἀνδρὶ αὐτῆς· ὁ δὲ ἀνὴρ δυνατὸς ἰσχύϊ ἐκ τῆς συγγενείας Ἀβιμέλεχ, καὶ ὄνομα αὐτῷ Βοόζ.
-# text = Καὶ τῇ Νωεμὶν ἀνὴρ γνώριμος τῷ ἀνδρὶ αὐτῆς· ὁ δὲ ἀνὴρ δυνατὸς ἰσχύϊ ἐκ τῆς συγγενείας Ἀβιμέλεχ, καὶ ὄνομα αὐτῷ Βοόζ.
 1	Καὶ	καί	CCONJ	_	_	3	cc	_	Gloss=and,also,even,then,next
 2	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	3	det	_	Gloss=the
 3	Νωεμὶν	Νωεμίν	PROPN	_	Gender=Fem|Number=Sing	0	root	_	Gloss=Naomi
@@ -18682,7 +18659,6 @@
 24	.	.	PUNCT	_	_	23	punct	_	_
 
 # sent_id = Septuagint-Ruth-2:2-grc
-# text = καὶ εἶπεν Ῥοὺθ ἡ Μωαβῖτις πρὸς Νωεμίν, πορευθῶ δὴ εἰς ἀγρὸν καὶ συνάξω ἐν τοῖς στάχυσιν κατόπισθεν οὗ ἐὰν εὕρω χάριν ἐν ὀφθαλμοῖς αὐτοῦ. εἶπεν δὲ αὐτῇ, πορεύου θύγατερ.
 # text = καὶ εἶπεν Ῥοὺθ ἡ Μωαβῖτις πρὸς Νωεμίν, πορευθῶ δὴ εἰς ἀγρὸν καὶ συνάξω ἐν τοῖς στάχυσιν κατόπισθεν οὗ ἐὰν εὕρω χάριν ἐν ὀφθαλμοῖς αὐτοῦ. εἶπεν δὲ αὐτῇ, πορεύου θύγατερ.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
@@ -18720,7 +18696,6 @@
 
 # sent_id = Septuagint-Ruth-2:3-grc
 # text = καὶ ἐπορεύθη καὶ συνέλεξεν ἐν τῷ ἀγρῷ κατόπισθεν τῶν θεριζόντων· καὶ περιέπεσεν περιπτώματι τῇ μερίδι τοῦ ἀγροῦ Βοὸζ τοῦ ἐκ συγγενείας Ἀβιμέλεχ.
-# text = καὶ ἐπορεύθη καὶ συνέλεξεν ἐν τῷ ἀγρῷ κατόπισθεν τῶν θεριζόντων· καὶ περιέπεσεν περιπτώματι τῇ μερίδι τοῦ ἀγροῦ Βοὸζ τοῦ ἐκ συγγενείας Ἀβιμέλεχ.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἐπορεύθη	πορεύομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-proceed,depart
 3	καὶ	καί	CCONJ	_	_	4	cc	_	Gloss=and,also,even,then,next
@@ -18748,7 +18723,6 @@
 
 # sent_id = Septuagint-Ruth-2:4-grc
 # text = Καὶ ἰδοὺ Βοὸζ ἦλθεν ἐκ Βαιθλεὲμ καὶ εἶπεν τοῖς θερίζουσιν κύριος μεθ᾿ ὑμῶν· καὶ εἶπον αὐτῷ, εὐλογήσαι σὲ κύριος.
-# text = Καὶ ἰδοὺ Βοὸζ ἦλθεν ἐκ Βαιθλεὲμ καὶ εἶπεν τοῖς θερίζουσιν κύριος μεθ᾿ ὑμῶν· καὶ εἶπον αὐτῷ, εὐλογήσαι σὲ κύριος.
 1	Καὶ	καί	CCONJ	_	_	4	cc	_	Gloss=and,also,even,then,next
 2	ἰδοὺ	ἰδού	INTJ	_	_	4	discourse	_	Gloss=look!,behold!|Unknown=particle,
 3	Βοὸζ	Βοόζ	PROPN	_	Number=Sing	4	nsubj	_	Gloss=Boaz|Unknown=###no,parse###
@@ -18774,7 +18748,6 @@
 
 # sent_id = Septuagint-Ruth-2:5-grc
 # text = καὶ εἶπεν Βοὸζ τῷ παιδαρίῳ αὐτοῦ τῷ ἐφεστῶτι ἐπὶ τοὺς θερίζοντας, τίνος ἡ νεᾶνις αὕτη;
-# text = καὶ εἶπεν Βοὸζ τῷ παιδαρίῳ αὐτοῦ τῷ ἐφεστῶτι ἐπὶ τοὺς θερίζοντας, τίνος ἡ νεᾶνις αὕτη;
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	Βοὸζ	Βοόζ	PROPN	_	Number=Sing	2	nsubj	_	Gloss=Boaz|Unknown=###no,parse###
@@ -18794,7 +18767,6 @@
 17	;	;	PUNCT	_	_	16	punct	_	_
 
 # sent_id = Septuagint-Ruth-2:6-grc
-# text = καὶ ἀπεκρίθη τὸ παιδάριον τὸ ἐφεστὸς ἐπὶ τοὺς θερίζοντας καὶ εἶπεν, ἡ παῖς ἡ Μωαβῖτὶς ἐστιν ἡ ἀποστραφεῖσα μετὰ Νωεμὶν ἐξ ἀγροῦ Μωὰβ
 # text = καὶ ἀπεκρίθη τὸ παιδάριον τὸ ἐφεστὸς ἐπὶ τοὺς θερίζοντας καὶ εἶπεν, ἡ παῖς ἡ Μωαβῖτὶς ἐστιν ἡ ἀποστραφεῖσα μετὰ Νωεμὶν ἐξ ἀγροῦ Μωὰβ
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἀπεκρίθη	ἀποκρίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-answer
@@ -18822,7 +18794,6 @@
 24	Μωὰβ	Μωάβ	PROPN	_	Number=Sing	23	nmod	_	Gloss=Moab|Unknown=###no,parse###
 
 # sent_id = Septuagint-Ruth-2:7-grc
-# text = καὶ εἶπεν, συλλέξω δὴ καὶ συνάξω ἐν τοῖς δράγμασιν ὄπισθεν τῶν θεριζόντων· καὶ ἦλθεν καὶ ἔστη ἀπὸ πρωίθεν καὶ ἕως ἑσπέρας, οὐ κατέπαυσεν ἐν τῷ ἀγρῷ μικρόν.
 # text = καὶ εἶπεν, συλλέξω δὴ καὶ συνάξω ἐν τοῖς δράγμασιν ὄπισθεν τῶν θεριζόντων· καὶ ἦλθεν καὶ ἔστη ἀπὸ πρωίθεν καὶ ἕως ἑσπέρας, οὐ κατέπαυσεν ἐν τῷ ἀγρῷ μικρόν.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|SpaceAfter=No
@@ -18858,7 +18829,6 @@
 
 # sent_id = Septuagint-Ruth-2:8-grc
 # text = Καὶ εἶπεν Βοὸζ πρὸς Ῥούθ, οὐκ ἤκουσας, θύγατερ; μὴ πορευθῇς ἐν ἀγρῷ συλλέξαι ἑτέρῳ, καὶ σὺ οὐ πορεύσῃ ἐντεῦθεν· ὧδε κολλήθητι μετὰ τῶν κορασίων μου·
-# text = Καὶ εἶπεν Βοὸζ πρὸς Ῥούθ, οὐκ ἤκουσας, θύγατερ; μὴ πορευθῇς ἐν ἀγρῷ συλλέξαι ἑτέρῳ, καὶ σὺ οὐ πορεύσῃ ἐντεῦθεν· ὧδε κολλήθητι μετὰ τῶν κορασίων μου·
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	Βοὸζ	Βοόζ	PROPN	_	Number=Sing	2	nsubj	_	Gloss=Boaz|Unknown=###no,parse###
@@ -18892,7 +18862,6 @@
 31	·	·	PUNCT	_	_	30	punct	_	_
 
 # sent_id = Septuagint-Ruth-2:9-grc
-# text = οἱ ὀφθαλμοί σου εἰς τὸν ἀγρόν, οὗ ἐὰν θερίζωσιν, καὶ πορεύσῃ κατόπισθεν αὐτῶν· ἰδοὺ ἐνετειλάμην τοῖς παιδαρίοις τοῦ μὴ ἅψασθαί σου· καὶ ὅ τι διψήσεις, καὶ πορευθήσῃ εἰς τὰ σκεύη καὶ πίεσαι ὅθεν ἄν ὑδρεύωνται τὰ παιδάρια.
 # text = οἱ ὀφθαλμοί σου εἰς τὸν ἀγρόν, οὗ ἐὰν θερίζωσιν, καὶ πορεύσῃ κατόπισθεν αὐτῶν· ἰδοὺ ἐνετειλάμην τοῖς παιδαρίοις τοῦ μὴ ἅψασθαί σου· καὶ ὅ τι διψήσεις, καὶ πορευθήσῃ εἰς τὰ σκεύη καὶ πίεσαι ὅθεν ἄν ὑδρεύωνται τὰ παιδάρια.
 1	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur	2	det	_	Gloss=the
 2	ὀφθαλμοί	ὀφθαλμός	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Gloss=eye
@@ -18940,7 +18909,6 @@
 
 # sent_id = Septuagint-Ruth-2:10-grc
 # text = καὶ ἔπεσεν ἐπὶ πρόσωπον αὐτῆς καὶ προσεκύνησεν ἐπὶ τὴν γῆν καὶ εἶπεν πρὸς αὐτόν, τί ὅτι εὗρον χάριν ἐν ὀφθαλμοῖς σου τοῦ ἐπιγνῶναί με; καὶ ἐγώ εἰμι ξένη.
-# text = καὶ ἔπεσεν ἐπὶ πρόσωπον αὐτῆς καὶ προσεκύνησεν ἐπὶ τὴν γῆν καὶ εἶπεν πρὸς αὐτόν, τί ὅτι εὗρον χάριν ἐν ὀφθαλμοῖς σου τοῦ ἐπιγνῶναί με; καὶ ἐγώ εἰμι ξένη.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἔπεσεν	πίπτω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-fall
 3	ἐπὶ	ἐπί	ADP	_	_	4	case	_	Gloss=on,upon,against
@@ -18974,7 +18942,6 @@
 31	.	.	PUNCT	_	_	30	punct	_	_
 
 # sent_id = Septuagint-Ruth-2:11-grc
-# text = Καὶ ἀπεκρίθη Βοὸζ καὶ εἶπεν αὐτῇ, ἀπαγγελίᾳ ἀπηγγέλη μοι ὅσα πεποίηκας μετὰ τῆς πενθερᾶς σου μετὰ τὸ ἀποθανεῖν τὸν ἄνδρα σου καὶ πῶς κατέλιπες τὸν πατέρα σου καὶ τὴν μητέρα σου καὶ τὴν γῆν γενέσεώς σου καὶ ἐπορεύθης πρὸς λαὸν ὃν οὐκ ᾔδεις ἐχθὲς καὶ τρίτης·
 # text = Καὶ ἀπεκρίθη Βοὸζ καὶ εἶπεν αὐτῇ, ἀπαγγελίᾳ ἀπηγγέλη μοι ὅσα πεποίηκας μετὰ τῆς πενθερᾶς σου μετὰ τὸ ἀποθανεῖν τὸν ἄνδρα σου καὶ πῶς κατέλιπες τὸν πατέρα σου καὶ τὴν μητέρα σου καὶ τὴν γῆν γενέσεώς σου καὶ ἐπορεύθης πρὸς λαὸν ὃν οὐκ ᾔδεις ἐχθὲς καὶ τρίτης·
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἀπεκρίθη	ἀποκρίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-answer
@@ -19027,7 +18994,6 @@
 
 # sent_id = Septuagint-Ruth-2:12-grc
 # text = ἀποτείσαι κύριος τὴν ἐργασίαν σου, καὶ γένοιτο ὁ μισθός σου πλήρης παρὰ κυρίου θεοῦ Ἰσραήλ, πρὸς ὃν ἦλθες πεποιθέναι ὑπὸ τὰς πτέρυγας αὐτοῦ.
-# text = ἀποτείσαι κύριος τὴν ἐργασίαν σου, καὶ γένοιτο ὁ μισθός σου πλήρης παρὰ κυρίου θεοῦ Ἰσραήλ, πρὸς ὃν ἦλθες πεποιθέναι ὑπὸ τὰς πτέρυγας αὐτοῦ.
 1	ἀποτείσαι	ἀποτίνω	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	0	root	_	Gloss=to-repay
 2	κύριος	κύριος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=lord
 3	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	det	_	Gloss=the
@@ -19056,7 +19022,6 @@
 26	.	.	PUNCT	_	_	25	punct	_	_
 
 # sent_id = Septuagint-Ruth-2:13-grc
-# text = ἡ δὲ εἶπεν, εὕροιμι χάριν ἐν ὀφθαλμοῖς σου, κύριε, ὅτι παρεκάλεσάς με καὶ ὅτι ἐλάλησας ἐπὶ καρδίαν τῆς δούλης σου, καὶ ἰδοὺ ἐγὼ ἔσομαι ὡς μία τῶν παιδισκῶν σου.
 # text = ἡ δὲ εἶπεν, εὕροιμι χάριν ἐν ὀφθαλμοῖς σου, κύριε, ὅτι παρεκάλεσάς με καὶ ὅτι ἐλάλησας ἐπὶ καρδίαν τῆς δούλης σου, καὶ ἰδοὺ ἐγὼ ἔσομαι ὡς μία τῶν παιδισκῶν σου.
 1	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	Gloss=the
 2	δὲ	δέ	CCONJ	_	_	3	cc	_	Gloss=but,and,however|Unknown=postpositive
@@ -19094,7 +19059,6 @@
 34	.	.	PUNCT	_	_	33	punct	_	_
 
 # sent_id = Septuagint-Ruth-2:14-grc
-# text = Καὶ εἶπεν αὐτῇ Βοόζ, ἤδη ὥρᾳ τοῦ φαγεῖν πρόσελθε ὧδε καὶ φάγεσαι τῶν ἄρτων καὶ βάψεις τὸν ψωμόν σου ἐν τῷ ὄξει. καὶ ἐκάθισεν Ῥοὺθ ἐκ πλαγίων τῶν θεριζόντων, καὶ ἐβούνισεν αὐτῇ Βοὸζ ἄλφιτον, καὶ ἔφαγεν καὶ ἐνεπλήσθη καὶ κατέλιπεν.
 # text = Καὶ εἶπεν αὐτῇ Βοόζ, ἤδη ὥρᾳ τοῦ φαγεῖν πρόσελθε ὧδε καὶ φάγεσαι τῶν ἄρτων καὶ βάψεις τὸν ψωμόν σου ἐν τῷ ὄξει. καὶ ἐκάθισεν Ῥοὺθ ἐκ πλαγίων τῶν θεριζόντων, καὶ ἐβούνισεν αὐτῇ Βοὸζ ἄλφιτον, καὶ ἔφαγεν καὶ ἐνεπλήσθη καὶ κατέλιπεν.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
@@ -19144,7 +19108,6 @@
 
 # sent_id = Septuagint-Ruth-2:15-grc
 # text = Καὶ ἀνέστη τοῦ συλλέγειν, καὶ ἐνετείλατο Βοὸζ τοῖς παιδαρίοις αὐτοῦ λέγων, καὶ γε ἀνὰ μέσον τῶν δραγμάτων συλλεγέτω, καὶ μὴ καταισχύνητε αὐτήν·
-# text = Καὶ ἀνέστη τοῦ συλλέγειν, καὶ ἐνετείλατο Βοὸζ τοῖς παιδαρίοις αὐτοῦ λέγων, καὶ γε ἀνὰ μέσον τῶν δραγμάτων συλλεγέτω, καὶ μὴ καταισχύνητε αὐτήν·
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἀνέστη	ἀνίστημι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-arise
 3	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing	4	det	_	Gloss=the|Outer=Yes
@@ -19174,7 +19137,6 @@
 
 # sent_id = Septuagint-Ruth-2:16-grc
 # text = καὶ βαστάζοντες βαστάξατε αὐτῇ καὶ γε παραβάλλοντες παραβαλεῖτε αὐτῇ ἐκ τῶν βεβουνισμένων, καὶ ἄφετε καὶ συλλέξει, καὶ οὐκ ἐπιτιμήσετε αὐτῇ.
-# text = καὶ βαστάζοντες βαστάξατε αὐτῇ καὶ γε παραβάλλοντες παραβαλεῖτε αὐτῇ ἐκ τῶν βεβουνισμένων, καὶ ἄφετε καὶ συλλέξει, καὶ οὐκ ἐπιτιμήσετε αὐτῇ.
 1	καὶ	καί	CCONJ	_	_	3	cc	_	Gloss=and,also,even,then,next
 2	βαστάζοντες	βαστάζω	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	Gloss=to-support,carry
 3	βαστάξατε	βαστάζω	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-carry
@@ -19201,7 +19163,6 @@
 
 # sent_id = Septuagint-Ruth-2:17-grc
 # text = καὶ συνέλεξεν ἐν τῷ ἀγρῷ ἕως ἑσπέρας· καὶ ἐρράβδισεν ἃ συνέλεξεν, καὶ ἐγενήθη ὡς οἰφὶ κριθῶν.
-# text = καὶ συνέλεξεν ἐν τῷ ἀγρῷ ἕως ἑσπέρας· καὶ ἐρράβδισεν ἃ συνέλεξεν, καὶ ἐγενήθη ὡς οἰφὶ κριθῶν.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	συνέλεξεν	συλλέγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-collect,gather
 3	ἐν	ἐν	ADP	_	_	5	case	_	Gloss=in,on,by,with,to
@@ -19223,7 +19184,6 @@
 19	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = Septuagint-Ruth-2:18-grc
-# text = Καὶ ἦρεν καὶ εἰσῆλθεν εἰς τὴν πόλιν, καὶ εἶδεν ἡ πενθερὰ αὐτῆς ἃ συνέλεξεν, καὶ ἐξενέγκασα Ῥοὺθ ἔδωκεν αὐτῇ ἃ κατέλιπεν ἐξ ὧν ἐνεπλήσθη.
 # text = Καὶ ἦρεν καὶ εἰσῆλθεν εἰς τὴν πόλιν, καὶ εἶδεν ἡ πενθερὰ αὐτῆς ἃ συνέλεξεν, καὶ ἐξενέγκασα Ῥοὺθ ἔδωκεν αὐτῇ ἃ κατέλιπεν ἐξ ὧν ἐνεπλήσθη.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἦρεν	αἴρω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-lift-up,take-up
@@ -19254,7 +19214,6 @@
 27	.	.	PUNCT	_	_	26	punct	_	_
 
 # sent_id = Septuagint-Ruth-2:19-grc
-# text = καὶ εἶπεν αὐτῇ ἡ πενθερὰ αὐτῆς, ποῦ συνέλεξας σήμερον καὶ ποῦ ἐποίησας; εἴη ὁ ἐπιγνούς σὲ εὐλογημένος. καὶ ἀπήγγειλεν Ῥοὺθ τῇ πενθερᾷ αὐτῆς ποῦ ἐποίησεν, καὶ εἶπεν, τὸ ὄνομα τοῦ ἀνδρός, μεθ᾿ οὗ ἐποίησα σήμερον, Βοόζ.
 # text = καὶ εἶπεν αὐτῇ ἡ πενθερὰ αὐτῆς, ποῦ συνέλεξας σήμερον καὶ ποῦ ἐποίησας; εἴη ὁ ἐπιγνούς σὲ εὐλογημένος. καὶ ἀπήγγειλεν Ῥοὺθ τῇ πενθερᾷ αὐτῆς ποῦ ἐποίησεν, καὶ εἶπεν, τὸ ὄνομα τοῦ ἀνδρός, μεθ᾿ οὗ ἐποίησα σήμερον, Βοόζ.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
@@ -19303,7 +19262,6 @@
 
 # sent_id = Septuagint-Ruth-2:20-grc
 # text = καὶ εἶπεν Νωεμὶν τῇ νύμφῃ αὐτῆς, εὐλογητός ἐστιν τῷ κυρίῳ, ὅτι οὐκ ἐγκατέλιπεν τὸ ἔλεος αὐτοῦ μετὰ τῶν ζώντων καὶ μετὰ τῶν τεθνηκότων. καὶ εἶπεν αὐτῇ Νωεμίν, ἐγγίζει ἡμῖν ὁ ἀνήρ, ἐκ τῶν ἀγχιστευόντων ἡμᾶς ἐστιν.
-# text = καὶ εἶπεν Νωεμὶν τῇ νύμφῃ αὐτῆς, εὐλογητός ἐστιν τῷ κυρίῳ, ὅτι οὐκ ἐγκατέλιπεν τὸ ἔλεος αὐτοῦ μετὰ τῶν ζώντων καὶ μετὰ τῶν τεθνηκότων. καὶ εἶπεν αὐτῇ Νωεμίν, ἐγγίζει ἡμῖν ὁ ἀνήρ, ἐκ τῶν ἀγχιστευόντων ἡμᾶς ἐστιν.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	Νωεμὶν	Νωεμίν	PROPN	_	Gender=Fem|Number=Sing	2	nsubj	_	Gloss=Naomi
@@ -19349,7 +19307,6 @@
 
 # sent_id = Septuagint-Ruth-2:21-grc
 # text = καὶ εἶπεν Ῥοὺθ πρὸς τὴν πενθερὰν αὐτῆς, καὶ γε ὅτι εἶπεν πρός με μετὰ τῶν παιδαρίων μου προσκολλήθητι, ἕως ἄν τελέσωσιν ὅλον τὸν ἀμητόν, ὃς ὑπάρχει μοι.
-# text = καὶ εἶπεν Ῥοὺθ πρὸς τὴν πενθερὰν αὐτῆς, καὶ γε ὅτι εἶπεν πρός με μετὰ τῶν παιδαρίων μου προσκολλήθητι, ἕως ἄν τελέσωσιν ὅλον τὸν ἀμητόν, ὃς ὑπάρχει μοι.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	Ῥοὺθ	Ῥούθ	PROPN	_	Gender=Fem|Number=Sing	2	nsubj	_	Gloss=Ruth
@@ -19384,7 +19341,6 @@
 
 # sent_id = Septuagint-Ruth-2:22-grc
 # text = Καὶ εἶπεν Νωεμὶν πρὸς Ῥοὺθ τὴν νύμφην αὐτῆς, ἀγαθόν, θύγατερ, ὅτι ἐπορεύθης μετὰ τῶν κορασίων αὐτοῦ, καὶ οὐκ ἀπαντήσονταί σοί ἐν ἀγρῷ ἑτέρῳ.
-# text = Καὶ εἶπεν Νωεμὶν πρὸς Ῥοὺθ τὴν νύμφην αὐτῆς, ἀγαθόν, θύγατερ, ὅτι ἐπορεύθης μετὰ τῶν κορασίων αὐτοῦ, καὶ οὐκ ἀπαντήσονταί σοί ἐν ἀγρῷ ἑτέρῳ.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	Νωεμὶν	Νωεμίν	PROPN	_	Gender=Fem|Number=Sing	2	nsubj	_	Gloss=Naomi
@@ -19416,7 +19372,6 @@
 
 # sent_id = Septuagint-Ruth-2:23-grc
 # text = καὶ προσεκολλήθη Ῥοὺθ τοῖς κορασίοις Βοὸζ συλλέγειν ἕως οὗ συνετέλεσεν τὸν θερισμὸν τῶν κριθῶν καὶ τῶν πυρῶν. καὶ ἐκάθισεν μετὰ τῆς πενθερᾶς αὐτῆς.
-# text = καὶ προσεκολλήθη Ῥοὺθ τοῖς κορασίοις Βοὸζ συλλέγειν ἕως οὗ συνετέλεσεν τὸν θερισμὸν τῶν κριθῶν καὶ τῶν πυρῶν. καὶ ἐκάθισεν μετὰ τῆς πενθερᾶς αὐτῆς.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	προσεκολλήθη	προσκολλάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-join
 3	Ῥοὺθ	Ῥούθ	PROPN	_	Gender=Fem|Number=Sing	2	nsubj:pass	_	Gloss=Ruth
@@ -19445,7 +19400,6 @@
 
 # sent_id = Septuagint-Ruth-3:1-grc
 # text = Εἶπεν δὲ αὐτῇ Νωεμὶν ἡ πενθερὰ αὐτῆς θύγατερ, οὐ μὴ ζητήσω σοί ἀνάπαυσιν, ἵνα εὖ γένηταί σοι;
-# text = Εἶπεν δὲ αὐτῇ Νωεμὶν ἡ πενθερὰ αὐτῆς θύγατερ, οὐ μὴ ζητήσω σοί ἀνάπαυσιν, ἵνα εὖ γένηταί σοι;
 1	Εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Unknown=postpositive
 3	αὐτῇ	αὐτός	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Prs	1	iobj	_	Gloss=she,-self,same
@@ -19468,7 +19422,6 @@
 20	;	;	PUNCT	_	_	19	punct	_	_
 
 # sent_id = Septuagint-Ruth-3:2-grc
-# text = καὶ νῦν οὐχὶ Βοὸζ γνώριμος ἡμῶν, οὗ ἦς μετὰ τῶν κορασίων αὐτοῦ; ἰδοὺ αὐτὸς λικμᾷ τὸν ἅλωνα τῶν κριθῶν ταύτῃ τῇ νυκτί.
 # text = καὶ νῦν οὐχὶ Βοὸζ γνώριμος ἡμῶν, οὗ ἦς μετὰ τῶν κορασίων αὐτοῦ; ἰδοὺ αὐτὸς λικμᾷ τὸν ἅλωνα τῶν κριθῶν ταύτῃ τῇ νυκτί.
 1	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next
 2	νῦν	νῦν	ADV	_	_	5	obl:tmod	_	Gloss=now
@@ -19497,7 +19450,6 @@
 25	.	.	PUNCT	_	_	24	punct	_	_
 
 # sent_id = Septuagint-Ruth-3:3-grc
-# text = Σὺ δὲ λούσῃ καὶ ἀλείψῃ καὶ περιθήσεις τὸν ἱματισμόν σου ἐπὶ σεαυτῇ καὶ ἀναβήσῃ ἐπὶ τὸν ἅλω· μὴ γνωρισθῇς τῷ ἀνδρὶ ἕως οὗ συντελέσαι αὐτὸν πιεῖν καὶ φαγεῖν·
 # text = Σὺ δὲ λούσῃ καὶ ἀλείψῃ καὶ περιθήσεις τὸν ἱματισμόν σου ἐπὶ σεαυτῇ καὶ ἀναβήσῃ ἐπὶ τὸν ἅλω· μὴ γνωρισθῇς τῷ ἀνδρὶ ἕως οὗ συντελέσαι αὐτὸν πιεῖν καὶ φαγεῖν·
 1	Σὺ	σύ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you
 2	δὲ	δέ	CCONJ	_	_	3	cc	_	Gloss=but,and,however|Unknown=postpositive
@@ -19531,7 +19483,6 @@
 30	·	·	PUNCT	_	_	29	punct	_	_
 
 # sent_id = Septuagint-Ruth-3:4-grc
-# text = καὶ ἔσται ἐν τῷ κοιμηθῆναι αὐτόν, καὶ γνώσῃ τὸν τόπον, ὅπου κοιμᾶται ἐκεῖ, καὶ ἐλεύσῃ καὶ ἀποκαλύψεις τὰ πρὸς ποδῶν αὐτοῦ καὶ κοιμηθήσῃ, καὶ αὐτὸς ἀπαγγελεῖ σοί ἃ ποιήσεις.
 # text = καὶ ἔσται ἐν τῷ κοιμηθῆναι αὐτόν, καὶ γνώσῃ τὸν τόπον, ὅπου κοιμᾶται ἐκεῖ, καὶ ἐλεύσῃ καὶ ἀποκαλύψεις τὰ πρὸς ποδῶν αὐτοῦ καὶ κοιμηθήσῃ, καὶ αὐτὸς ἀπαγγελεῖ σοί ἃ ποιήσεις.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἔσται	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Mid	0	root	_	Gloss=to-be
@@ -19570,7 +19521,6 @@
 
 # sent_id = Septuagint-Ruth-3:5-grc
 # text = εἶπεν δὲ Ῥοὺθ πρὸς αὐτήν, πάντα, ὅσα ἐὰν εἴπῃς, ποιήσω.
-# text = εἶπεν δὲ Ῥοὺθ πρὸς αὐτήν, πάντα, ὅσα ἐὰν εἴπῃς, ποιήσω.
 1	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Unknown=postpositive
 3	Ῥοὺθ	Ῥούθ	PROPN	_	Gender=Fem|Number=Sing	1	nsubj	_	Gloss=Ruth
@@ -19587,7 +19537,6 @@
 14	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = Septuagint-Ruth-3:6-grc
-# text = Καὶ κατέβη εἰς τὸν ἅλω καὶ ἐποίησεν κατὰ πάντα, ὅσα ἐνετείλατο αὐτῇ ἡ πενθερὰ αὐτῆς.
 # text = Καὶ κατέβη εἰς τὸν ἅλω καὶ ἐποίησεν κατὰ πάντα, ὅσα ἐνετείλατο αὐτῇ ἡ πενθερὰ αὐτῆς.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	κατέβη	καταβαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-go-down
@@ -19608,7 +19557,6 @@
 17	.	.	PUNCT	_	_	16	punct	_	_
 
 # sent_id = Septuagint-Ruth-3:7-grc
-# text = καὶ ἔφαγεν Βοόζ, καὶ ἔπιε, καὶ ἠγαθύνθη ἡ καρδία αὐτοῦ, καὶ ἦλθεν κοιμηθῆναι ἐν μερίδι τῆς στοιβῆς· ἡ δὲ ἦλθεν κρυφῇ καὶ ἀπεκάλυψεν τὰ πρὸς ποδῶν αὐτοῦ.
 # text = καὶ ἔφαγεν Βοόζ, καὶ ἔπιε, καὶ ἠγαθύνθη ἡ καρδία αὐτοῦ, καὶ ἦλθεν κοιμηθῆναι ἐν μερίδι τῆς στοιβῆς· ἡ δὲ ἦλθεν κρυφῇ καὶ ἀπεκάλυψεν τὰ πρὸς ποδῶν αὐτοῦ.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἔφαγεν	ἐσθίω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-eat
@@ -19645,7 +19593,6 @@
 
 # sent_id = Septuagint-Ruth-3:8-grc
 # text = ἐγένετο δὲ ἐν τῷ μεσονυκτίῳ καὶ ἐξέστη ὁ ἀνὴρ καὶ ἐταράχθη, καὶ ἰδοὺ γυνὴ κοιμᾶται πρὸς ποδῶν αὐτοῦ.
-# text = ἐγένετο δὲ ἐν τῷ μεσονυκτίῳ καὶ ἐξέστη ὁ ἀνὴρ καὶ ἐταράχθη, καὶ ἰδοὺ γυνὴ κοιμᾶται πρὸς ποδῶν αὐτοῦ.
 1	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-become,come-to-be
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Unknown=postpositive
 3	ἐν	ἐν	ADP	_	_	5	case	_	Gloss=in,on,by,with,to
@@ -19668,7 +19615,6 @@
 20	.	.	PUNCT	_	_	19	punct	_	_
 
 # sent_id = Septuagint-Ruth-3:9-grc
-# text = εἶπεν δέ, τίς εἶ σύ; ἡ δὲ εἶπεν, ἐγώ εἰμι Ῥοὺθ ἡ δούλη σου, καὶ περιβαλεῖς τὸ πτερύγιόν σου ἐπὶ τὴν δούλην σου, ὅτι ἀγχιστεὺς εἶ σύ.
 # text = εἶπεν δέ, τίς εἶ σύ; ἡ δὲ εἶπεν, ἐγώ εἰμι Ῥοὺθ ἡ δούλη σου, καὶ περιβαλεῖς τὸ πτερύγιόν σου ἐπὶ τὴν δούλην σου, ὅτι ἀγχιστεὺς εἶ σύ.
 1	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 2	δέ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|SpaceAfter=No|Unknown=postpositive
@@ -19705,7 +19651,6 @@
 33	.	.	PUNCT	_	_	32	punct	_	_
 
 # sent_id = Septuagint-Ruth-3:10-grc
-# text = καὶ εἶπεν Βοόζ, εὐλογημένη σὺ τῷ κυρίῳ θεῷ, θύγατερ, ὅτι ἠγάθυνας τὸ ἔλεός σου τὸ ἔσχατον ὑπὲρ τὸ πρῶτον, τὸ μὴ πορευθῆναί σὲ ὀπίσω νεανιῶν, εἴτοι πτωχὸς εἴτοι πλούσιος.
 # text = καὶ εἶπεν Βοόζ, εὐλογημένη σὺ τῷ κυρίῳ θεῷ, θύγατερ, ὅτι ἠγάθυνας τὸ ἔλεός σου τὸ ἔσχατον ὑπὲρ τὸ πρῶτον, τὸ μὴ πορευθῆναί σὲ ὀπίσω νεανιῶν, εἴτοι πτωχὸς εἴτοι πλούσιος.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
@@ -19745,7 +19690,6 @@
 
 # sent_id = Septuagint-Ruth-3:11-grc
 # text = καὶ νῦν, θύγατερ, μὴ φοβοῦ· πάντα, ὅσα ἐὰν εἴπῃς, ποιήσω σοι· οἶδεν γὰρ πᾶσα φυλὴ λαοῦ μου ὅτι γυνὴ δυνάμεως εἶ σύ,
-# text = καὶ νῦν, θύγατερ, μὴ φοβοῦ· πάντα, ὅσα ἐὰν εἴπῃς, ποιήσω σοι· οἶδεν γὰρ πᾶσα φυλὴ λαοῦ μου ὅτι γυνὴ δυνάμεως εἶ σύ,
 1	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
 2	νῦν	νῦν	ADV	_	_	7	obl:tmod	_	Gloss=now|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
@@ -19778,7 +19722,6 @@
 
 # sent_id = Septuagint-Ruth-3:12-grc
 # text = καὶ ὅτι ἀληθῶς ἀγχιστεὺς ἐγώ εἰμι, καὶ γε ἔστιν ἀγχιστεὺς ἐγγίων ὑπὲρ ἐμέ.
-# text = καὶ ὅτι ἀληθῶς ἀγχιστεὺς ἐγώ εἰμι, καὶ γε ἔστιν ἀγχιστεὺς ἐγγίων ὑπὲρ ἐμέ.
 1	καὶ	καί	CCONJ	_	_	4	cc	_	Gloss=and,also,even,then,next
 2	ὅτι	ὅτι	SCONJ	_	_	4	mark	_	Gloss=because,that-for
 3	ἀληθῶς	ἀληθῶς	ADV	_	_	4	advmod	_	Gloss=truly
@@ -19796,7 +19739,6 @@
 15	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = Septuagint-Ruth-3:13-grc
-# text = αὐλίσθητι τὴν νύκτα, καὶ ἔσται τὸ πρωί, ἐὰν ἀγχιστεύσῃ σε, ἀγαθόν, ἀγχιστευέτω· ἐὰν δὲ μὴ βούληται ἀγχιστεῦσαί σε, ἀγχιστεύσω σὲ ἐγώ, ζῇ κύριος· κοιμήθητι ἕως πρωί.
 # text = αὐλίσθητι τὴν νύκτα, καὶ ἔσται τὸ πρωί, ἐὰν ἀγχιστεύσῃ σε, ἀγαθόν, ἀγχιστευέτω· ἐὰν δὲ μὴ βούληται ἀγχιστεῦσαί σε, ἀγχιστεύσω σὲ ἐγώ, ζῇ κύριος· κοιμήθητι ἕως πρωί.
 1	αὐλίσθητι	αὐλίζω	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=stay,lodge-(overnight)
 2	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	det	_	Gloss=the
@@ -19836,7 +19778,6 @@
 
 # sent_id = Septuagint-Ruth-3:14-grc
 # text = Καὶ ἐκοιμήθη πρὸς ποδῶν αὐτοῦ ἕως πρωί. ἡ δὲ ἀνέστη πρὸ τοῦ ἐπιγνῶναι ἄνδρα τὸν πλησίον αὐτοῦ· καὶ εἶπεν Βοόζ, μὴ γνωσθήτω ὅτι ἦλθεν γυνὴ εἰς τὸν ἅλωνα.
-# text = Καὶ ἐκοιμήθη πρὸς ποδῶν αὐτοῦ ἕως πρωί. ἡ δὲ ἀνέστη πρὸ τοῦ ἐπιγνῶναι ἄνδρα τὸν πλησίον αὐτοῦ· καὶ εἶπεν Βοόζ, μὴ γνωσθήτω ὅτι ἦλθεν γυνὴ εἰς τὸν ἅλωνα.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἐκοιμήθη	κοιμάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-put-to-bed
 3	πρὸς	πρός	ADP	_	_	4	case	_	Gloss=+D=at;-+A=to,toward
@@ -19872,7 +19813,6 @@
 
 # sent_id = Septuagint-Ruth-3:15-grc
 # text = Καὶ εἶπεν αὐτῇ, φέρε τὸ περίζωμα τὸ ἐπάνω σου. καὶ ἐκράτησεν αὐτό, καὶ ἐμέτρησεν ἓξ κριθῶν καὶ ἐπέθηκεν ἐπ᾿ αὐτήν· καὶ εἰσῆλθεν εἰς τὴν πόλιν.
-# text = Καὶ εἶπεν αὐτῇ, φέρε τὸ περίζωμα τὸ ἐπάνω σου. καὶ ἐκράτησεν αὐτό, καὶ ἐμέτρησεν ἓξ κριθῶν καὶ ἐπέθηκεν ἐπ᾿ αὐτήν· καὶ εἰσῆλθεν εἰς τὴν πόλιν.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	αὐτῇ	αὐτός	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Prs	2	iobj	_	Gloss=she,-self,same|SpaceAfter=No
@@ -19906,7 +19846,6 @@
 
 # sent_id = Septuagint-Ruth-3:16-grc
 # text = Καὶ Ῥοὺθ εἰσῆλθεν πρὸς τὴν πενθερὰν αὐτῆς· ἡ δὲ εἶπεν, τίς εἶ, θύγατερ· καὶ εἶπεν αὐτῇ πάντα, ὅσα ἐποίησεν αὐτῇ ὁ ἀνήρ.
-# text = Καὶ Ῥοὺθ εἰσῆλθεν πρὸς τὴν πενθερὰν αὐτῆς· ἡ δὲ εἶπεν, τίς εἶ, θύγατερ· καὶ εἶπεν αὐτῇ πάντα, ὅσα ἐποίησεν αὐτῇ ὁ ἀνήρ.
 1	Καὶ	καί	CCONJ	_	_	3	cc	_	Gloss=and,also,even,then,next
 2	Ῥοὺθ	Ῥούθ	PROPN	_	Gender=Fem|Number=Sing	3	nsubj	_	Gloss=Ruth
 3	εἰσῆλθεν	εἰσέρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-enter
@@ -19938,7 +19877,6 @@
 
 # sent_id = Septuagint-Ruth-3:17-grc
 # text = καὶ εἶπεν αὐτῇ, τὰ ἓξ τῶν κριθῶν ταῦτα ἔδωκέν μοι, ὅτι εἶπεν πρός με, μὴ εἰσέλθῃς κενὴ πρὸς τὴν πενθεράν σου.
-# text = καὶ εἶπεν αὐτῇ, τὰ ἓξ τῶν κριθῶν ταῦτα ἔδωκέν μοι, ὅτι εἶπεν πρός με, μὴ εἰσέλθῃς κενὴ πρὸς τὴν πενθεράν σου.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	αὐτῇ	αὐτός	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Prs	2	iobj	_	Gloss=she,-self,same|SpaceAfter=No
@@ -19966,7 +19904,6 @@
 25	.	.	PUNCT	_	_	24	punct	_	_
 
 # sent_id = Septuagint-Ruth-3:18-grc
-# text = ἡ δὲ εἶπεν κάθου, θύγατερ, ἕως τοῦ ἐπιγνῶναί σὲ πῶς οὐ πεσεῖται ῥῆμα· οὐ γὰρ μὴ ἡσυχάσῃ ὁ ἀνήρ, ἕως ἄν τελέσῃ τὸ ῥῆμα σήμερον.
 # text = ἡ δὲ εἶπεν κάθου, θύγατερ, ἕως τοῦ ἐπιγνῶναί σὲ πῶς οὐ πεσεῖται ῥῆμα· οὐ γὰρ μὴ ἡσυχάσῃ ὁ ἀνήρ, ἕως ἄν τελέσῃ τὸ ῥῆμα σήμερον.
 1	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	det	_	Gloss=the
 2	δὲ	δέ	CCONJ	_	_	3	cc	_	Gloss=but,and,however|Unknown=postpositive
@@ -20000,7 +19937,6 @@
 30	.	.	PUNCT	_	_	29	punct	_	_
 
 # sent_id = Septuagint-Ruth-4:1-grc
-# text = Καὶ Βοὸζ ἀνέβη ἐπὶ τὴν πύλην καὶ ἐκάθισεν ἐκεῖ, καὶ ἰδοὺ ὁ ἀγχιστεὺς παρεπορεύετο, ὃν εἶπεν Βοόζ. καὶ εἶπεν πρὸς αὐτὸν Βοόζ, ἐκκλίνας κάθισον ὧδε, κρύφιε· καὶ ἐξέκλινεν καὶ ἐκάθισεν.
 # text = Καὶ Βοὸζ ἀνέβη ἐπὶ τὴν πύλην καὶ ἐκάθισεν ἐκεῖ, καὶ ἰδοὺ ὁ ἀγχιστεὺς παρεπορεύετο, ὃν εἶπεν Βοόζ. καὶ εἶπεν πρὸς αὐτὸν Βοόζ, ἐκκλίνας κάθισον ὧδε, κρύφιε· καὶ ἐξέκλινεν καὶ ἐκάθισεν.
 1	Καὶ	καί	CCONJ	_	_	3	cc	_	Gloss=and,also,even,then,next
 2	Βοὸζ	Βοόζ	PROPN	_	Number=Sing	3	nsubj	_	Gloss=Boaz|Unknown=###no,parse###
@@ -20042,7 +19978,6 @@
 
 # sent_id = Septuagint-Ruth-4:2-grc
 # text = καὶ ἔλαβεν Βοὸζ δέκα ἄνδρας ἀπὸ τῶν πρεσβυτέρων τῆς πόλεως καὶ εἶπεν, καθίσατε ὧδε· καὶ ἐκάθισαν.
-# text = καὶ ἔλαβεν Βοὸζ δέκα ἄνδρας ἀπὸ τῶν πρεσβυτέρων τῆς πόλεως καὶ εἶπεν, καθίσατε ὧδε· καὶ ἐκάθισαν.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἔλαβεν	λαμβάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=received,taken
 3	Βοὸζ	Βοόζ	PROPN	_	Number=Sing	2	nsubj	_	Gloss=Boaz|Unknown=###no,parse###
@@ -20064,7 +19999,6 @@
 19	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = Septuagint-Ruth-4:3-grc
-# text = Καὶ εἶπεν Βοὸζ τῷ ἀγχιστεῖ, τὴν μερίδα τοῦ ἀγροῦ, ἥ ἐστιν τοῦ ἀδελφοῦ ἡμῶν τοῦ Ἀβιμέλεχ, ἣ δέδοται Νωεμὶν τῇ ἐπιστρεφούσῃ ἐξ ἀγροῦ Μωάβ,
 # text = Καὶ εἶπεν Βοὸζ τῷ ἀγχιστεῖ, τὴν μερίδα τοῦ ἀγροῦ, ἥ ἐστιν τοῦ ἀδελφοῦ ἡμῶν τοῦ Ἀβιμέλεχ, ἣ δέδοται Νωεμὶν τῇ ἐπιστρεφούσῃ ἐξ ἀγροῦ Μωάβ,
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
@@ -20096,7 +20030,6 @@
 28	,	,	PUNCT	_	_	27	punct	_	_
 
 # sent_id = Septuagint-Ruth-4:4-grc
-# text = κἀγὼ εἶπα, ἀποκαλύψω τὸ οὖς σου λέγων, κτῆσαι ἐναντίον τῶν καθημένων καὶ ἐναντίον τῶν πρεσβυτέρων τοῦ λαοῦ μου· εἰ ἀγχιστεύεις, ἀγχίστευε· εἰ δὲ μὴ ἀγχιστεύεις, ἀνάγγειλόν μοι καὶ γνώσομαι· ὅτι οὐκ ἔστιν πάρεξ σου τοῦ ἀγχιστεῦσαι, κἀγώ εἰμι μετὰ σέ. ὁ δὲ εἶπεν, ἐγώ εἰμι ἀγχιστεύσω.
 # text = κἀγὼ εἶπα, ἀποκαλύψω τὸ οὖς σου λέγων, κτῆσαι ἐναντίον τῶν καθημένων καὶ ἐναντίον τῶν πρεσβυτέρων τοῦ λαοῦ μου· εἰ ἀγχιστεύεις, ἀγχίστευε· εἰ δὲ μὴ ἀγχιστεύεις, ἀνάγγειλόν μοι καὶ γνώσομαι· ὅτι οὐκ ἔστιν πάρεξ σου τοῦ ἀγχιστεῦσαι, κἀγώ εἰμι μετὰ σέ. ὁ δὲ εἶπεν, ἐγώ εἰμι ἀγχιστεύσω.
 1-2	κἀγὼ	_	_	_	_	_	_	_	_
 1	καί	καί	CCONJ	_	_	3	cc	_	Gloss=and,even
@@ -20162,7 +20095,6 @@
 
 # sent_id = Septuagint-Ruth-4:5-grc
 # text = καὶ εἶπεν Βοόζ, ἐν ἡμέρᾳ τοῦ κτήσασθαί σὲ τὸν ἀγρὸν ἐκ χειρὸς Νωεμὶν καὶ παρὰ Ῥοὺθ τῆς Μωαβίτιδος γυναικὸς τοῦ τεθνηκότος, καὶ αὐτὴν κτήσασθαί σὲ δεῖ ὥστε ἀναστῆσαι τὸ ὄνομα τοῦ τεθνηκότος ἐπὶ τῆς κληρονομίας αὐτοῦ.
-# text = καὶ εἶπεν Βοόζ, ἐν ἡμέρᾳ τοῦ κτήσασθαί σὲ τὸν ἀγρὸν ἐκ χειρὸς Νωεμὶν καὶ παρὰ Ῥοὺθ τῆς Μωαβίτιδος γυναικὸς τοῦ τεθνηκότος, καὶ αὐτὴν κτήσασθαί σὲ δεῖ ὥστε ἀναστῆσαι τὸ ὄνομα τοῦ τεθνηκότος ἐπὶ τῆς κληρονομίας αὐτοῦ.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	Βοόζ	Βοόζ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Boaz|SpaceAfter=No
@@ -20205,7 +20137,6 @@
 
 # sent_id = Septuagint-Ruth-4:6-grc
 # text = καὶ εἶπεν ὁ ἀγχιστεύς, οὐ δυνήσομαι ἀγχιστεῦσαι ἐμαυτῷ, μήποτε διαφθείρω τὴν κληρονομίαν μου· ἀγχίστευσον σεαυτῷ τὴν ἀγχιστείαν μου, ὅτι οὐ δυνήσομαι ἀγχιστεῦσαι.
-# text = καὶ εἶπεν ὁ ἀγχιστεύς, οὐ δυνήσομαι ἀγχιστεῦσαι ἐμαυτῷ, μήποτε διαφθείρω τὴν κληρονομίαν μου· ἀγχίστευσον σεαυτῷ τὴν ἀγχιστείαν μου, ὅτι οὐ δυνήσομαι ἀγχιστεῦσαι.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing	4	det	_	Gloss=the;-oh
@@ -20235,7 +20166,6 @@
 27	.	.	PUNCT	_	_	26	punct	_	_
 
 # sent_id = Septuagint-Ruth-4:7-grc
-# text = Καὶ τοῦτο τὸ δικαίωμα ἔμπροσθεν ἐν τῷ Ἰσραὴλ ἐπὶ τὴν ἀγχιστείαν καὶ ἐπὶ τὸ ἀντάλλαγμα τοῦ στῆσαι πᾶν λόγον, καὶ ὑπελύετο ὁ ἀνὴρ τὸ ὑπόδημα αὐτοῦ καὶ ἐδίδου τῷ πλησίον αὐτοῦ τῷ ἀγχιστεύοντι τὴν ἀγχιστείαν αὐτοῦ, καὶ τοῦτο ἦν μαρτύριον ἐν Ἰσραήλ.
 # text = Καὶ τοῦτο τὸ δικαίωμα ἔμπροσθεν ἐν τῷ Ἰσραὴλ ἐπὶ τὴν ἀγχιστείαν καὶ ἐπὶ τὸ ἀντάλλαγμα τοῦ στῆσαι πᾶν λόγον, καὶ ὑπελύετο ὁ ἀνὴρ τὸ ὑπόδημα αὐτοῦ καὶ ἐδίδου τῷ πλησίον αὐτοῦ τῷ ἀγχιστεύοντι τὴν ἀγχιστείαν αὐτοῦ, καὶ τοῦτο ἦν μαρτύριον ἐν Ἰσραήλ.
 1	Καὶ	καί	CCONJ	_	_	4	cc	_	Gloss=and,also,even,then,next
 2	τοῦτο	οὗτος	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	Gloss=this
@@ -20285,7 +20215,6 @@
 
 # sent_id = Septuagint-Ruth-4:8-grc
 # text = Καὶ εἶπεν ὁ ἀγχιστεὺς τῷ Βοόζ, κτῆσαι σεαυτῷ τὴν ἀγχιστείαν μου· καὶ ὑπελύσατο τὸ ὑπόδημα αὐτοῦ καὶ ἔδωκεν αὐτῷ.
-# text = Καὶ εἶπεν ὁ ἀγχιστεὺς τῷ Βοόζ, κτῆσαι σεαυτῷ τὴν ἀγχιστείαν μου· καὶ ὑπελύσατο τὸ ὑπόδημα αὐτοῦ καὶ ἔδωκεν αὐτῷ.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing	4	det	_	Gloss=the;-oh
@@ -20310,7 +20239,6 @@
 22	.	.	PUNCT	_	_	21	punct	_	_
 
 # sent_id = Septuagint-Ruth-4:9-grc
-# text = καὶ εἶπεν Βοὸζ τοῖς πρεσβυτέροις καὶ παντὶ τῷ λαῷ, μάρτυρες ὑμεῖς σήμερον ὅτι κέκτημαι πάντα τὰ τοῦ Ἀβιμέλεχ καὶ πάντα, ὅσα ὑπάρχει τῷ Χελαιὼν καὶ τῷ Μααλών, ἐκ χειρὸς Νωεμίν·
 # text = καὶ εἶπεν Βοὸζ τοῖς πρεσβυτέροις καὶ παντὶ τῷ λαῷ, μάρτυρες ὑμεῖς σήμερον ὅτι κέκτημαι πάντα τὰ τοῦ Ἀβιμέλεχ καὶ πάντα, ὅσα ὑπάρχει τῷ Χελαιὼν καὶ τῷ Μααλών, ἐκ χειρὸς Νωεμίν·
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
@@ -20348,7 +20276,6 @@
 34	·	·	PUNCT	_	_	33	punct	_	_
 
 # sent_id = Septuagint-Ruth-4:10-grc
-# text = καὶ γε Ῥοὺθ τὴν Μωαβῖτιν τὴν γυναῖκα Μααλὼν κέκτημαι ἐμαυτῷ εἰς γυναῖκα τοῦ ἀναστῆσαι τὸ ὄνομα τοῦ τεθνηκότος ἐπὶ τῆς κληρονομίας αὐτοῦ, καὶ οὐκ ἐξολεθρευθήσεται τὸ ὄνομα τοῦ τεθνηκότος ἐκ τῶν ἀδελφῶν αὐτοῦ καὶ ἐκ τῆς φυλῆς λαοῦ αὐτοῦ· μάρτυρες ὑμεῖς σήμερον.
 # text = καὶ γε Ῥοὺθ τὴν Μωαβῖτιν τὴν γυναῖκα Μααλὼν κέκτημαι ἐμαυτῷ εἰς γυναῖκα τοῦ ἀναστῆσαι τὸ ὄνομα τοῦ τεθνηκότος ἐπὶ τῆς κληρονομίας αὐτοῦ, καὶ οὐκ ἐξολεθρευθήσεται τὸ ὄνομα τοῦ τεθνηκότος ἐκ τῶν ἀδελφῶν αὐτοῦ καὶ ἐκ τῆς φυλῆς λαοῦ αὐτοῦ· μάρτυρες ὑμεῖς σήμερον.
 1	καὶ	καί	ADV	_	_	3	advmod	_	Gloss=and,also,even,then,next
 2	γε	γέ	PART	_	_	1	fixed	_	Gloss=yet,doubtless,indeed,also
@@ -20397,7 +20324,6 @@
 45	.	.	PUNCT	_	_	44	punct	_	_
 
 # sent_id = Septuagint-Ruth-4:11-grc
-# text = Καὶ εἴποσαν πᾶς ὁ λαὸς οἱ ἐν τῇ πύλῃ, μάρτυρες. καὶ οἱ πρεσβύτεροι εἴποσαν, δῴη κύριος τὴν γυναῖκά σου τὴν εἰσπορευομένην εἰς τὸν οἶκόν σου ὡς Ῥαχὴλ καὶ ὡς Λείαν, αἳ ᾠκοδόμησαν ἀμφότεραι τὸν οἶκον Ἰσραὴλ καὶ ἐποίησαν δύναμιν ἐν Ἐφραθᾶ, καὶ ἔσται ὄνομα ἐν Βαιθλεέμ·
 # text = Καὶ εἴποσαν πᾶς ὁ λαὸς οἱ ἐν τῇ πύλῃ, μάρτυρες. καὶ οἱ πρεσβύτεροι εἴποσαν, δῴη κύριος τὴν γυναῖκά σου τὴν εἰσπορευομένην εἰς τὸν οἶκόν σου ὡς Ῥαχὴλ καὶ ὡς Λείαν, αἳ ᾠκοδόμησαν ἀμφότεραι τὸν οἶκον Ἰσραὴλ καὶ ἐποίησαν δύναμιν ἐν Ἐφραθᾶ, καὶ ἔσται ὄνομα ἐν Βαιθλεέμ·
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἴποσαν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
@@ -20454,7 +20380,6 @@
 
 # sent_id = Septuagint-Ruth-4:12-grc
 # text = καὶ γένοιτο ὁ οἶκός σου ὡς ὁ οἶκος Φαρές, ὃν ἔτεκεν Θάμαρ τῷ Ἰούδα, ἐκ τοῦ σπέρματος, οὗ δώσει κύριός σοί ἐκ τῆς παιδίσκης ταύτης.
-# text = καὶ γένοιτο ὁ οἶκός σου ὡς ὁ οἶκος Φαρές, ὃν ἔτεκεν Θάμαρ τῷ Ἰούδα, ἐκ τοῦ σπέρματος, οὗ δώσει κύριός σοί ἐκ τῆς παιδίσκης ταύτης.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	γένοιτο	γίνομαι	VERB	_	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-become,come-to-be
 3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing	4	det	_	Gloss=the;-oh
@@ -20487,7 +20412,6 @@
 
 # sent_id = Septuagint-Ruth-4:13-grc
 # text = Καὶ ἔλαβεν Βοὸζ τὴν Ῥούθ, καὶ ἐγενήθη αὐτῷ εἰς γυναῖκα, καὶ εἰσῆλθεν πρὸς αὐτήν, καὶ ἔδωκεν αὐτῇ κύριος κύησιν, καὶ ἔτεκεν υἱόν.
-# text = Καὶ ἔλαβεν Βοὸζ τὴν Ῥούθ, καὶ ἐγενήθη αὐτῷ εἰς γυναῖκα, καὶ εἰσῆλθεν πρὸς αὐτήν, καὶ ἔδωκεν αὐτῇ κύριος κύησιν, καὶ ἔτεκεν υἱόν.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἔλαβεν	λαμβάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=received,taken
 3	Βοὸζ	Βοόζ	PROPN	_	Number=Sing	2	nsubj	_	Gloss=Boaz|Unknown=###no,parse###
@@ -20518,7 +20442,6 @@
 
 # sent_id = Septuagint-Ruth-4:14-grc
 # text = καὶ εἶπαν αἱ γυναῖκες πρὸς Νωεμὶν εὐλογητὸς κύριος, ὃς οὐ κατέλυσέ σοί σήμερον τὸν ἀγχιστέα, καὶ καλέσαι τὸ ὄνομά σου ἐν Ἰσραήλ,
-# text = καὶ εἶπαν αἱ γυναῖκες πρὸς Νωεμὶν εὐλογητὸς κύριος, ὃς οὐ κατέλυσέ σοί σήμερον τὸν ἀγχιστέα, καὶ καλέσαι τὸ ὄνομά σου ἐν Ἰσραήλ,
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπαν	λέγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	αἱ	ὁ	DET	_	Case=Nom|Gender=Fem|Number=Plur	4	det	_	Gloss=the
@@ -20546,7 +20469,6 @@
 25	,	,	PUNCT	_	_	24	punct	_	_
 
 # sent_id = Septuagint-Ruth-4:15-grc
-# text = καὶ ἔσται σοί εἰς ἐπιστρέφοντα ψυχὴν καὶ τοῦ διαθρέψαι τὴν πολιάν σου, ὅτι ἡ νύμφη σου ἡ ἀγαπήσασά σὲ ἔτεκεν αὐτόν, ἥ ἐστιν ἀγαθή σοί ὑπὲρ ἑπτὰ υἱούς.
 # text = καὶ ἔσται σοί εἰς ἐπιστρέφοντα ψυχὴν καὶ τοῦ διαθρέψαι τὴν πολιάν σου, ὅτι ἡ νύμφη σου ἡ ἀγαπήσασά σὲ ἔτεκεν αὐτόν, ἥ ἐστιν ἀγαθή σοί ὑπὲρ ἑπτὰ υἱούς.
 1	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next
 2	ἔσται	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Mid	5	cop	_	Gloss=to-be|Outer=Yes
@@ -20582,7 +20504,6 @@
 
 # sent_id = Septuagint-Ruth-4:16-grc
 # text = καὶ ἔλαβεν Νωεμὶν τὸ παιδίον καὶ ἔθηκεν εἰς τὸν κόλπον αὐτῆς καὶ ἐγενήθη αὐτῷ εἰς τιθηνόν.
-# text = καὶ ἔλαβεν Νωεμὶν τὸ παιδίον καὶ ἔθηκεν εἰς τὸν κόλπον αὐτῆς καὶ ἐγενήθη αὐτῷ εἰς τιθηνόν.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἔλαβεν	λαμβάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=received,taken
 3	Νωεμὶν	Νωεμίν	PROPN	_	Gender=Fem|Number=Sing	2	nsubj	_	Gloss=Naomi
@@ -20602,7 +20523,6 @@
 17	.	.	PUNCT	_	_	16	punct	_	_
 
 # sent_id = Septuagint-Ruth-4:17-grc
-# text = Καὶ ἐκάλεσαν αὐτοῦ αἱ γείτονες ὄνομα λέγουσαι, ἐτέχθη υἱὸς τῇ Νωεμίν· καὶ ἐκάλεσαν τὸ ὄνομα αὐτοῦ Ὠβήδ· οὗτος πατὴρ Ἰεσσαὶ πατρὸς Δαυίδ.
 # text = Καὶ ἐκάλεσαν αὐτοῦ αἱ γείτονες ὄνομα λέγουσαι, ἐτέχθη υἱὸς τῇ Νωεμίν· καὶ ἐκάλεσαν τὸ ὄνομα αὐτοῦ Ὠβήδ· οὗτος πατὴρ Ἰεσσαὶ πατρὸς Δαυίδ.
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἐκάλεσαν	καλέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-call
@@ -20633,7 +20553,6 @@
 
 # sent_id = Septuagint-Ruth-4:18-grc
 # text = καὶ αὗται αἱ γενέσεις Φαρές· ἐγέννησεν τὸν Ἐσρών,
-# text = καὶ αὗται αἱ γενέσεις Φαρές· ἐγέννησεν τὸν Ἐσρών,
 1	καὶ	καί	CCONJ	_	_	4	cc	_	Gloss=and,also,even,then,next
 2	αὗται	οὗτος	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	4	nsubj	_	Gloss=these
 3	αἱ	ὁ	DET	_	Case=Nom|Gender=Fem|Number=Plur	4	det	_	Gloss=the
@@ -20646,7 +20565,6 @@
 10	,	,	PUNCT	_	_	9	punct	_	_
 
 # sent_id = Septuagint-Ruth-4:19-grc
-# text = Ἐσρὼν δὲ ἐγέννησεν τὸν Ἀρράν, καὶ Ἀρρὰν ἐγέννησεν τὸν Ἀμιναδάβ,
 # text = Ἐσρὼν δὲ ἐγέννησεν τὸν Ἀρράν, καὶ Ἀρρὰν ἐγέννησεν τὸν Ἀμιναδάβ,
 1	Ἐσρὼν	Ἐσρών	PROPN	_	_	3	nsubj	_	Gloss=Hezron|Unknown=###no,parse###
 2	δὲ	δέ	CCONJ	_	_	3	cc	_	Gloss=but,and,however|Unknown=postpositive
@@ -20663,7 +20581,6 @@
 
 # sent_id = Septuagint-Ruth-4:20-grc
 # text = καὶ Ἀμιναδὰβ ἐγέννησεν τὸν Ναασσών, καὶ Ναασσὼν ἐγέννησεν τὸν Σαλμών,
-# text = καὶ Ἀμιναδὰβ ἐγέννησεν τὸν Ναασσών, καὶ Ναασσὼν ἐγέννησεν τὸν Σαλμών,
 1	καὶ	καί	CCONJ	_	_	3	cc	_	Gloss=and,also,even,then,next
 2	Ἀμιναδὰβ	Ἀμιναδάβ	PROPN	_	_	3	nsubj	_	Gloss=Amminadab|Unknown=###no,parse###
 3	ἐγέννησεν	γεννάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-give-birth
@@ -20679,7 +20596,6 @@
 
 # sent_id = Septuagint-Ruth-4:21-grc
 # text = καὶ Σαλμὼν ἐγέννησεν τὸν Βοόζ, καὶ Βοὸζ ἐγέννησεν τὸν Ὠβήδ,
-# text = καὶ Σαλμὼν ἐγέννησεν τὸν Βοόζ, καὶ Βοὸζ ἐγέννησεν τὸν Ὠβήδ,
 1	καὶ	καί	CCONJ	_	_	3	cc	_	Gloss=and,also,even,then,next
 2	Σαλμὼν	Σαλμών	PROPN	_	_	3	nsubj	_	Gloss=Salmon,Sala|Unknown=###no,parse###
 3	ἐγέννησεν	γεννάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-give-birth
@@ -20694,7 +20610,6 @@
 12	,	,	PUNCT	_	_	11	punct	_	_
 
 # sent_id = Septuagint-Ruth-4:22-grc
-# text = καὶ Ὠβὴδ ἐγέννησεν τὸν Ἰεσσαί, καὶ Ἰεσσαὶ ἐγέννησεν τὸν Δαυίδ.
 # text = καὶ Ὠβὴδ ἐγέννησεν τὸν Ἰεσσαί, καὶ Ἰεσσαὶ ἐγέννησεν τὸν Δαυίδ.
 1	καὶ	καί	CCONJ	_	_	3	cc	_	Gloss=and,also,even,then,next
 2	Ὠβὴδ	Ὠβήδ	PROPN	_	_	3	nsubj	_	Gloss=Obed,Jobed|Unknown=###no,parse###
