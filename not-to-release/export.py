@@ -19,21 +19,15 @@ book_names = {
 }
 
 fixes = [
-    ('obl:tmod', 'obl'),
     ('PronType=Art', 'PronType=Dem'),
-    ('obl:npmod', 'obl'),
-    ('nmod:poss', 'nmod'),
     ('NumType=Card', ''),
     ('NumType=Ord', ''),
     ('PronType=Ind', ''),
     ('\t\t', '\t_\t'),
     ('|\t', '\t'),
-    ('cc:preconj', 'cc'),
     ('advcl:relcl', 'advcl'),
     ('dislocated:relcl', 'dislocated'),
-    ('cop:outer', 'cop'),
     ('nmod:relcl', 'nmod'),
-    ('obj:relcl', 'obj'),
 ]
 
 def parse_verse(sid, verse_re, book):
