@@ -19,10 +19,6 @@ book_names = {
 }
 
 fixes = [
-    ('PronType=Art', 'PronType=Dem'),
-    ('NumType=Card', ''),
-    ('NumType=Ord', ''),
-    ('PronType=Ind', ''),
     ('\t\t', '\t_\t'),
     ('|\t', '\t'),
     ('advcl:relcl', 'advcl'),
