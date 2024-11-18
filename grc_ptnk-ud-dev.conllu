@@ -581,8 +581,8 @@
 10	καὶ	καί	CCONJ	_	_	12	cc	_	Gloss=and,also,even,then,next
 11	πᾶσαν	πᾶς	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	12	amod	_	Gloss=every,all
 12	ψυχὴν	ψυχή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	conj	_	Gloss=soul
-13	ζῴων	ζῷον	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	12	appos	_	Gloss=beast,living-thing
-14	ἑρπετῶν	ἑρπετόν	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	12	appos	_	Gloss=reptiles|SpaceAfter=No
+13	ζῴων	ζῷον	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	Gloss=beast,living-thing
+14	ἑρπετῶν	ἑρπετόν	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	Gloss=reptiles|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
 16	ἃ	ὅς	PRON	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	17	obj	_	Gloss=who,which,that
 17	ἐξήγαγεν	ἐξάγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl:relcl	_	Gloss=to-bring-forth
@@ -5911,7 +5911,7 @@
 
 # sent_id = Septuagint-Genesis-9:6-grc
 # text = ὁ ἐκχέων αἷμα ἀνθρώπου ἀντὶ τοῦ αἵματος αὐτοῦ ἐκχυθήσεται, ὅτι ἐν εἰκόνι θεοῦ ἐποίησα τὸν ἄνθρωπον.
-1	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Gloss=the;-oh
+1	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	Gloss=the;-oh
 2	ἐκχέων	ἐκχέω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	dislocated	_	Gloss=to-gush-out,shed
 3	αἷμα	αἷμα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Gloss=blood
 4	ἀνθρώπου	ἄνθρωπος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Gloss=man
@@ -7061,7 +7061,7 @@
 16	διεσπάρησαν	διασπείρω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	parataxis	_	Gloss=to-scatter-abroad
 17	νῆσοι	νῆσος	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	16	nsubj:pass	_	Gloss=island
 18	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Dem	19	det	_	Gloss=the
-19	ἐθνῶν	ἔθνος	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	17	nsubj	_	Gloss=Gentiles,nations
+19	ἐθνῶν	ἔθνος	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	Gloss=Gentiles,nations
 20	ἐπὶ	ἐπί	ADP	_	_	22	case	_	Gloss=on,upon,against
 21	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	22	det	_	Gloss=the
 22	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	17	obl	_	Gloss=earth,land
