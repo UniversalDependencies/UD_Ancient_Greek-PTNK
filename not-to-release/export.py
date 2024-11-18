@@ -18,14 +18,6 @@ book_names = {
     'ruth': 'Ruth',
 }
 
-fixes = [
-    ('\t\t', '\t_\t'),
-    ('|\t', '\t'),
-    ('advcl:relcl', 'advcl'),
-    ('dislocated:relcl', 'dislocated'),
-    ('nmod:relcl', 'nmod'),
-]
-
 def parse_verse(sid, verse_re, book):
     m = verse_re.match(sid)
     if not m:
@@ -71,8 +63,6 @@ def process_sentence(sid, block, ranges, book, verse_re):
     for i in reversed(drop):
         block.pop(i)
     out = '\n'.join([nsid, f'# text = {text.strip()}'] + block)
-    for a, b in fixes:
-        out = out.replace(a, b)
     for a, b, d in ranges:
         if a <= chs <= b:
             output[d].append(out)
