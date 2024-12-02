@@ -52,8 +52,8 @@ Thank you to John Barach for granting permission to use his morphological annota
 * 2023-11-15 v2.13
   * Initial release in Universal Dependencies.
 * 2025-05-15 v2.16
-  * Add FEAT `NumType` and some more values to `PronType`
-  * Add relations `advcl:relcl`, `cc:preconj`, `nmod:poss`, and `obl:tmod`
+  * Add FEATs `ExtPos` and `NumType` and some more values to `PronType`
+  * Add subrelations `advcl:relcl`, `cc:preconj`, `nmod:poss`, and `obl:tmod`
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================

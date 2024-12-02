@@ -11233,7 +11233,7 @@
 
 # sent_id = Septuagint-Genesis-43:4-grc
 # text = εἰ μὲν οὖν ἀποστέλλεις τὸν ἀδελφὸν ἡμῶν μεθ᾿ ἡμῶν, καταβησόμεθα καὶ ἀγοράσωμέν σοί βρώματα·
-1	εἰ	εἰ	SCONJ	_	_	4	mark	_	Gloss=Conj:-if,since
+1	εἰ	εἰ	SCONJ	_	ExtPos=SCONJ	4	mark	_	Gloss=Conj:-if,since
 2	μὲν	μέν	PART	_	_	1	fixed	_	Gloss=indeed,on-other-hand
 3	οὖν	οὖν	ADV	_	_	1	fixed	_	Gloss=now,therefore
 4	ἀποστέλλεις	ἀποστέλλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	Gloss=to-send-forth
@@ -18095,7 +18095,7 @@
 # text = καὶ ἀπέθανον καὶ γε ἀμφότεροι, Μααλὼν καὶ Χελαιών, καὶ κατελείφθη ἡ γυνὴ ἀπὸ τοῦ ἀνδρὸς αὐτῆς καὶ ἀπὸ τῶν δύο υἱῶν αὐτῆς.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἀπέθανον	ἀποθνήσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-die
-3	καὶ	καί	ADV	_	_	5	advmod	_	Gloss=and,also,even,then,next
+3	καὶ	καί	CCONJ	_	ExtPos=ADV	5	advmod	_	Gloss=and,also,even,then,next
 4	γε	γέ	PART	_	_	3	fixed	_	Gloss=yet,doubtless,indeed,also
 5	ἀμφότεροι	ἀμφότερος	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	Gloss=both|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
@@ -19141,7 +19141,7 @@
 2	βαστάζοντες	βαστάζω	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	Gloss=to-support,carry
 3	βαστάξατε	βαστάζω	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-carry
 4	αὐτῇ	αὐτός	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Prs	3	iobj	_	Gloss=she,-self,same
-5	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next
+5	καὶ	καί	CCONJ	_	ExtPos=CCONJ	8	cc	_	Gloss=and,also,even,then,next
 6	γε	γέ	PART	_	_	5	fixed	_	Gloss=yet,doubtless,indeed,also
 7	παραβάλλοντες	παραβάλλω	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	Gloss=to-fall-alongside
 8	παραβαλεῖτε	παραβάλλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	Gloss=to-throw-to-one-side
@@ -19327,7 +19327,7 @@
 18	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	17	nmod:poss	_	Gloss=me,my
 19	προσκολλήθητι	προσκολλάω	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	12	ccomp	_	Gloss=to-join,keep-close|SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	_
-21	ἕως	ἕως	SCONJ	_	_	23	mark	_	Gloss=as-far-as,until,up-to
+21	ἕως	ἕως	SCONJ	_	ExtPos=SCONJ	23	mark	_	Gloss=as-far-as,until,up-to
 22	ἄν	ἄν	PART	_	_	21	fixed	_	Gloss=whenever,whoever,whatever
 23	τελέσωσιν	τελέω	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	Gloss=to-end
 24	ὅλον	ὅλος	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	26	amod	_	Gloss=altogether,whole
@@ -19729,7 +19729,7 @@
 5	ἐγώ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I
 6	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	4	cop	_	Gloss=to-be|SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	_
-8	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
+8	καὶ	καί	CCONJ	_	ExtPos=CCONJ	10	cc	_	Gloss=and,also,even,then,next
 9	γε	γέ	PART	_	_	8	fixed	_	Gloss=yet,doubtless,indeed,also
 10	ἔστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	conj	_	Gloss=to-be
 11	ἀγχιστεὺς	ἀγχιστεύς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Gloss=close-kin
@@ -20277,7 +20277,7 @@
 
 # sent_id = Septuagint-Ruth-4:10-grc
 # text = καὶ γε Ῥοὺθ τὴν Μωαβῖτιν τὴν γυναῖκα Μααλὼν κέκτημαι ἐμαυτῷ εἰς γυναῖκα τοῦ ἀναστῆσαι τὸ ὄνομα τοῦ τεθνηκότος ἐπὶ τῆς κληρονομίας αὐτοῦ, καὶ οὐκ ἐξολεθρευθήσεται τὸ ὄνομα τοῦ τεθνηκότος ἐκ τῶν ἀδελφῶν αὐτοῦ καὶ ἐκ τῆς φυλῆς λαοῦ αὐτοῦ· μάρτυρες ὑμεῖς σήμερον.
-1	καὶ	καί	ADV	_	_	3	advmod	_	Gloss=and,also,even,then,next
+1	καὶ	καί	ADV	_	ExtPos=CCONJ	9	cc	_	Gloss=and,also,even,then,next
 2	γε	γέ	PART	_	_	1	fixed	_	Gloss=yet,doubtless,indeed,also
 3	Ῥοὺθ	Ῥούθ	PROPN	_	Gender=Fem|Number=Sing	9	obj	_	Gloss=Ruth
 4	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Gloss=the
