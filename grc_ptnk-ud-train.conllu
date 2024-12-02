@@ -20277,7 +20277,7 @@
 
 # sent_id = Septuagint-Ruth-4:10-grc
 # text = καὶ γε Ῥοὺθ τὴν Μωαβῖτιν τὴν γυναῖκα Μααλὼν κέκτημαι ἐμαυτῷ εἰς γυναῖκα τοῦ ἀναστῆσαι τὸ ὄνομα τοῦ τεθνηκότος ἐπὶ τῆς κληρονομίας αὐτοῦ, καὶ οὐκ ἐξολεθρευθήσεται τὸ ὄνομα τοῦ τεθνηκότος ἐκ τῶν ἀδελφῶν αὐτοῦ καὶ ἐκ τῆς φυλῆς λαοῦ αὐτοῦ· μάρτυρες ὑμεῖς σήμερον.
-1	καὶ	καί	ADV	_	ExtPos=CCONJ	9	cc	_	Gloss=and,also,even,then,next
+1	καὶ	καί	CCONJ	_	ExtPos=CCONJ	9	cc	_	Gloss=and,also,even,then,next
 2	γε	γέ	PART	_	_	1	fixed	_	Gloss=yet,doubtless,indeed,also
 3	Ῥοὺθ	Ῥούθ	PROPN	_	Gender=Fem|Number=Sing	9	obj	_	Gloss=Ruth
 4	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Gloss=the
