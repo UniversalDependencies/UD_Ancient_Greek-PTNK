@@ -937,7 +937,7 @@
 
 # sent_id = Septuagint-Genesis-19:32-grc
 # text = δεῦρο καὶ ποτίσωμεν τὸν πατέρα ἡμῶν οἶνον καὶ κοιμηθῶμεν μετ᾿ αὐτοῦ καὶ ἐξαναστήσωμεν ἐκ τοῦ πατρὸς ἡμῶν σπέρμα.
-1	δεῦρο	δεῦρ᾿	ADV	_	_	0	root	_	Gloss=come-here
+1	δεῦρο	δεῦρο	ADV	_	_	0	root	_	Gloss=come-here
 2	καὶ	καί	CCONJ	_	_	3	cc	_	Gloss=and,also,even,then,next
 3	ποτίσωμεν	ποτίζω	VERB	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-make-drink,water
 4	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the
@@ -4062,7 +4062,7 @@
 2	ἔλαβεν	λαμβάνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=received,taken
 3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh
 4	παῖς	παῖς	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	2	nsubj	_	Gloss=child,servant
-5	δέκα	δέκ᾿	NUM	_	NumType=Card	6	nummod	_	Gloss=ten
+5	δέκα	δέκα	NUM	_	NumType=Card	6	nummod	_	Gloss=ten
 6	καμήλους	κάμηλος	NOUN	_	Case=Acc|Gender=Fem,Masc|Number=Plur	2	obj	_	Gloss=camels
 7	ἀπὸ	ἀπό	ADP	_	_	9	case	_	Gloss=from,away-from
 8	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	9	det	_	Gloss=the
@@ -4431,7 +4431,7 @@
 23	χεῖρας	χείρ	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	10	obl	_	Gloss=hands
 24	αὐτῆς	αὐτός	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Prs	23	nmod:poss	_	Gloss=she,-self,same|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	_
-26	δέκα	δέκ᾿	NUM	_	NumType=Card	27	nummod	_	Gloss=ten
+26	δέκα	δέκα	NUM	_	NumType=Card	27	nummod	_	Gloss=ten
 27	χρυσῶν	χρυσοῦς	ADJ	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur	20	advcl:relcl	_	Gloss=gold
 28	ὁλκὴ	ὁλκή	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	27	nsubj	_	Gloss=scale-weight
 29	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	28	nmod:poss	_	Gloss=he,she,it,-self,same|SpaceAfter=No
@@ -4647,7 +4647,7 @@
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
 3	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	2	iobj	_	Gloss=he,she,it,-self,same|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
-5	δεῦρο	δεῦρ᾿	ADV	_	_	2	ccomp	_	Gloss=come-here
+5	δεῦρο	δεῦρο	ADV	_	_	2	ccomp	_	Gloss=come-here
 6	εἴσελθε	εἰσέρχομαι	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	Gloss=to-enter|SpaceAfter=No
 7	·	·	PUNCT	_	_	8	punct	_	_
 8	εὐλογητὸς	εὐλογητός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	Gloss=blessed
@@ -4925,7 +4925,7 @@
 
 # sent_id = Septuagint-Genesis-24:41-grc
 # text = τότε ἀθῷος ἔσῃ ἀπὸ τῆς ἀρᾶς μου· ἡνίκα γὰρ ἐὰν ἔλθῃς εἰς τὴν ἐμὴν φυλὴν καὶ μή σοί δῶσιν, καὶ ἔσῃ ἀθῷος ἀπὸ τοῦ ὁρκισμοῦ μου.
-1	τότε	τότ᾿	ADV	_	_	2	advmod	_	Gloss=then
+1	τότε	τότε	ADV	_	_	2	advmod	_	Gloss=then
 2	ἀθῷος	ἀθῷος	ADJ	_	Case=Nom|Gender=Fem,Masc|Number=Sing	0	root	_	Gloss=innocent
 3	ἔσῃ	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	2	cop	_	Gloss=to-be
 4	ἀπὸ	ἀπό	ADP	_	_	6	case	_	Gloss=from,away-from
@@ -5398,7 +5398,7 @@
 14	ἡμῶν	ἡμεῖς	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	10	obl	_	Gloss=us,our
 15	ἡμέρας	ἡμέρα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	10	obl:tmod	_	Gloss=days
 16	ὡσεὶ	ὡσεί	ADV	_	_	17	advmod	_	Gloss=similarly,as-if,about
-17	δέκα	δέκ᾿	NUM	_	NumType=Card	15	nummod	_	Gloss=ten
+17	δέκα	δέκα	NUM	_	NumType=Card	15	nummod	_	Gloss=ten
 18	καὶ	καί	CCONJ	_	_	21	cc	_	Gloss=and,also,even,then,next
 19	μετὰ	μετά	ADP	_	_	20	case	_	Gloss=+G=with;-+A=after
 20	ταῦτα	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	21	obl	_	Gloss=these-things
@@ -11578,4 +11578,3 @@
 21	καὶ	καί	CCONJ	_	_	22	cc	_	Gloss=and,also,even,then,next
 22	ὄνοι	ὄνος	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Plur	11	conj	_	Gloss=male-donkeys|SpaceAfter=No
 23	.	.	PUNCT	_	_	22	punct	_	_
-
