@@ -17,13 +17,13 @@
   <tags unique="15">
     <tag name="ADJ">1348</tag><!-- πᾶς, κύριος, μέσος, ὅσος, καλός, μέγας, νεώτερος, πονηρός, πρεσβύτερος, ἕτερος -->
     <tag name="ADP">2645</tag><!-- ἐν, εἰς, ἐπί, πρός, μετά, ἀπό, ἐκ, κατά, ἐναντίον, ἀνά -->
-    <tag name="ADV">1057</tag><!-- οὐ, μή, ἐκεῖ, ἔτι, νῦν, οὖν, σφόδρα, οὕτω, ἡνίκα, σήμερον -->
+    <tag name="ADV">1055</tag><!-- οὐ, μή, ἐκεῖ, ἔτι, νῦν, οὖν, σφόδρα, οὕτω, ἡνίκα, σήμερον -->
     <tag name="AUX">535</tag><!-- εἰμί -->
-    <tag name="CCONJ">4310</tag><!-- καί, δέ, ἕως, ἀλλά, ἤ, τε, ὅτε, μηδέ, οὐδέ, εἴτοι -->
+    <tag name="CCONJ">4312</tag><!-- καί, δέ, ἕως, ἀλλά, ἤ, τε, ὅτε, μηδέ, οὐδέ, εἴτοι -->
     <tag name="DET">5157</tag><!-- ὁ -->
     <tag name="INTJ">100</tag><!-- ἰδού, εἴδω, ναί -->
     <tag name="NOUN">6082</tag><!-- γῆ, υἱός, θεός, πατήρ, ἀδελφός, γυνή, κύριος, ἡμέρα, ὄνομα, ἔτος -->
-    <tag name="NUM">492</tag><!-- ἑπτά, δύο, εἷς, ἑκατόν, δέκ᾿, πέντε, τρεῖς, τριάκοντα, δεύτερος, τεσσαράκοντα -->
+    <tag name="NUM">492</tag><!-- ἑπτά, δύο, εἷς, ἑκατόν, δέκα, πέντε, τρεῖς, τριάκοντα, δεύτερος, τεσσαράκοντα -->
     <tag name="PART">70</tag><!-- ἄν, γέ, δή, μέν, ποῦ, ἄρα, ἆρα -->
     <tag name="PRON">4298</tag><!-- αὐτός, ἐγώ, σύ, οὗτος, ὅς, ἡμεῖς, ὑμεῖς, σέ, τίς, σός -->
     <tag name="PROPN">2702</tag><!-- Ἰακώβ, Ἰωσήφ, Ἁβραάμ, Φαραώ, Ἰσαάκ, Ἡσαῦ, Ἅβραμ, Αἴγυπτος, Λάβαν, Χανάαν -->
@@ -32,92 +32,103 @@
     <tag name="VERB">5325</tag><!-- εἶπον, γίνομαι, ποιέω, λέγω, λαμβάνω, δίδωμι, ὁράω, ἔρχομαι, καλέω, τίκτω -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="50">
-    <feat name="Aspect" value="Imp" upos="AUX,VERB">1366</feat><!-- ἦν, λέγων, ἦσαν, δώσω, λέγοντες, ποιήσω, λέγουσα, ποιήσεις, ὑπάρχοντα, λήμψῃ -->
-    <feat name="Aspect" value="Perf" upos="VERB">4060</feat><!-- εἶπεν, ἐγένετο, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν, ἔλαβεν, εἶπαν -->
-    <feat name="Case" value="Acc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">5231</feat><!-- τὸν, τὴν, τὸ, τοὺς, αὐτὸν, αὐτῆς, με, τὰ, γῆν, τὰς -->
+  <feats unique="57">
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">1367</feat><!-- ἦν, λέγων, ἦσαν, δώσω, λέγοντες, ποιήσω, λέγουσα, ποιήσεις, ὑπάρχοντα, λήμψῃ -->
+    <feat name="Aspect" value="Perf" upos="VERB">4061</feat><!-- εἶπεν, ἐγένετο, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν, ἔλαβεν, εἶπαν -->
+    <feat name="Case" value="Acc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">5111</feat><!-- τὸν, τὴν, τὸ, τοὺς, αὐτὸν, με, τὰ, γῆν, τὰς, σὲ -->
     <feat name="Case" value="Acc,Gen,Nom" upos="NUM">54</feat><!-- δύο -->
     <feat name="Case" value="Acc,Nom" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">787</feat><!-- τὸ, τὰ, ὅσα, τί, ἔτη, πᾶν, τοῦτο, ὄνομα, τρεῖς, ἄρσεν -->
     <feat name="Case" value="Acc,Nom,Voc" upos="NOUN">15</feat><!-- ἔθνη, παιδία -->
     <feat name="Case" value="Dat" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">2733</feat><!-- τῷ, τῇ, αὐτῷ, μοι, τοῖς, αὐτοῖς, σοί, γῇ, ταῖς, αὐτῇ -->
-    <feat name="Case" value="Gen" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">5527</feat><!-- αὐτοῦ, τοῦ, σου, τῆς, τῶν, μου, αὐτῶν, γῆς, ὑμῶν, ἡμῶν -->
-    <feat name="Case" value="Nom" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">5174</feat><!-- ὁ, οἱ, ἡ, θεὸς, τὸ, κύριος, αἱ, τὰ, ἐγὼ, Ἰακὼβ -->
+    <feat name="Case" value="Gen" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">5650</feat><!-- αὐτοῦ, τοῦ, σου, τῆς, τῶν, μου, αὐτῶν, γῆς, αὐτῆς, ὑμῶν -->
+    <feat name="Case" value="Nom" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">5267</feat><!-- ὁ, οἱ, ἡ, θεὸς, τὸ, κύριος, αἱ, Ἰακὼβ, τὰ, ἐγὼ -->
     <feat name="Case" value="Nom,Voc" upos="ADJ,NOUN,PROPN">83</feat><!-- υἱοὶ, θυγάτηρ, θυγατέρες, υἱοί, γῆ, πρεσβύτεροι, ἀδελφοί, ἀδελφοὶ, ἄνδρες, Μαιτεβεὴλ -->
     <feat name="Case" value="Voc" upos="ADJ,NOUN">63</feat><!-- κύριε, τέκνον, θύγατερ, πάτερ, τέκνα, υἱέ, δέσποτα, ἀδελφοί, κρύφιε, υἱοὶ -->
     <feat name="Definite" value="Def" upos="DET">4253</feat><!-- τοῦ, τὸν, τὴν, τῷ, τὸ, τῆς, τῶν, τὰ, ἡ, τῇ -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">73</feat><!-- νεώτερος, νεώτερον, πρεσβύτερος, μείζων, πρεσβυτέρα, πρεσβυτέρου, νεωτέραν, πρότερον, μᾶλλον, νεωτέρα -->
     <feat name="Degree" value="Sup" upos="ADJ">11</feat><!-- βελτίστῃ, νεώτατος, πρῶτον, φρονιμώτατος, ἐνδοξότατος, ὀλιγοστός, ὑψίστου, ὑψίστῳ, ὕψιστον, ὕψιστος -->
+    <feat name="ExtPos" value="ADV" upos="CCONJ">1</feat><!-- καὶ -->
+    <feat name="ExtPos" value="CCONJ" upos="CCONJ">3</feat><!-- καὶ -->
+    <feat name="ExtPos" value="SCONJ" upos="SCONJ">2</feat><!-- εἰ, ἕως -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">4891</feat><!-- τὴν, τῆς, ἡ, τῇ, γῆς, αὐτῆς, γῆν, τὰς, αἱ, γῇ -->
     <feat name="Gender" value="Fem,Masc" upos="ADJ,NOUN,NUM,PRON">313</feat><!-- παῖς, βόες, λιμὸς, τίς, τρεῖς, καμήλους, θεὸν, βόας, λιμοῦ, πρωτότοκος -->
     <feat name="Gender" value="Fem,Masc,Neut" upos="ADJ,DET,NOUN,NUM,PRON,VERB">701</feat><!-- τῶν, αὐτῶν, δύο, πάντων, ὧν, καθαρῶν, τούτων, τίνος, ἐρήμῳ, διάλευκον -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7174</feat><!-- ὁ, τὸν, οἱ, θεὸς, τοὺς, αὐτὸν, Ἰακὼβ, Ἰωσὴφ, κύριος, υἱοὶ -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7177</feat><!-- ὁ, τὸν, οἱ, θεὸς, τοὺς, αὐτὸν, Ἰακὼβ, Ἰωσὴφ, κύριος, υἱοὶ -->
     <feat name="Gender" value="Masc,Neut" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">2619</feat><!-- αὐτοῦ, τοῦ, τῷ, αὐτῷ, τοῖς, αὐτοῖς, μέσον, ἐμοῦ, οὗ, τούτου -->
-    <feat name="Gender" value="Neut" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">2719</feat><!-- τὸ, τὰ, ὄνομα, ἔτη, τί, τοῦτο, ὅσα, ταῦτα, σπέρμα, πρόβατα -->
+    <feat name="Gender" value="Neut" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">2718</feat><!-- τὸ, τὰ, ὄνομα, ἔτη, τί, τοῦτο, ὅσα, ταῦτα, σπέρμα, πρόβατα -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">401</feat><!-- λαβὲ, ἔστω, λάβετε, φοβοῦ, αὐξάνεσθε, εἴσελθε, κοιμήθητι, ποίησον, φάγεσθε, ἀνάγγειλόν -->
     <feat name="Mood" value="Imp,Ind" upos="VERB">2</feat><!-- πορεύεσθε -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">4093</feat><!-- εἶπεν, ἦν, ἐγένετο, ἐστιν, ἔσται, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν -->
     <feat name="Mood" value="Ind,Sub" upos="AUX,VERB">62</feat><!-- εἰμι, γινώσκω, δίδωμι, εἰμὶ, παροικῶ, πορεύῃ, ἀποθνῄσκω, ἐπάγω, ἔχω, δίδωμί -->
     <feat name="Mood" value="Opt" upos="AUX,VERB">78</feat><!-- ποιῆσαι, δῴη, θάψαι, γένοιτο, εὐλογήσαι, καταλῦσαι, λαλῆσαι, εἴη, εὕροιμι, κατανοῆσαι -->
-    <feat name="Mood" value="Sub" upos="AUX,VERB">275</feat><!-- εὐλογήσω, στήσω, εἴπῃ, ᾖ, ζῇ, φάγῃ, εὐλογήσῃ, ἀπολέσω, εἴπω, εὑρεθῶσιν -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">276</feat><!-- εὐλογήσω, στήσω, εἴπῃ, ᾖ, ζῇ, φάγῃ, εὐλογήσῃ, ἀπολέσω, εἴπω, εὑρεθῶσιν -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">5665</feat><!-- τῶν, τὰ, οἱ, αὐτῶν, τοὺς, τοῖς, υἱοὶ, ὑμῶν, τὰς, αἱ -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">19239</feat><!-- αὐτοῦ, τοῦ, ὁ, τὸν, εἶπεν, τὴν, τῷ, τὸ, σου, τῆς -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">19355</feat><!-- αὐτοῦ, τοῦ, ὁ, τὸν, εἶπεν, τὴν, τῷ, τὸ, σου, τῆς -->
+    <feat name="NumType" value="Card" upos="NUM">430</feat><!-- δύο, ἑπτὰ, ἑκατὸν, δέκα, πέντε, τριάκοντα, τεσσαράκοντα, τρεῖς, εἴκοσι, πεντήκοντα -->
+    <feat name="NumType" value="Ord" upos="NUM">62</feat><!-- δεύτερον, τρίτῃ, δευτέρῳ, ἑβδόμῃ, δευτέρου, δεκάτην, δευτέρα, πέμπτον, πρώτῳ, τετάρτη -->
     <feat name="Person" value="1" upos="ADJ,AUX,PRON,VERB">1524</feat><!-- μου, μοι, με, ἡμῶν, ἐγὼ, ἐμοῦ, ἐγώ, ἡμῖν, εἰμι, ἡμᾶς -->
     <feat name="Person" value="2" upos="AUX,PRON,VERB">1558</feat><!-- σου, ὑμῶν, σὲ, σοί, σὺ, ὑμῖν, εἶ, σοι, ὑμᾶς, ποιήσεις -->
-    <feat name="Person" value="3" upos="AUX,PRON,VERB">3636</feat><!-- εἶπεν, ἦν, ἐγένετο, ἐστιν, ἔσται, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">3637</feat><!-- εἶπεν, ἦν, ἐγένετο, ἐστιν, ἔσται, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν -->
     <feat name="Polarity" value="Neg" upos="ADV,CCONJ">369</feat><!-- μὴ, οὐκ, οὐ, οὐχ, μή, μηδὲ, οὐδὲ, οὐχί, οὐχὶ, οὔκ -->
     <feat name="Poss" value="Yes" upos="PRON">159</feat><!-- σοί, ἐμοῦ, Σοὶ, ἐμοί, ἐμοὶ, ἐμὸν, σά, σῶν, ἐμά, ἐμῆς -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">5277</feat><!-- τοῦ, ὁ, τὸν, τῷ, τὴν, τὸ, τῆς, τῶν, τὰ, οἱ -->
+    <feat name="PronType" value="Art" upos="DET">5157</feat><!-- τοῦ, ὁ, τὸν, τὴν, τῷ, τὸ, τῆς, τῶν, τὰ, οἱ -->
+    <feat name="PronType" value="Dem" upos="PRON">391</feat><!-- τοῦτο, οὗτοι, ταῦτα, οὗτος, αὕτη, ταύτην, τούτου, τοῦτον, αὗται, ταύτης -->
+    <feat name="PronType" value="Ind" upos="PRON">2</feat><!-- τινα, τινὰς -->
     <feat name="PronType" value="Int" upos="ADV,PRON">111</feat><!-- τί, τίς, τίνος, τις, πῶς, τι, πόθεν, Τίνα, Τίνες, πότε -->
     <feat name="PronType" value="Prs" upos="PRON">3529</feat><!-- αὐτοῦ, σου, μου, αὐτῷ, αὐτῶν, αὐτὸν, αὐτῆς, μοι, με, ὑμῶν -->
     <feat name="PronType" value="Rcp" upos="PRON">2</feat><!-- ἀλλήλοις, ἀλλήλους -->
-    <feat name="PronType" value="Rel" upos="PRON">267</feat><!-- οὗ, ὃν, ἣν, ὃς, ἃ, ᾗ, ᾧ, ὧν, ἥ, ἃς -->
+    <feat name="PronType" value="Rel" upos="PRON">273</feat><!-- οὗ, ὃν, ἣν, ὃς, ἃ, ᾗ, ᾧ, ὧν, ἥ, ἃς -->
     <feat name="Reflex" value="Yes" upos="PRON">63</feat><!-- ἑαυτῷ, ἑαυτοῖς, σεαυτῷ, ἑαυτοῦ, ἐμαυτῷ, σεαυτοῦ, ἑαυτῆς, σεαυτόν, ἑαυτὸν, ἑαυτῇ -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">554</feat><!-- ἔσται, δώσω, ποιήσω, ποιήσεις, λήμψῃ, ἔσονται, ἔσομαι, ἔσῃ, πληθυνῶ, γνώσομαι -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">3759</feat><!-- εἶπεν, ἦν, ἐγένετο, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν, ἔλαβεν -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">3760</feat><!-- εἶπεν, ἦν, ἐγένετο, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν, ἔλαβεν -->
     <feat name="Tense" value="Pqp" upos="VERB">17</feat><!-- ᾔδει, παρειστήκει, ᾔδειν, εἱστήκει, εἱστήκεισαν, ἀπῆκτο, ἐπεστήρικτο, ᾔδειμεν, ᾔδεις, ᾔδεισαν -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">1052</feat><!-- ἐστιν, λέγων, ἔστιν, εἰμι, εἶ, λέγοντες, ἐστὶν, λέγουσα, εἰσιν, εἶναι -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">4568</feat><!-- εἶπεν, ἦν, ἐγένετο, ἐστιν, ἐκάλεσεν, ἔσται, ἐγέννησεν, ἔτεκεν, εἶδεν, ἐποίησεν -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">1053</feat><!-- ἐστιν, λέγων, ἔστιν, εἰμι, εἶ, λέγοντες, ἐστὶν, λέγουσα, εἰσιν, εἶναι -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">4888</feat><!-- εἶπεν, ἐγένετο, ἦν, ἐστιν, ἐκάλεσεν, ἔσται, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν -->
     <feat name="VerbForm" value="Inf" upos="AUX,VERB">311</feat><!-- γεννῆσαι, ἐλθεῖν, εἶναι, ἰδεῖν, φαγεῖν, ἀποθανεῖν, δοῦναι, κοιμηθῆναι, λαβεῖν, τίκτειν -->
     <feat name="VerbForm" value="Part" upos="AUX,VERB">632</feat><!-- λέγων, λέγοντες, ἀναστὰς, λέγουσα, ἀποκριθεὶς, ὑπάρχοντα, ἰδὼν, συλλαβοῦσα, ἀναβλέψας, λαβὼν -->
-    <feat name="Voice" value="Act" upos="AUX,VERB">4509</feat><!-- εἶπεν, ἦν, ἐστιν, ἐκάλεσεν, ἐγέννησεν, λέγων, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">4510</feat><!-- εἶπεν, ἦν, ἐστιν, ἐκάλεσεν, ἐγέννησεν, λέγων, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν -->
     <feat name="Voice" value="Mid" upos="AUX,VERB">639</feat><!-- ἐγένετο, ἔσται, ἐγένοντο, ἐνετείλατο, λήμψῃ, ἔσονται, ἔθετο, ἔσῃ, ἐκτήσατο, γνώσομαι -->
     <feat name="Voice" value="Mid,Pass" upos="VERB">275</feat><!-- πληθύνεσθε, φοβοῦ, αὐξάνεσθε, ἐκάθητο, κινούμενον, πορεύομαι, ἐγίνετο, ἐδύναντο, ἔρχεται, γίνεσθαι -->
     <feat name="Voice" value="Pass" upos="VERB">430</feat><!-- ἐπορεύθη, ἐγενήθη, ἀποκριθεὶς, ἐκοιμήθη, ὤφθη, ἐπορεύθησαν, πορευθεὶς, ἀπηγγέλη, ἐμνήσθη, ἐφοβήθη -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="36">
+  <deps unique="40">
     <dep name="acl">2</dep>
-    <dep name="acl:relcl">510</dep>
-    <dep name="advcl">819</dep>
-    <dep name="advmod">944</dep>
+    <dep name="acl:relcl">511</dep>
+    <dep name="advcl">772</dep>
+    <dep name="advcl:relcl">48</dep>
+    <dep name="advmod">945</dep>
     <dep name="amod">548</dep>
-    <dep name="appos">547</dep>
+    <dep name="appos">546</dep>
     <dep name="aux">21</dep>
     <dep name="case">2705</dep>
-    <dep name="cc">4220</dep>
+    <dep name="cc">4196</dep>
+    <dep name="cc:preconj">25</dep>
     <dep name="ccomp">755</dep>
     <dep name="compound">2</dep>
     <dep name="conj">3012</dep>
-    <dep name="cop">473</dep>
+    <dep name="cop">472</dep>
     <dep name="csubj">18</dep>
     <dep name="csubj:pass">3</dep>
-    <dep name="det">5049</dep>
+    <dep name="det">5052</dep>
     <dep name="discourse">121</dep>
-    <dep name="dislocated">102</dep>
+    <dep name="dislocated">100</dep>
     <dep name="fixed">7</dep>
     <dep name="flat:name">3</dep>
     <dep name="iobj">916</dep>
     <dep name="mark">546</dep>
-    <dep name="nmod">3117</dep>
-    <dep name="nsubj">2563</dep>
+    <dep name="nmod">266</dep>
+    <dep name="nmod:poss">2855</dep>
+    <dep name="nsubj">2558</dep>
     <dep name="nsubj:outer">13</dep>
     <dep name="nsubj:pass">201</dep>
     <dep name="nummod">323</dep>
-    <dep name="obj">2073</dep>
-    <dep name="obl">2549</dep>
+    <dep name="obj">2069</dep>
+    <dep name="obl">2350</dep>
     <dep name="obl:arg">2</dep>
-    <dep name="orphan">47</dep>
-    <dep name="parataxis">430</dep>
+    <dep name="obl:tmod">204</dep>
+    <dep name="orphan">45</dep>
+    <dep name="parataxis">429</dep>
     <dep name="punct">4873</dep>
     <dep name="root">1576</dep>
     <dep name="vocative">64</dep>
