@@ -207,6 +207,8 @@ class LexiconParser(HTMLParser):
             for head in heads:
                 for ref in self.cur_ref or ['(no_id)']:
                     for p in self.cur_parse or ['###NO PARSE###']:
+                        if self.cur_page.endswith('/aut.html#auths'):
+                            p = p.replace('Acc', 'Gen')
                         upos, feats = process_parse(p)
                         if self.cur_root == 'εἰμί':
                             upos = 'AUX'

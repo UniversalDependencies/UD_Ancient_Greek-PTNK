@@ -17,3 +17,8 @@ temp/%.words.txt: temp/%.hbo.conllu temp/%.grc.conllu
 
 temp/%.align.txt: temp/%.words.txt
 	eflomal-align -i $< -m 2 -f $@ --overwrite
+
+export:
+	mkdir -p temp
+	./export.py
+	./fixpunct.sh
