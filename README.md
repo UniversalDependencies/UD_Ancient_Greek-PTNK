@@ -54,6 +54,8 @@ Thank you to John Barach for granting permission to use his morphological annota
 * 2025-05-15 v2.16
   * Add FEATs `ExtPos` and `NumType` and some more values to `PronType`
   * Add subrelations `advcl:relcl`, `cc:preconj`, `nmod:poss`, and `obl:tmod`
+* 2025-11-15 v2.17
+  * Add MISC `Ref`
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================

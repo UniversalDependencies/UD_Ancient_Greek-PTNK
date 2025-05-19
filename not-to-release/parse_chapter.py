@@ -12,6 +12,11 @@ with open('lexicon.tsv') as fin:
             continue
         MORPH[ls[0]] = ls[1:]
 
+book_abbrev = {
+    'genesis': 'GEN',
+    'ruth': 'RUTH',
+}
+
 class ChapterParser(HTMLParser):
     in_article = False
     chapter = None
@@ -56,6 +61,14 @@ class ChapterParser(HTMLParser):
             self.in_article = False
         if tag in ['sup', 'h4']:
             self.in_skip_element = False
+    def get_ref(self):
+        bk = self.chapter.split('/')[-1]
+        ch = ''
+        while bk[-1].isdigit():
+            ch = bk[-1] + ch
+            bk = bk[:-1]
+        v = self.verse.strip('v')
+        return book_abbrev.get(bk, bk) + '_' + ch.lstrip('0') + '.' + v.lstrip('0')
     def write_tree(self):
         print(f'# sent_id = {self.chapter.replace("KOINE/","")}_{self.verse}')
         for i, (link, gloss, surf) in enumerate(self.sentence):
@@ -75,6 +88,7 @@ class ChapterParser(HTMLParser):
             misc = []
             if gloss:
                 misc.append('Gloss=' + gloss.replace(', ', ',').replace(' ', '-'))
+            misc.append('Ref=' + self.get_ref())
             if i+1 < len(self.sentence) and not self.sentence[i+1][0]:
                 misc.append('SpaceAfter=No')
             ln[9] = '|'.join(misc) or '_'
