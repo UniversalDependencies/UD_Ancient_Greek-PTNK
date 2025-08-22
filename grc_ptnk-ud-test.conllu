@@ -7320,7 +7320,7 @@
 12	,	,	PUNCT	_	_	13	punct	_	Ref=GEN_26.29
 13	καὶ	καί	CCONJ	_	_	16	cc	_	Gloss=and,also,even,then,next|Ref=GEN_26.29
 14	ὃν	ὅς	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	16	obj	_	Gloss=who,which,that|Ref=GEN_26.29
-15	τρόπον	τρόπος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	obj	_	Gloss=manner,way|Ref=GEN_26.29
+15	τρόπον	τρόπος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	obl	_	Gloss=manner,way|Ref=GEN_26.29
 16	ἐχρησάμεθά	χράω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	11	conj	_	Gloss=to-abuse,exploit|Ref=GEN_26.29
 17	σοί	σός	PRON	_	Case=Dat|Number=Sing|Person=2|Poss=Yes|PronType=Prs	16	iobj	_	Gloss=you|Ref=GEN_26.29
 18	καλῶς	καλῶς	ADV	_	_	16	advmod	_	Gloss=good,well|Ref=GEN_26.29
@@ -9890,7 +9890,7 @@
 12	,	,	PUNCT	_	_	9	punct	_	Ref=GEN_29.15
 13	οὐ	οὐ	ADV	_	Polarity=Neg	14	advmod	_	Gloss=no,not|Ref=GEN_29.15
 14	δουλεύσεις	δουλεύω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	Gloss=to-serve|Ref=GEN_29.15
-15	μοι	ἐγώ	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	14	obj	_	Gloss=me|Ref=GEN_29.15
+15	μοι	ἐγώ	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	14	iobj	_	Gloss=me|Ref=GEN_29.15
 16	δωρεάν	δωρεάν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	Gloss=without-cause,freely|Ref=GEN_29.15|SpaceAfter=No
 17	·	·	PUNCT	_	_	18	punct	_	Ref=GEN_29.15
 18	ἀπάγγειλόν	ἀπαγγέλλω	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	14	parataxis	_	Gloss=to-declare,report,tell|Ref=GEN_29.15

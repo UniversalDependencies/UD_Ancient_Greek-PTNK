@@ -4217,7 +4217,7 @@
 
 # sent_id = Septuagint-Genesis-6:16-grc
 # text = ἐπισυνάγων ποιήσεις τὴν κιβωτόν, καὶ εἰς πῆχυν συντελέσεις αὐτὴν ἄνωθεν· τὴν δὲ θύραν τῆς κιβωτοῦ ποιήσεις ἐκ πλαγίων· κατάγαια διώροφα καὶ τριώροφα ποιήσεις αὐτήν.
-1	ἐπισυνάγων	ἐπισυνάγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	obj	_	Gloss=to-assemble,collect|Ref=GEN_6.16
+1	ἐπισυνάγων	ἐπισυνάγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	Gloss=to-assemble,collect|Ref=GEN_6.16
 2	ποιήσεις	ποιέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-do,make|Ref=GEN_6.16
 3	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Gloss=the|Ref=GEN_6.16
 4	κιβωτόν	κιβωτός	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	Gloss=box,ark|Ref=GEN_6.16|SpaceAfter=No
@@ -4446,7 +4446,7 @@
 4	πάντα	πᾶς	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	Gloss=all,every|Ref=GEN_6.22
 5	ὅσα	ὅσος	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Plur	6	obj	_	Gloss=all-who;-as-great-as|Ref=GEN_6.22
 6	ἐνετείλατο	ἐντέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	4	acl:relcl	_	Gloss=to-command,order|Ref=GEN_6.22
-7	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	6	obj	_	Gloss=he,she,it,-self,same|Ref=GEN_6.22
+7	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	6	iobj	_	Gloss=he,she,it,-self,same|Ref=GEN_6.22
 8	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Gloss=lord|Ref=GEN_6.22
 9	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Gloss=the;-oh|Ref=GEN_6.22
 10	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	Gloss=god|Ref=GEN_6.22|SpaceAfter=No
