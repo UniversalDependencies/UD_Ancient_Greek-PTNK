@@ -1315,7 +1315,7 @@
 5	ἀδελφοῖς	ἀδελφός	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	1	iobj	_	Gloss=brothers|Ref=GEN_31.46
 6	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	5	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_31.46|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Ref=GEN_31.46
-8	συλλέγετε	συλλέγω	VERB	_	Aspect=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	Gloss=to-collect,gather|Ref=GEN_31.46|Unknown=Ind/Imperative
+8	συλλέγετε	συλλέγω	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	Gloss=to-collect,gather|Ref=GEN_31.46|Unknown=Ind/Imperative
 9	λίθους	λίθος	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	Gloss=stones|Ref=GEN_31.46|SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	Ref=GEN_31.46
 11	καὶ	καί	CCONJ	_	_	12	cc	_	Gloss=and,also,even,then,next|Ref=GEN_31.46
@@ -3200,7 +3200,7 @@
 13	·	·	PUNCT	_	_	14	punct	_	Ref=GEN_34.10
 14	κατοικεῖτε	κατοικέω	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	Gloss=to-dwell|Ref=GEN_34.10
 15	καὶ	καί	CCONJ	_	_	16	cc	_	Gloss=and,also,even,then,next|Ref=GEN_34.10
-16	ἐμπορεύεσθε	ἐμπορεύομαι	VERB	_	Aspect=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	14	conj	_	Gloss=to-buy-and-sell|Ref=GEN_34.10|Unknown=Ind/Imperative
+16	ἐμπορεύεσθε	ἐμπορεύομαι	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	14	conj	_	Gloss=to-buy-and-sell|Ref=GEN_34.10|Unknown=Ind/Imperative
 17	ἐπ᾿	ἐπί	ADP	_	_	18	case	_	Gloss=upon,against|Ref=GEN_34.10
 18	αὐτῆς	αὐτός	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Prs	16	obl	_	Gloss=she,-self,same|Ref=GEN_34.10
 19	καὶ	καί	CCONJ	_	_	20	cc	_	Gloss=and,also,even,then,next|Ref=GEN_34.10
@@ -9393,7 +9393,7 @@
 7	ταῦτα	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	1	obl	_	Gloss=these-things|Ref=GEN_41.30|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Ref=GEN_41.30
 9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next|Ref=GEN_41.30
-10	ἐπιλήσονται	ἐπιλανθάνω	VERB	_	Aspect=Imp|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	1	conj	_	Gloss=to-forget|Ref=GEN_41.30
+10	ἐπιλήσονται	ἐπιλανθάνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	1	conj	_	Gloss=to-forget|Ref=GEN_41.30
 11	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Gloss=the|Ref=GEN_41.30
 12	πλησμονῆς	πλησμονή	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	obl	_	Gloss=a-filling|Ref=GEN_41.30
 13	ἐν	ἐν	ADP	_	_	15	case	_	Gloss=in,on,by,with,to|Ref=GEN_41.30
@@ -10048,7 +10048,7 @@
 21	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Art	22	det	_	Gloss=the|Ref=GEN_41.55
 22	Αἰγυπτίοις	Αἰγύπτιος	PROPN	_	Case=Dat|Gender=Masc|Number=Plur	17	iobj	_	Gloss=Egyptian|Ref=GEN_41.55|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	Ref=GEN_41.55
-24	Πορεύεσθε	πορεύομαι	VERB	_	Aspect=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	17	ccomp	_	Gloss=to-proceed,go,depart|Ref=GEN_41.55|Unknown=Ind/Imperative
+24	Πορεύεσθε	πορεύομαι	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	17	ccomp	_	Gloss=to-proceed,go,depart|Ref=GEN_41.55|Unknown=Ind/Imperative
 25	πρὸς	πρός	ADP	_	_	26	case	_	Gloss=+D=at;-+A=to,toward|Ref=GEN_41.55
 26	Ἰωσήφ	Ἰωσήφ	PROPN	_	Gender=Masc|Number=Sing	24	obl	_	Gloss=Joseph|Ref=GEN_41.55|SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	Ref=GEN_41.55
@@ -10996,7 +10996,7 @@
 30	καὶ	καί	CCONJ	_	_	33	cc	_	Gloss=and,also,even,then,next|Ref=GEN_42.34
 31	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	Gloss=the|Ref=GEN_42.34
 32	γῇ	γῆ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	33	obl	_	Gloss=earth,ground,land|Ref=GEN_42.34
-33	ἐμπορεύεσθε	ἐμπορεύομαι	VERB	_	Aspect=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	2	conj	_	Gloss=to-buy-and-sell|Ref=GEN_42.34|SpaceAfter=No|Unknown=Ind/Imperative
+33	ἐμπορεύεσθε	ἐμπορεύομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	Gloss=to-buy-and-sell|Ref=GEN_42.34|SpaceAfter=No|Unknown=Ind/Imperative
 34	.	.	PUNCT	_	_	33	punct	_	Ref=GEN_42.34
 
 # sent_id = Septuagint-Genesis-42:35-grc
@@ -18040,7 +18040,7 @@
 33	ἀγρὸν	ἀγρός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	31	obl	_	Gloss=field,farm|Ref=RUTH_1.2
 34	Μωὰβ	Μωάβ	PROPN	_	Number=Sing	33	nmod	_	Gloss=Moab|Ref=RUTH_1.2|Unknown=###no,parse###
 35	καὶ	καί	CCONJ	_	_	37	cc	_	Gloss=and,also,even,then,next|Ref=RUTH_1.2
-36	ἦσαν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	37	cop	_	Gloss=to-be|Ref=RUTH_1.2
+36	ἦσαν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	37	cop	_	Gloss=to-be|Ref=RUTH_1.2
 37	ἐκεῖ	ἐκεῖ	ADV	_	_	5	conj	_	Gloss=there|Ref=RUTH_1.2|SpaceAfter=No
 38	.	.	PUNCT	_	_	37	punct	_	Ref=RUTH_1.2
 
@@ -18160,7 +18160,7 @@
 5	τόπου	τόπος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	Gloss=place|Ref=RUTH_1.7|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	Ref=RUTH_1.7
 7	οὗ	ὅς	PRON	_	PronType=Rel	9	dislocated	_	Gloss=where;-who,which,that|Ref=RUTH_1.7
-8	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	9	cop	_	Gloss=to-be|Ref=RUTH_1.7
+8	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	Gloss=to-be|Ref=RUTH_1.7
 9	ἐκεῖ	ἐκεῖ	ADV	_	_	5	advcl	_	Gloss=there|Ref=RUTH_1.7|SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	Ref=RUTH_1.7
 11	καὶ	καί	CCONJ	_	_	17	cc	_	Gloss=and,also,even,then,next|Ref=RUTH_1.7
@@ -18286,7 +18286,7 @@
 23	κοιλίᾳ	κοιλία	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	13	parataxis	_	Gloss=belly|Ref=RUTH_1.11
 24	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	23	nmod:poss	_	Gloss=me,my|Ref=RUTH_1.11
 25	καὶ	καί	CCONJ	_	_	29	cc	_	Gloss=and,also,even,then,next|Ref=RUTH_1.11
-26	ἔσονται	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Mid	29	cop	_	Gloss=to-be|Ref=RUTH_1.11
+26	ἔσονται	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	29	cop	_	Gloss=to-be|Ref=RUTH_1.11
 27	ὑμῖν	ὑμεῖς	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	29	iobj	_	Gloss=you|Ref=RUTH_1.11
 28	εἰς	εἰς	ADP	_	_	29	case	_	Gloss=into,unto,for|Ref=RUTH_1.11
 29	ἄνδρας	ἀνήρ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	23	conj	_	Gloss=men|Ref=RUTH_1.11|SpaceAfter=No
@@ -18310,7 +18310,7 @@
 14	ὅτι	ὅτι	SCONJ	_	_	15	mark	_	Gloss=because,that-for|Ref=RUTH_1.12
 15	εἶπα	λέγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	Gloss=to-speak,say|Ref=RUTH_1.12
 16	ὅτι	ὅτι	SCONJ	_	_	18	mark	_	Gloss=because,that-for|Ref=RUTH_1.12
-17	ἔστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	18	cop	_	Gloss=to-be|Ref=RUTH_1.12
+17	ἔστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	Gloss=to-be|Ref=RUTH_1.12
 18	μοι	ἐγώ	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	15	ccomp	_	Gloss=me|Ref=RUTH_1.12
 19	ὑπόστασις	ὑπόστασις	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	Gloss=assurance,foundation|Ref=RUTH_1.12
 20	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	21	det	_	Gloss=the|Outer=Yes|Ref=RUTH_1.12
@@ -18541,7 +18541,7 @@
 19	εἶπον	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-say|Ref=RUTH_1.19|SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	Ref=RUTH_1.19
 21	αὕτη	οὗτος	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	23	nsubj	_	Gloss=this|Ref=RUTH_1.19
-22	ἐστὶν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	23	cop	_	Gloss=to-be|Ref=RUTH_1.19
+22	ἐστὶν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	cop	_	Gloss=to-be|Ref=RUTH_1.19
 23	Νωεμίν	Νωεμίν	PROPN	_	Gender=Fem|Number=Sing	19	ccomp	_	Gloss=Naomi|Ref=RUTH_1.19|SpaceAfter=No
 24	;	;	PUNCT	_	_	23	punct	_	Ref=RUTH_1.19
 
@@ -18784,7 +18784,7 @@
 14	παῖς	παῖς	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	11	ccomp	_	Gloss=child,servant|Ref=RUTH_2.6
 15	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	Gloss=the|Ref=RUTH_2.6
 16	Μωαβῖτὶς	Μωαβῖτις	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	14	amod	_	Gloss=Moabite-woman|Ref=RUTH_2.6
-17	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	14	cop	_	Gloss=to-be|Ref=RUTH_2.6
+17	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	Gloss=to-be|Ref=RUTH_2.6
 18	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	nsubj:pass	_	Gloss=the|Ref=RUTH_2.6
 19	ἀποστραφεῖσα	ἀποστρέφω	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl:relcl	_	Gloss=to-return|Ref=RUTH_2.6
 20	μετὰ	μετά	ADP	_	_	21	case	_	Gloss=+G=with;-+A=after|Ref=RUTH_2.6
@@ -18937,7 +18937,7 @@
 26	;	;	PUNCT	_	_	30	punct	_	Ref=RUTH_2.10
 27	καὶ	καί	CCONJ	_	_	30	cc	_	Gloss=and,also,even,then,next|Ref=RUTH_2.10
 28	ἐγώ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	Gloss=I|Ref=RUTH_2.10
-29	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	30	cop	_	Gloss=to-be|Ref=RUTH_2.10
+29	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	30	cop	_	Gloss=to-be|Ref=RUTH_2.10
 30	ξένη	ξένος	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	18	conj	_	Gloss=strange,foreign;-stranger,foreigner|Ref=RUTH_2.10|SpaceAfter=No
 31	.	.	PUNCT	_	_	30	punct	_	Ref=RUTH_2.10
 
@@ -19050,7 +19050,7 @@
 25	καὶ	καί	CCONJ	_	_	30	cc	_	Gloss=and,also,even,then,next|Ref=RUTH_2.13
 26	ἰδοὺ	ἰδού	INTJ	_	_	30	discourse	_	Gloss=look!,behold!|Ref=RUTH_2.13|Unknown=particle,
 27	ἐγὼ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	Gloss=I|Ref=RUTH_2.13
-28	ἔσομαι	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	30	cop	_	Gloss=to-be|Ref=RUTH_2.13
+28	ἔσομαι	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	30	cop	_	Gloss=to-be|Ref=RUTH_2.13
 29	ὡς	ὡς	ADP	_	_	30	case	_	Gloss=as|Ref=RUTH_2.13|Unknown=preposition/conjunction
 30	μία	εἷς	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	Gloss=one|Ref=RUTH_2.13
 31	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	32	det	_	Gloss=the|Ref=RUTH_2.13
@@ -19229,7 +19229,7 @@
 12	ποῦ	ποῦ	ADV	_	_	13	advmod	_	Gloss=where?|Ref=RUTH_2.19
 13	ἐποίησας	ποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	Gloss=to-do,make|Ref=RUTH_2.19|SpaceAfter=No
 14	;	;	PUNCT	_	_	19	punct	_	Ref=RUTH_2.19
-15	εἴη	εἰμί	AUX	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	19	cop	_	Gloss=to-be|Ref=RUTH_2.19
+15	εἴη	εἰμί	AUX	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	Gloss=to-be|Ref=RUTH_2.19
 16	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	19	nsubj	_	Gloss=the;-oh|Ref=RUTH_2.19
 17	ἐπιγνούς	ἐπιγινώσκω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	16	acl:relcl	_	Gloss=to-recognize,notice|Ref=RUTH_2.19
 18	σὲ	σέ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	17	obj	_	Gloss=you|Ref=RUTH_2.19
@@ -19270,7 +19270,7 @@
 6	αὐτῆς	αὐτός	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Prs	5	nmod:poss	_	Gloss=she,-self,same|Ref=RUTH_2.20|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Ref=RUTH_2.20
 8	εὐλογητός	εὐλογητός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	ccomp	_	Gloss=blessed|Ref=RUTH_2.20
-9	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	cop	_	Gloss=to-be|Ref=RUTH_2.20
+9	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	Gloss=to-be|Ref=RUTH_2.20
 10	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	11	det	_	Gloss=the|Ref=RUTH_2.20
 11	κυρίῳ	κύριος	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	Gloss=lord|Ref=RUTH_2.20|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	Ref=RUTH_2.20
@@ -19302,7 +19302,7 @@
 38	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	32	parataxis	_	Gloss=the|Ref=RUTH_2.20
 39	ἀγχιστευόντων	ἀγχιστεύω	VERB	_	Case=Gen|Gender=Masc,Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	38	acl:relcl	_	Gloss=to-be-near,next|Ref=RUTH_2.20
 40	ἡμᾶς	ἡμεῖς	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	39	obj	_	Gloss=us|Ref=RUTH_2.20
-41	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	38	cop	_	Gloss=to-be|Ref=RUTH_2.20|SpaceAfter=No
+41	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	38	cop	_	Gloss=to-be|Ref=RUTH_2.20|SpaceAfter=No
 42	.	.	PUNCT	_	_	41	punct	_	Ref=RUTH_2.20
 
 # sent_id = Septuagint-Ruth-2:21-grc
@@ -19431,7 +19431,7 @@
 6	ἡμῶν	ἡμεῖς	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	nmod	_	Gloss=us,our|Ref=RUTH_3.2|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	Ref=RUTH_3.2
 8	οὗ	ὅς	PRON	_	PronType=Rel	9	obl	_	Gloss=where;-who,which,that|Ref=RUTH_3.2
-9	ἦς	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|Voice=Act	5	advcl	_	Gloss=to-be|Ref=RUTH_3.2
+9	ἦς	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	Gloss=to-be|Ref=RUTH_3.2
 10	μετὰ	μετά	ADP	_	_	12	case	_	Gloss=+G=with;-+A=after|Ref=RUTH_3.2
 11	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	12	det	_	Gloss=the|Ref=RUTH_3.2
 12	κορασίων	κοράσιον	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	9	obl	_	Gloss=girl|Ref=RUTH_3.2
@@ -19485,7 +19485,7 @@
 # sent_id = Septuagint-Ruth-3:4-grc
 # text = καὶ ἔσται ἐν τῷ κοιμηθῆναι αὐτόν, καὶ γνώσῃ τὸν τόπον, ὅπου κοιμᾶται ἐκεῖ, καὶ ἐλεύσῃ καὶ ἀποκαλύψεις τὰ πρὸς ποδῶν αὐτοῦ καὶ κοιμηθήσῃ, καὶ αὐτὸς ἀπαγγελεῖ σοί ἃ ποιήσεις.
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=RUTH_3.4
-2	ἔσται	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Mid	0	root	_	Gloss=to-be|Ref=RUTH_3.4
+2	ἔσται	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-be|Ref=RUTH_3.4
 3	ἐν	ἐν	ADP	_	_	5	case	_	Gloss=in,on,by,with,to|Outer=Yes|Ref=RUTH_3.4
 4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	5	det	_	Gloss=the|Outer=Yes|Ref=RUTH_3.4
 5	κοιμηθῆναι	κοιμάω	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	2	obl	_	Gloss=to-go-to-bed,lie-down,fall-asleep|Ref=RUTH_3.4
@@ -19620,7 +19620,7 @@
 2	δέ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Ref=RUTH_3.9|SpaceAfter=No|Unknown=postpositive
 3	,	,	PUNCT	_	_	6	punct	_	Ref=RUTH_3.9
 4	τίς	τίς	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Int	6	nsubj	_	Gloss=who?,what?-why?;-+enclitic=someone,something|Ref=RUTH_3.9
-5	εἶ	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	6	cop	_	Gloss=to-be|Ref=RUTH_3.9
+5	εἶ	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Gloss=to-be|Ref=RUTH_3.9
 6	σύ	σύ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	ccomp	_	Gloss=you|Ref=RUTH_3.9|SpaceAfter=No
 7	;	;	PUNCT	_	_	6	punct	_	Ref=RUTH_3.9
 8	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nsubj	_	Gloss=the|Ref=RUTH_3.9
@@ -19628,7 +19628,7 @@
 10	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-say|Ref=RUTH_3.9|SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	Ref=RUTH_3.9
 12	ἐγώ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	Gloss=I|Ref=RUTH_3.9
-13	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	14	cop	_	Gloss=to-be|Ref=RUTH_3.9
+13	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	Gloss=to-be|Ref=RUTH_3.9
 14	Ῥοὺθ	Ῥούθ	PROPN	_	Gender=Fem|Number=Sing	10	ccomp	_	Gloss=Ruth|Ref=RUTH_3.9
 15	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	Gloss=the|Ref=RUTH_3.9
 16	δούλη	δούλη	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	appos	_	Gloss=maid|Ref=RUTH_3.9
@@ -19646,7 +19646,7 @@
 28	,	,	PUNCT	_	_	30	punct	_	Ref=RUTH_3.9
 29	ὅτι	ὅτι	SCONJ	_	_	30	mark	_	Gloss=because,that-for|Ref=RUTH_3.9
 30	ἀγχιστεὺς	ἀγχιστεύς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	advcl	_	Gloss=close-kin|Ref=RUTH_3.9
-31	εἶ	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	30	cop	_	Gloss=to-be|Ref=RUTH_3.9
+31	εἶ	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	30	cop	_	Gloss=to-be|Ref=RUTH_3.9
 32	σύ	σύ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	30	nsubj	_	Gloss=you|Ref=RUTH_3.9|SpaceAfter=No
 33	.	.	PUNCT	_	_	32	punct	_	Ref=RUTH_3.9
 
@@ -19716,7 +19716,7 @@
 24	ὅτι	ὅτι	SCONJ	_	_	25	mark	_	Gloss=because,that-for|Ref=RUTH_3.11
 25	γυνὴ	γυνή	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	18	ccomp	_	Gloss=woman,wife|Ref=RUTH_3.11
 26	δυνάμεως	δύναμις	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	25	nmod:poss	_	Gloss=ability,power|Ref=RUTH_3.11
-27	εἶ	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	25	cop	_	Gloss=to-be|Ref=RUTH_3.11
+27	εἶ	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	25	cop	_	Gloss=to-be|Ref=RUTH_3.11
 28	σύ	σύ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	25	nsubj	_	Gloss=you|Ref=RUTH_3.11|SpaceAfter=No
 29	,	,	PUNCT	_	_	28	punct	_	Ref=RUTH_3.11
 
@@ -19727,11 +19727,11 @@
 3	ἀληθῶς	ἀληθῶς	ADV	_	_	4	advmod	_	Gloss=truly|Ref=RUTH_3.12
 4	ἀγχιστεὺς	ἀγχιστεύς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=close-kin|Ref=RUTH_3.12
 5	ἐγώ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|Ref=RUTH_3.12
-6	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	4	cop	_	Gloss=to-be|Ref=RUTH_3.12|SpaceAfter=No
+6	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Gloss=to-be|Ref=RUTH_3.12|SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	Ref=RUTH_3.12
 8	καὶ	καί	CCONJ	_	ExtPos=CCONJ	10	cc	_	Gloss=and,also,even,then,next|Ref=RUTH_3.12
 9	γε	γέ	PART	_	_	8	fixed	_	Gloss=yet,doubtless,indeed,also|Ref=RUTH_3.12
-10	ἔστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	conj	_	Gloss=to-be|Ref=RUTH_3.12
+10	ἔστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	Gloss=to-be|Ref=RUTH_3.12
 11	ἀγχιστεὺς	ἀγχιστεύς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Gloss=close-kin|Ref=RUTH_3.12
 12	ἐγγίων	ἐγγίων	ADJ	_	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	11	amod	_	Gloss=nearer|Ref=RUTH_3.12
 13	ὑπὲρ	ὑπέρ	ADP	_	_	14	case	_	Gloss=+-GEN-=-in-behalf-of,instead-of;-+-ACC-=-over,above,beyond|Ref=RUTH_3.12
@@ -19745,7 +19745,7 @@
 3	νύκτα	νύξ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obl:tmod	_	Gloss=night|Ref=RUTH_3.13|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	Ref=RUTH_3.13
 5	καὶ	καί	CCONJ	_	_	6	cc	_	Gloss=and,also,even,then,next|Ref=RUTH_3.13
-6	ἔσται	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Mid	1	conj	_	Gloss=to-be|Ref=RUTH_3.13
+6	ἔσται	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	1	conj	_	Gloss=to-be|Ref=RUTH_3.13
 7	τὸ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	Gloss=the|Ref=RUTH_3.13
 8	πρωί	πρωΐ	ADV	_	_	6	nsubj	_	Gloss=morning|Ref=RUTH_3.13|SpaceAfter=No
 9	,	,	PUNCT	_	_	14	punct	_	Ref=RUTH_3.13
@@ -19859,7 +19859,7 @@
 11	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Gloss=to-say|Ref=RUTH_3.16|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Ref=RUTH_3.16
 13	τίς	τίς	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Int	11	ccomp	_	Gloss=who?,what?-why?;-+enclitic=someone,something|Ref=RUTH_3.16
-14	εἶ	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	13	cop	_	Gloss=to-be|Ref=RUTH_3.16|SpaceAfter=No
+14	εἶ	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	Gloss=to-be|Ref=RUTH_3.16|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Ref=RUTH_3.16
 16	θύγατερ	θυγάτηρ	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	13	vocative	_	Gloss=daughter|Ref=RUTH_3.16|SpaceAfter=No
 17	·	·	PUNCT	_	_	16	punct	_	Ref=RUTH_3.16
@@ -20012,7 +20012,7 @@
 10	ἀγροῦ	ἀγρός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod:poss	_	Gloss=field,farm|Ref=RUTH_4.3|SpaceAfter=No
 11	,	,	PUNCT	_	_	15	punct	_	Ref=RUTH_4.3
 12	ἥ	ὅς	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	Gloss=who,which,that;-+enclitic=the|Ref=RUTH_4.3
-13	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	cop	_	Gloss=to-be|Ref=RUTH_4.3
+13	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	Gloss=to-be|Ref=RUTH_4.3
 14	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	15	det	_	Gloss=the|Ref=RUTH_4.3
 15	ἀδελφοῦ	ἀδελφός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	acl:relcl	_	Gloss=brother|Ref=RUTH_4.3
 16	ἡμῶν	ἡμεῖς	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	15	nmod:poss	_	Gloss=us,our|Ref=RUTH_4.3
@@ -20071,7 +20071,7 @@
 37	·	·	PUNCT	_	_	40	punct	_	Ref=RUTH_4.4
 38	ὅτι	ὅτι	SCONJ	_	_	40	mark	_	Gloss=because,that-for|Ref=RUTH_4.4
 39	οὐκ	οὐ	ADV	_	Polarity=Neg	40	advmod	_	Gloss=no,not|Ref=RUTH_4.4
-40	ἔστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	36	advcl	_	Gloss=to-be|Ref=RUTH_4.4
+40	ἔστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	advcl	_	Gloss=to-be|Ref=RUTH_4.4
 41	πάρεξ	πάρεξ	ADP	_	_	42	case	_	Gloss=other-than|Ref=RUTH_4.4
 42	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	40	obl	_	Gloss=you,your|Ref=RUTH_4.4
 43	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	44	det	_	Gloss=the|Outer=Yes|Ref=RUTH_4.4
@@ -20080,7 +20080,7 @@
 46-47	κἀγώ	_	_	_	_	_	_	_	_
 46	καί	καί	CCONJ	_	_	50	cc	_	Gloss=and,even|Ref=RUTH_4.4
 47	ἐγώ	ἐγώ	PRON	_	Number=Sing|Person=1|PronType=Prs	50	nsubj	_	Gloss=I|Ref=RUTH_4.4
-48	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	50	cop	_	Gloss=to-be|Ref=RUTH_4.4
+48	εἰμι	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	50	cop	_	Gloss=to-be|Ref=RUTH_4.4
 49	μετὰ	μετά	ADP	_	_	50	case	_	Gloss=+G=with;-+A=after|Ref=RUTH_4.4
 50	σέ	σέ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	40	conj	_	Gloss=you|Ref=RUTH_4.4|SpaceAfter=No
 51	.	.	PUNCT	_	_	50	punct	_	Ref=RUTH_4.4
@@ -20089,7 +20089,7 @@
 54	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Gloss=to-say|Ref=RUTH_4.4|SpaceAfter=No
 55	,	,	PUNCT	_	_	58	punct	_	Ref=RUTH_4.4
 56	ἐγώ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	58	nsubj	_	Gloss=I|Ref=RUTH_4.4
-57	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	58	aux	_	Gloss=to-be|Ref=RUTH_4.4
+57	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	58	aux	_	Gloss=to-be|Ref=RUTH_4.4
 58	ἀγχιστεύσω	ἀγχιστεύω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	54	ccomp	_	Gloss=to-be-near-kin|Ref=RUTH_4.4|SpaceAfter=No
 59	.	.	PUNCT	_	_	58	punct	_	Ref=RUTH_4.4
 
@@ -20207,7 +20207,7 @@
 38	,	,	PUNCT	_	_	42	punct	_	Ref=RUTH_4.7
 39	καὶ	καί	CCONJ	_	_	42	cc	_	Gloss=and,also,even,then,next|Ref=RUTH_4.7
 40	τοῦτο	οὗτος	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Sing|PronType=Dem	42	nsubj	_	Gloss=this|Ref=RUTH_4.7
-41	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	42	cop	_	Gloss=to-be|Ref=RUTH_4.7
+41	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	42	cop	_	Gloss=to-be|Ref=RUTH_4.7
 42	μαρτύριον	μαρτύριον	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	4	conj	_	Gloss=to-witness|Ref=RUTH_4.7
 43	ἐν	ἐν	ADP	_	_	44	case	_	Gloss=in,on,by,with,to|Ref=RUTH_4.7
 44	Ἰσραήλ	Ἱσραήλ	PROPN	_	_	42	obl	_	Gloss=Israel|Ref=RUTH_4.7|SpaceAfter=No|Unknown=###no,parse###
@@ -20372,7 +20372,7 @@
 45	Ἐφραθᾶ	Ἐφραθά	PROPN	_	_	42	obl	_	Gloss=Ephrathah,Ephratah|Ref=RUTH_4.11|SpaceAfter=No|Unknown=###no,parse###
 46	,	,	PUNCT	_	_	51	punct	_	Ref=RUTH_4.11
 47	καὶ	καί	CCONJ	_	_	51	cc	_	Gloss=and,also,even,then,next|Ref=RUTH_4.11
-48	ἔσται	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Mid	51	cop	_	Gloss=to-be|Ref=RUTH_4.11
+48	ἔσται	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	51	cop	_	Gloss=to-be|Ref=RUTH_4.11
 49	ὄνομα	ὄνομα	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	51	nsubj	_	Gloss=name|Ref=RUTH_4.11
 50	ἐν	ἐν	ADP	_	_	51	case	_	Gloss=in,on,by,with,to|Ref=RUTH_4.11
 51	Βαιθλεέμ	Βαιθλεέμ	PROPN	_	_	18	conj	_	Gloss=Beth-Lehem|Ref=RUTH_4.11|SpaceAfter=No|Unknown=###no,parse###
@@ -20471,7 +20471,7 @@
 # sent_id = Septuagint-Ruth-4:15-grc
 # text = καὶ ἔσται σοί εἰς ἐπιστρέφοντα ψυχὴν καὶ τοῦ διαθρέψαι τὴν πολιάν σου, ὅτι ἡ νύμφη σου ἡ ἀγαπήσασά σὲ ἔτεκεν αὐτόν, ἥ ἐστιν ἀγαθή σοί ὑπὲρ ἑπτὰ υἱούς.
 1	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next|Ref=RUTH_4.15
-2	ἔσται	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Mid	5	cop	_	Gloss=to-be|Outer=Yes|Ref=RUTH_4.15
+2	ἔσται	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	5	cop	_	Gloss=to-be|Outer=Yes|Ref=RUTH_4.15
 3	σοί	σός	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	Gloss=you|Outer=Yes|Ref=RUTH_4.15
 4	εἰς	εἰς	ADP	_	_	5	case	_	Gloss=into,unto,for|Outer=Yes|Ref=RUTH_4.15
 5	ἐπιστρέφοντα	ἐπιστρέφω	VERB	_	Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	Gloss=to-return|Ref=RUTH_4.15
@@ -20494,7 +20494,7 @@
 22	αὐτόν	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	21	obj	_	Gloss=he,she,it,-self,same|Ref=RUTH_4.15|SpaceAfter=No
 23	,	,	PUNCT	_	_	26	punct	_	Ref=RUTH_4.15
 24	ἥ	ὅς	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	26	nsubj	_	Gloss=who,which,that;-+enclitic=the|Ref=RUTH_4.15
-25	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	26	cop	_	Gloss=to-be|Ref=RUTH_4.15
+25	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	cop	_	Gloss=to-be|Ref=RUTH_4.15
 26	ἀγαθή	ἀγαθός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	16	acl:relcl	_	Gloss=good|Ref=RUTH_4.15
 27	σοί	σός	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	26	iobj	_	Gloss=you|Ref=RUTH_4.15
 28	ὑπὲρ	ὑπέρ	ADP	_	_	30	case	_	Gloss=+-GEN-=-in-behalf-of,instead-of;-+-ACC-=-over,above,beyond|Ref=RUTH_4.15
