@@ -3719,7 +3719,7 @@
 28	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	obl	_	Gloss=earth,land|Ref=GEN_5.29|SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	Ref=GEN_5.29
 30	ἧς	ὅς	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	31	obl	_	Gloss=who,which,that|Ref=GEN_5.29
-31	κατηράσατο	καταράομαι	VERB	_	Aspect=Perf|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	28	acl:relcl	_	Gloss=curse|Ref=GEN_5.29|Unknown=Ind/Imperative
+31	κατηράσατο	καταράομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	28	acl:relcl	_	Gloss=curse|Ref=GEN_5.29|Unknown=Ind/Imperative
 32	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	Gloss=lord|Ref=GEN_5.29
 33	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	34	det	_	Gloss=the;-oh|Ref=GEN_5.29
 34	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	32	appos	_	Gloss=god|Ref=GEN_5.29|SpaceAfter=No
@@ -8624,7 +8624,7 @@
 # sent_id = Septuagint-Genesis-13:10-grc
 # text = καὶ ἐπάρας Λὼτ τοὺς ὀφθαλμοὺς αὐτοῦ εἶδεν πᾶσαν τὴν περίχωρον τοῦ Ἰορδάνου ὅτι πᾶσα ἦν ποτιζομένη— πρὸ τοῦ καταστρέψαι τὸν θεὸν Σόδομα καὶ Γόμορρα ὡς ὁ παράδεισος τοῦ θεοῦ καὶ ὡς ἡ γῆ Αἰγύπτου ἕως ἐλθεῖν εἰς Ζόγορα.
 1	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next|Ref=GEN_13.10
-2	ἐπάρας	ἐπαίρω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	Gloss=to-lift-up,exalt|Ref=GEN_13.10
+2	ἐπάρας	ἐπαίρω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	Gloss=to-lift-up,exalt|Ref=GEN_13.10
 3	Λὼτ	Λώτ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Lot|Ref=GEN_13.10
 4	τοὺς	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	Gloss=the|Ref=GEN_13.10
 5	ὀφθαλμοὺς	ὀφθαλμός	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	Gloss=eye|Ref=GEN_13.10
