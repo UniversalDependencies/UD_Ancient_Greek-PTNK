@@ -62,13 +62,13 @@ Thank you to John Barach for granting permission to use his morphological annota
 Data available since: UD v2.13
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: bible
 Genre: bible
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Parallel: Bible (Ref)
 Contributors: Swanson, Daniel
 Contributing: here
 Contact: awesomeevildudes@gmail.com
