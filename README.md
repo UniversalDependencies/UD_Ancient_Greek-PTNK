@@ -56,6 +56,7 @@ Thank you to John Barach for granting permission to use his morphological annota
   * Add subrelations `advcl:relcl`, `cc:preconj`, `nmod:poss`, and `obl:tmod`
 * 2025-11-15 v2.17
   * Add MISC `Ref`
+  * Add metadata `parallel_id`
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
