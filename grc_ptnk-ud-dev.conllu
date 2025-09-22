@@ -2865,7 +2865,7 @@
 10	καὶ	καί	CCONJ	_	_	13	cc	_	Gloss=and,also,even,then,next|Ref=GEN_4.14
 11	ἀπὸ	ἀπό	ADP	_	_	13	case	_	Gloss=from,away-from|Ref=GEN_4.14
 12	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	13	det	_	Gloss=the|Ref=GEN_4.14
-13	προσώπου	πρόσωπον	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	obl	_	Gloss=face|Ref=GEN_4.14
+13	προσώπου	πρόσωπον	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	conj	_	Gloss=face|Ref=GEN_4.14
 14	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	13	nmod:poss	_	Gloss=you,your|Ref=GEN_4.14
 15	κρυβήσομαι	κρύπτω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-hide|Ref=GEN_4.14|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Ref=GEN_4.14
@@ -3850,7 +3850,7 @@
 25	καὶ	καί	CCONJ	_	_	28	cc	_	Gloss=and,also,even,then,next|Ref=GEN_5.29
 26	ἀπὸ	ἀπό	ADP	_	_	28	case	_	Gloss=from,away-from|Ref=GEN_5.29
 27	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	Gloss=the|Ref=GEN_5.29
-28	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	obl	_	Gloss=earth,land|Ref=GEN_5.29|SpaceAfter=No
+28	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	conj	_	Gloss=earth,land|Ref=GEN_5.29|SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	Ref=GEN_5.29
 30	ἧς	ὅς	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	31	obl	_	Gloss=who,which,that|Ref=GEN_5.29
 31	κατηράσατο	καταράομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	28	acl:relcl	_	Gloss=curse|Ref=GEN_5.29|Unknown=Ind/Imperative
@@ -7318,10 +7318,10 @@
 19	ἐθνῶν	ἔθνος	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	17	nmod:poss	_	Gloss=Gentiles,nations|Ref=GEN_10.32
 20	ἐπὶ	ἐπί	ADP	_	_	22	case	_	Gloss=on,upon,against|Ref=GEN_10.32
 21	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	Gloss=the|Ref=GEN_10.32
-22	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	17	obl	_	Gloss=earth,land|Ref=GEN_10.32
+22	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	16	obl	_	Gloss=earth,land|Ref=GEN_10.32
 23	μετὰ	μετά	ADP	_	_	25	case	_	Gloss=+G=with;-+A=after|Ref=GEN_10.32
 24	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	Gloss=the|Ref=GEN_10.32
-25	κατακλυσμόν	κατακλυσμός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	17	obl	_	Gloss=flood|Ref=GEN_10.32|SpaceAfter=No
+25	κατακλυσμόν	κατακλυσμός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	obl	_	Gloss=flood|Ref=GEN_10.32|SpaceAfter=No
 26	.	.	PUNCT	_	_	25	punct	_	Ref=GEN_10.32
 
 # sent_id = Septuagint-Genesis-11:1-grc
@@ -7694,7 +7694,7 @@
 3	Σαλὰ	Σαλά	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Salah|Ref=GEN_11.14
 4	ἑκατὸν	ἑκατόν	NUM	_	NumType=Card	6	nummod	_	Gloss=100|Ref=GEN_11.14
 5	τριάκοντα	τριάκοντα	NUM	_	NumType=Card	4	conj	_	Gloss=30|Ref=GEN_11.14
-6	ἔτη	ἔτος	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Plur	3	obl	_	Gloss=years|Ref=GEN_11.14
+6	ἔτη	ἔτος	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Plur	2	obl	_	Gloss=years|Ref=GEN_11.14
 7	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next|Ref=GEN_11.14
 8	ἐγέννησεν	γεννάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-give-birth|Ref=GEN_11.14
 9	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Gloss=the|Ref=GEN_11.14

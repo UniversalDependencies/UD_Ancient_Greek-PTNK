@@ -5754,7 +5754,7 @@
 6	ἐρήμου	ἔρημος	NOUN	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Sing	3	obl	_	Gloss=wilderness|Ref=GEN_24.62
 7	κατὰ	κατά	ADP	_	_	9	case	_	Gloss=+G=down-from/upon;-+A=according-to,along|Ref=GEN_24.62
 8	τὸ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	Gloss=the|Ref=GEN_24.62
-9	φρέαρ	φρέαρ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	obl	_	Gloss=well,pit|Ref=GEN_24.62
+9	φρέαρ	φρέαρ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nmod	_	Gloss=well,pit|Ref=GEN_24.62
 10	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Gloss=the|Ref=GEN_24.62
 11	ὁράσεως	ὅρασις	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod:poss	_	Gloss=vision|Ref=GEN_24.62|SpaceAfter=No
 12	·	·	PUNCT	_	_	13	punct	_	Ref=GEN_24.62

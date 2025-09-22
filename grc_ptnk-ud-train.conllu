@@ -2371,7 +2371,7 @@
 23	θεοῦ	θεός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	21	obl	_	Gloss=god|Ref=GEN_32.28
 24	καὶ	καί	CCONJ	_	_	26	cc	_	Gloss=and,also,even,then,next|Ref=GEN_32.28
 25	μετὰ	μετά	ADP	_	_	26	case	_	Gloss=+G=with;-+A=after|Ref=GEN_32.28
-26	ἀνθρώπων	ἄνθρωπος	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	23	obl	_	Gloss=man|Ref=GEN_32.28
+26	ἀνθρώπων	ἄνθρωπος	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	23	conj	_	Gloss=man|Ref=GEN_32.28
 27	δυνατός	δυνατός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	21	parataxis	_	Gloss=powerful|Ref=GEN_32.28|SpaceAfter=No
 28	.	.	PUNCT	_	_	27	punct	_	Ref=GEN_32.28
 
