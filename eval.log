@@ -1,44 +1,7 @@
-Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
-Evaluating the following revision of UD_Ancient_Greek-PTNK:
-commit 0e2a9630012015463f41fc22f4bd90a9f9d7726a
-Merge: 5be5d91 5b644b2
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 39509 of 39509 words (nodes).
-Size: min(0, log((N/1000)**2)) = 7.35305698810981.
-Size: maximum value 13.815511 is for 1000000 words or more.
-Split: Found more than 10000 training words.
-Split: Found at least 10000 development words.
-Split: Found at least 10000 test words.
-Lemmas: source of annotation (from README) factor is 1.
-Universal POS tags: 15 out of 17 found in the corpus.
-Universal POS tags: source of annotation (from README) factor is 1.
-Features: 26186 out of 39509 total words have one or more features.
-Features: source of annotation (from README) factor is 1.
-Universal relations: 31 out of 37 found in the corpus.
-Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL         10
-Udapi: found 10 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 39509 words.
-Genres: found 1 out of 18 known.
-/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PTNK/grc_ptnk-ud-dev.conllu
-*** PASSED ***
-/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PTNK/grc_ptnk-ud-test.conllu
-*** PASSED ***
-/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-PTNK/grc_ptnk-ud-train.conllu
-*** PASSED ***
-Validity: 1
-(weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
-(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.532232012509373) = 0.136469746797275
-(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
-(weight=0.307692307692308) * (score{udapi}=0.997468931129616) = 0.306913517270651
-(weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
-(TOTAL score=0.785107341086121) * (availability=1) * (validity=1) = 0.785107341086121
-STARS = 4
-UD_Ancient_Greek-PTNK	0.785107341086121	4
+Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
+Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
+Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
+Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
+from which this script is invoked and which also holds the validator.
+$0 == tools/evaluate_treebank.pl
+The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
