@@ -54,19 +54,22 @@ Thank you to John Barach for granting permission to use his morphological annota
 * 2025-05-15 v2.16
   * Add FEATs `ExtPos` and `NumType` and some more values to `PronType`
   * Add subrelations `advcl:relcl`, `cc:preconj`, `nmod:poss`, and `obl:tmod`
+* 2025-11-15 v2.17
+  * Add MISC `Ref`
+  * Add metadata `parallel_id`
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.13
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: bible
 Genre: bible
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Parallel: Bible (Ref)
 Contributors: Swanson, Daniel
 Contributing: here
 Contact: awesomeevildudes@gmail.com
